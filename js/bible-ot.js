@@ -4552,7 +4552,7 @@ window.BIBLE_OT = [
     "verses": [
      {
       "verse": 1,
-      "text": "1-2-2 And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach."
+      "text": "And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach."
      },
      {
       "verse": 3,
@@ -11243,11 +11243,19 @@ window.BIBLE_OT = [
      },
      {
       "verse": 5,
-      "text": "And thou shalt place the golden altar, to burn incense before the ark; and thou shalt put a covering of a veil on the door of the tabernacle of witness. 6-8-8 And thou shalt put the altar of burnt - offerings by the doors of the tabernacle of witness, and thou shalt set up the tabernacle round about, and thou shalt hallow all that belongs to it round about."
+      "text": "And thou shalt place the golden altar, to burn incense before the ark; and thou shalt put a covering of a veil on the door of the tabernacle of witness."
+     },
+     {
+      "verse": "6-8",
+      "text": "And thou shalt put the altar of burnt - offerings by the doors of the tabernacle of witness, and thou shalt set up the tabernacle round about, and thou shalt hallow all that belongs to it round about."
      },
      {
       "verse": 9,
-      "text": "And thou shalt take the anointing oil, and shalt anoint the tabernacle, and all things in it; and shalt sanctify it, and all its furniture, and it shall be holy. 10-11-11 And thou shalt anoint the altar of burnt - offerings, and all its furniture; and thou shalt hallow the altar, and the altar shall be most holy."
+      "text": "And thou shalt take the anointing oil, and shalt anoint the tabernacle, and all things in it; and shalt sanctify it, and all its furniture, and it shall be holy."
+     },
+     {
+      "verse": "10-11",
+      "text": "And thou shalt anoint the altar of burnt - offerings, and all its furniture; and thou shalt hallow the altar, and the altar shall be most holy."
      },
      {
       "verse": 12,
@@ -11307,7 +11315,19 @@ window.BIBLE_OT = [
      },
      {
       "verse": 26,
-      "text": "And he put the golden altar in the tabernacle of witness before the veil; 27-28-28 and he burnt on it incense of composition, as the Lord commanded Moses. 29-30-30 And he put the altar of the burnt - offerings by the doors of the tabernacle. 31-33-33 And he set up the court round about the tabernacle and the altar; and Moses accomplished all the works."
+      "text": "And he put the golden altar in the tabernacle of witness before the veil;"
+     },
+     {
+      "verse": "27-28",
+      "text": "and he burnt on it incense of composition, as the Lord commanded Moses."
+     },
+     {
+      "verse": "29-30",
+      "text": "And he put the altar of the burnt - offerings by the doors of the tabernacle."
+     },
+     {
+      "verse": "31-33",
+      "text": "And he set up the court round about the tabernacle and the altar; and Moses accomplished all the works."
      },
      {
       "verse": 34,
@@ -11330,7 +11350,7 @@ window.BIBLE_OT = [
       "text": "For a cloud was on the tabernacle by day, and fire was on it by night before all Israel, in all their journeyings."
      }
     ],
-    "status": "review"
+    "status": "ok"
    }
   ]
  },
@@ -22028,7 +22048,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 12,
-      "text": "And these of them ye shall not eat; the eagle, and the ossifrage, and the sea-eagle, 13-14-14 and the vulture, and the kite and the like to it,"
+      "text": "And these of them ye shall not eat; the eagle, and the ossifrage, and the sea-eagle,"
+     },
+     {
+      "verse": "13-14",
+      "text": "and the vulture, and the kite and the like to it,"
      },
      {
       "verse": 15,
@@ -22091,7 +22115,7 @@ window.BIBLE_OT = [
       "text": "And the Levite shall come, because he has no part or lot with thee, and the stranger, and the orphan, and the widow which is in thy cities; and they shall eat and be filled, that the Lord thy God may bless thee in all the works which thou shalt do."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 15,
@@ -25037,7 +25061,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 11,
-      "text": "And all the men of war went up with him, and they went forward and came over against the city eastward. 12-13-13 And the ambuscade was on the west side of the city."
+      "text": "And all the men of war went up with him, and they went forward and came over against the city eastward."
+     },
+     {
+      "verse": "12-13",
+      "text": "And the ambuscade was on the west side of the city."
      },
      {
       "verse": 14,
@@ -25081,7 +25109,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 24,
-      "text": "And when the children of Israel had ceased slaying all that were in Gai, and in the fields, and in the mountain on the descent, from whence they pursued them even to the end, then Joshua returned to Gai, and smote it with the edge of the sword. 25-26-26 And they that fell in that day, men and women, were twelve thousand: they slew all the inhabitants of Gai."
+      "text": "And when the children of Israel had ceased slaying all that were in Gai, and in the fields, and in the mountain on the descent, from whence they pursued them even to the end, then Joshua returned to Gai, and smote it with the edge of the sword."
+     },
+     {
+      "verse": "25-26",
+      "text": "And they that fell in that day, men and women, were twelve thousand: they slew all the inhabitants of Gai."
      },
      {
       "verse": 27,
@@ -25120,7 +25152,7 @@ window.BIBLE_OT = [
       "text": "There was not a word of all that Moses charged Joshua, which Joshua read not in the ears of all the assembly of the children of Israel, the men, and the women, and the children, and the strangers that joined themselves to Israel."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 9,
@@ -25227,18 +25259,26 @@ window.BIBLE_OT = [
      },
      {
       "verse": 26,
-      "text": "And they did so to them; and Joshua rescued them in that day out of the hands of the children of Israel, and they did not slay them. 27-29-29 And Joshua made them in that day hewers of wood and drawers of water to the whole congregation, and for the altar of God: therefore the inhabitants of Gabaon became hewers of wood and drawers of water for the altar of God until this day, even for the place which the Lord should choose."
+      "text": "And they did so to them; and Joshua rescued them in that day out of the hands of the children of Israel, and they did not slay them."
+     },
+     {
+      "verse": "27-29",
+      "text": "And Joshua made them in that day hewers of wood and drawers of water to the whole congregation, and for the altar of God: therefore the inhabitants of Gabaon became hewers of wood and drawers of water for the altar of God until this day, even for the place which the Lord should choose."
      },
      {
       "verse": 30,
-      "text": "Then Joshua built an altar to the Lord God of Israel in mount Gebal, 31-32-32 as Moses the servant of the Lord commanded the children of Israel, as it was written in the law of Moses, an altar of unhewn stones, on which iron had not been lifted up: and he offered there whole-burntofferings to the Lord, and a piece offering. And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel."
+      "text": "Then Joshua built an altar to the Lord God of Israel in mount Gebal,"
+     },
+     {
+      "verse": "31-32",
+      "text": "as Moses the servant of the Lord commanded the children of Israel, as it was written in the law of Moses, an altar of unhewn stones, on which iron had not been lifted up: and he offered there whole-burntofferings to the Lord, and a piece offering. And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel."
      },
      {
       "verse": 33,
       "text": "And all Israel, and their elders, and their judges, and their scribes, passed on one side and on the other, before the ark; and the priests and the levites took up the ark of the covenant of the Lord; and the stranger and the native were there, who were half of them near mount Gebal, as Moses the servant of the Lord commanded at first, to bless the people."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 10,
@@ -25293,7 +25333,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 13,
-      "text": "And the sun and the moon stood still, until God executed vengeance on their enemies; and the sun stood still in the midst of heaven; it did not proceed to set till the end of one day. 14-15-15 And there was not such a day either before or after, so that God should hearken to a man, because the Lord fought on the side of Israel."
+      "text": "And the sun and the moon stood still, until God executed vengeance on their enemies; and the sun stood still in the midst of heaven; it did not proceed to set till the end of one day."
+     },
+     {
+      "verse": "14-15",
+      "text": "And there was not such a day either before or after, so that God should hearken to a man, because the Lord fought on the side of Israel."
      },
      {
       "verse": 16,
@@ -25404,7 +25448,7 @@ window.BIBLE_OT = [
       "text": "And Joshua smote, once for all, all their kings, and their land, because the Lord God of Israel fought on the side of Israel."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 11,
@@ -31224,7 +31268,7 @@ window.BIBLE_OT = [
     "verses": [
      {
       "verse": 1,
-      "text": "1-2-2 And Saul chooses for himself three thousand men of the men of Israel: and there were with Saul two thousand who were in Machmas, and in mount Baethel, and a thousand were with Jonathan in Gabaa of Benjamin: and he sent the rest of the people every man to his tent."
+      "text": "And Saul chooses for himself three thousand men of the men of Israel: and there were with Saul two thousand who were in Machmas, and in mount Baethel, and a thousand were with Jonathan in Gabaa of Benjamin: and he sent the rest of the people every man to his tent."
      },
      {
       "verse": 3,
@@ -36986,7 +37030,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 23,
-      "text": "and ten choice calves, and twenty pastured oxen, and a hundred sheep, besides stags, and choice fatted does. 24-28-28 For he had dominion on this side the river, and he was at peace on all sides round about."
+      "text": "and ten choice calves, and twenty pastured oxen, and a hundred sheep, besides stags, and choice fatted does."
+     },
+     {
+      "verse": "24-28",
+      "text": "For he had dominion on this side the river, and he was at peace on all sides round about."
      },
      {
       "verse": 29,
@@ -37013,7 +37061,7 @@ window.BIBLE_OT = [
       "text": "And all the nations came to hear the wisdom of Solomon, and ambassadors from all the kings of the earth, as many as heard of his wisdom. And Solomon took to himself the daughter of Pharao to wife, and brought her into the city of David until he had finished the house of the Lord, and his own house, and the wall of Jerusalem. Then went up Pharao the king of Egypt, and took Gazer, and burnt it and the Chananite dwelling in Mergab; and Pharao gave them as a dowry to his daughter the wife of Solomon: and Solomon rebuilt Gazer."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 5,
@@ -37130,7 +37178,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 9,
-      "text": "So he built the house and finished it; and he made the ceiling of the house with cedars. 10-14-14 And he made the partitions through all the house, each five cubits high, and enclosed each partition with cedar boards."
+      "text": "So he built the house and finished it; and he made the ceiling of the house with cedars."
+     },
+     {
+      "verse": "10-14",
+      "text": "And he made the partitions through all the house, each five cubits high, and enclosed each partition with cedar boards."
      },
      {
       "verse": 15,
@@ -37138,7 +37190,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 16,
-      "text": "And he built the twenty cubits from the top of the wall, one side from the floor to the beams, and he made it from the oracle to the most holy place. 17-18-18 And the temple was forty cubits in extent,"
+      "text": "And he built the twenty cubits from the top of the wall, one side from the floor to the beams, and he made it from the oracle to the most holy place."
+     },
+     {
+      "verse": "17-18",
+      "text": "And the temple was forty cubits in extent,"
      },
      {
       "verse": 19,
@@ -37146,7 +37202,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 20,
-      "text": "The length was twenty cubits, and the breadth was twenty cubits, and the height of it was twenty cubits. And he covered it with perfect gold, and he made an altar in front of the oracle, and covered it with gold. 21-22-22 And he covered the whole house with gold, till he had finished gilding the whole house."
+      "text": "The length was twenty cubits, and the breadth was twenty cubits, and the height of it was twenty cubits. And he covered it with perfect gold, and he made an altar in front of the oracle, and covered it with gold."
+     },
+     {
+      "verse": "21-22",
+      "text": "And he covered the whole house with gold, till he had finished gilding the whole house."
      },
      {
       "verse": 23,
@@ -37178,7 +37238,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 30,
-      "text": "And he covered the floor of the house within and without with gold. 31-33-33 And for the door - way of the oracle he made doors of juniper wood, there were porches in a four fold way."
+      "text": "And he covered the floor of the house within and without with gold."
+     },
+     {
+      "verse": "31-33",
+      "text": "And for the door - way of the oracle he made doors of juniper wood, there were porches in a four fold way."
      },
      {
       "verse": 34,
@@ -37193,14 +37257,14 @@ window.BIBLE_OT = [
       "text": "And he built the inner court, three rows of hewn stones, and a row of wrought cedar round about, and he made the curtain of the court of the porch of the house that was in front of the temple."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 7,
     "verses": [
      {
       "verse": 1,
-      "text": "1-12-12"
+      "text": ""
      },
      {
       "verse": 13,
@@ -37232,7 +37296,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 19,
-      "text": "And on the heads of the pillars he made lily - work against the porch, of four cubits, 20-22-22 and a chamber over both the pillars, and above the sides an addition equal to the chamber in width."
+      "text": "And on the heads of the pillars he made lily - work against the porch, of four cubits,"
+     },
+     {
+      "verse": "20-22",
+      "text": "and a chamber over both the pillars, and above the sides an addition equal to the chamber in width."
      },
      {
       "verse": 23,
@@ -37668,7 +37736,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 13,
-      "text": "What are these cities which thou hast given me, brother? And he called them Boundary until this day. 14-25-25 And Chiram brought to Solomon a hundred and twenty talents of gold,"
+      "text": "What are these cities which thou hast given me, brother? And he called them Boundary until this day."
+     },
+     {
+      "verse": "14-25",
+      "text": "And Chiram brought to Solomon a hundred and twenty talents of gold,"
      },
      {
       "verse": 26,
@@ -37683,7 +37755,7 @@ window.BIBLE_OT = [
       "text": "And they came to Sophira, and took thence a hundred and twenty talents of gold, and brought them to king Solomon."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 10,
@@ -37812,7 +37884,11 @@ window.BIBLE_OT = [
     "verses": [
      {
       "verse": 1,
-      "text": "And king Solomon was a lover of women. 3) And he had seven hundred wives, princesses, and three hundred concubines. 1) And he took strange women, as well as the daughter of Pharao, Moabitish, Ammanitish women, Syrians and Idumeans, Chettites, and Amorites; 2-3-3 of the nations concerning whom the Lord forbade the children of Israel, saying, Ye shall not go in to them, and they shall not come in to you, lest they turn away your hearts after their idols: Solomon clave to these in love."
+      "text": "And king Solomon was a lover of women. 3) And he had seven hundred wives, princesses, and three hundred concubines. 1) And he took strange women, as well as the daughter of Pharao, Moabitish, Ammanitish women, Syrians and Idumeans, Chettites, and Amorites;"
+     },
+     {
+      "verse": "2-3",
+      "text": "of the nations concerning whom the Lord forbade the children of Israel, saying, Ye shall not go in to them, and they shall not come in to you, lest they turn away your hearts after their idols: Solomon clave to these in love."
      },
      {
       "verse": 4,
@@ -37828,7 +37904,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 5,
-      "text": "and to Astarte the abomination of the Sidonians. 6-8-8 And thus he acted towards all his strange wives, who burnt incense and sacrificed to their idols."
+      "text": "and to Astarte the abomination of the Sidonians."
+     },
+     {
+      "verse": "6-8",
+      "text": "And thus he acted towards all his strange wives, who burnt incense and sacrificed to their idols."
      },
      {
       "verse": 6,
@@ -37888,7 +37968,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 22,
-      "text": "And Pharao said to Ader, What lackest thou with me? that lo! thou seekest to depart to thy country? and Ader said to him, By all means let me go. 23-25-25 So Ader returned to his country; this is the mischief which Ader did, and he was a bitter enemy of Israel, and he reigned in the land of Edom."
+      "text": "And Pharao said to Ader, What lackest thou with me? that lo! thou seekest to depart to thy country? and Ader said to him, By all means let me go."
+     },
+     {
+      "verse": "23-25",
+      "text": "So Ader returned to his country; this is the mischief which Ader did, and he was a bitter enemy of Israel, and he reigned in the land of Edom."
      },
      {
       "verse": 26,
@@ -37936,7 +38020,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 37,
-      "text": "And I will take thee, and thou shalt reign as thy soul desires, and thou shalt be king over Israel. 38-39-39 And it shall come to pass, if thou wilt keep all the commandments that I shall give thee, and wilt walk in my ways, and do that which is right before me, to keep my ordinances and my commandments, as David my servant did, that I will be with thee, and will build thee a sure house, as I built to David."
+      "text": "And I will take thee, and thou shalt reign as thy soul desires, and thou shalt be king over Israel."
+     },
+     {
+      "verse": "38-39",
+      "text": "And it shall come to pass, if thou wilt keep all the commandments that I shall give thee, and wilt walk in my ways, and do that which is right before me, to keep my ordinances and my commandments, as David my servant did, that I will be with thee, and will build thee a sure house, as I built to David."
      },
      {
       "verse": 40,
@@ -37962,7 +38050,7 @@ window.BIBLE_OT = [
     "verses": [
      {
       "verse": 1,
-      "text": "1-2-2 And king Roboam goes to Sikima; for all Israel were coming to Sikima to make him king."
+      "text": "And king Roboam goes to Sikima; for all Israel were coming to Sikima to make him king."
      },
      {
       "verse": 3,
@@ -38014,7 +38102,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 15,
-      "text": "And the king hearkened not to the people, because the change was from the Lord, that he might establish his word which he spoke by Achia the Selonite concerning Jeroboam the son of Nabat. 16-17-17 And all Israel saw that the king did not hearken to them: and the people answered the king, saying, What portion have we in David? neither have we any inheritance in the son of Jessae. Depart, O Israel, to thy tents: now feed thine own house, David. So Israel departed to his tents."
+      "text": "And the king hearkened not to the people, because the change was from the Lord, that he might establish his word which he spoke by Achia the Selonite concerning Jeroboam the son of Nabat."
+     },
+     {
+      "verse": "16-17",
+      "text": "And all Israel saw that the king did not hearken to them: and the people answered the king, saying, What portion have we in David? neither have we any inheritance in the son of Jessae. Depart, O Israel, to thy tents: now feed thine own house, David. So Israel departed to his tents."
      },
      {
       "verse": 18,
@@ -38230,7 +38322,7 @@ window.BIBLE_OT = [
     "verses": [
      {
       "verse": 1,
-      "text": "1-20-20"
+      "text": ""
      },
      {
       "verse": 21,
@@ -38259,7 +38351,13 @@ window.BIBLE_OT = [
      {
       "verse": 27,
       "text": "And king Roboam made brazen shields instead of them; and the α Verses."
-     },
+     }
+    ],
+    "status": "review"
+   },
+   {
+    "chapter": 15,
+    "verses": [
      {
       "verse": 1,
       "text": "to"
@@ -38291,13 +38389,7 @@ window.BIBLE_OT = [
      {
       "verse": 31,
       "text": "And Roboam slept with his fathers, and was buried with his fathers in the city of David: and Abiu his son reigned in his stead."
-     }
-    ],
-    "status": "review"
-   },
-   {
-    "chapter": 15,
-    "verses": [
+     },
      {
       "verse": 1,
       "text": "And in the eighteenth year of the reign of Jeroboam son of Nabat, Abiu son of Roboam reigns over Juda."
@@ -38312,7 +38404,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 4,
-      "text": "Howbeit for David’s sake the Lord gave him a remnant, that he might establish his children after him, and might establish Jerusalem. 5-6-6 Forasmuch as David did that which was right in the sight of the Lord: he turned not from any thing that he commanded him all the is found in the Vatican copy after v."
+      "text": "Howbeit for David’s sake the Lord gave him a remnant, that he might establish his children after him, and might establish Jerusalem."
+     },
+     {
+      "verse": "5-6",
+      "text": "Forasmuch as David did that which was right in the sight of the Lord: he turned not from any thing that he commanded him all the is found in the Vatican copy after v."
      },
      {
       "verse": 24,
@@ -39438,7 +39534,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 45,
-      "text": "And Josaphat was at peace with the king of Israel. 46-50-50 And the rest of the acts of Josaphat, and his mighty deeds, whatever he did, behold, are not these things written in the book of the chronicles of the kings of Juda?"
+      "text": "And Josaphat was at peace with the king of Israel."
+     },
+     {
+      "verse": "46-50",
+      "text": "And the rest of the acts of Josaphat, and his mighty deeds, whatever he did, behold, are not these things written in the book of the chronicles of the kings of Juda?"
      },
      {
       "verse": 51,
@@ -39457,7 +39557,7 @@ window.BIBLE_OT = [
       "text": "And he served Baalim, and worshipped them, and provoked the Lord God of Israel, according to all that had been done before him."
      }
     ],
-    "status": "review"
+    "status": "ok"
    }
   ]
  },
@@ -42532,11 +42632,19 @@ window.BIBLE_OT = [
      },
      {
       "verse": 9,
-      "text": "And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan. 10-16-16 And Chus begot Nebrod: he began to be a mighty hunter on the earth."
+      "text": "And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan."
+     },
+     {
+      "verse": "10-16",
+      "text": "And Chus begot Nebrod: he began to be a mighty hunter on the earth."
      },
      {
       "verse": 17,
-      "text": "The sons of Sem, Aelam, and Assur, 18-24-24 and Arphaxad, Sala,"
+      "text": "The sons of Sem, Aelam, and Assur,"
+     },
+     {
+      "verse": "18-24",
+      "text": "and Arphaxad, Sala,"
      },
      {
       "verse": 25,
@@ -42659,7 +42767,7 @@ window.BIBLE_OT = [
       "text": "prince Zaphoin. These are the princes of Edom. These are the names of the"
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 2,
@@ -46579,7 +46687,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 10,
-      "text": "And he made two cherubs in the most holy house, wood-work, and he gilded them with gold. 11-12-12 And the wings of the cherubs were twenty cubits in length: and one wing of five cubits touched the wall of the house: and the other wing of five cubits touched the wing of the other cherub."
+      "text": "And he made two cherubs in the most holy house, wood-work, and he gilded them with gold."
+     },
+     {
+      "verse": "11-12",
+      "text": "And the wings of the cherubs were twenty cubits in length: and one wing of five cubits touched the wall of the house: and the other wing of five cubits touched the wing of the other cherub."
      },
      {
       "verse": 13,
@@ -46602,7 +46714,7 @@ window.BIBLE_OT = [
       "text": "And he set up the pillars in front of the temple, one on the right hand and the other on the left: and he called the name of the one on the right hand ’Stability,’ and the name of the one on the left ’Strength.’"
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 4,
@@ -48803,14 +48915,18 @@ window.BIBLE_OT = [
      },
      {
       "verse": 6,
-      "text": "Joatham grew strong, because he prepared his ways before the Lord his God. 7-8-8 And the rest of the acts of Joatham, and his war, and his deeds, behold, they are written in the book of the kings of Juda and Israel."
+      "text": "Joatham grew strong, because he prepared his ways before the Lord his God."
+     },
+     {
+      "verse": "7-8",
+      "text": "And the rest of the acts of Joatham, and his war, and his deeds, behold, they are written in the book of the kings of Juda and Israel."
      },
      {
       "verse": 9,
       "text": "And Joatham slept with his fathers, and was buried in the city of David: and Achaz his son reigned in his stead."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 28,
@@ -51351,7 +51467,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 4,
-      "text": "Hear, O our God, for we have become a scorn; and return thou their reproach upon their head, and make them a scorn in a land of captivity, 5-6-6 and do not cover their iniquity."
+      "text": "Hear, O our God, for we have become a scorn; and return thou their reproach upon their head, and make them a scorn in a land of captivity,"
+     },
+     {
+      "verse": "5-6",
+      "text": "and do not cover their iniquity."
      },
      {
       "verse": 7,
@@ -51422,7 +51542,7 @@ window.BIBLE_OT = [
       "text": "And I was there, and the watchmen behind me, and there was not a man of us that put off his garments."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 5,
@@ -51853,7 +51973,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 66,
-      "text": "And all the congregation was about forty - two thousand three hundred and sixty, 67-68-68 besides their men - servants and their maid - servants: these were seven thousand three hundred and thirty seven: and the singing-men and singing-women, two hundred and forty-five."
+      "text": "And all the congregation was about forty - two thousand three hundred and sixty,"
+     },
+     {
+      "verse": "67-68",
+      "text": "besides their men - servants and their maid - servants: these were seven thousand three hundred and thirty seven: and the singing-men and singing-women, two hundred and forty-five."
      },
      {
       "verse": 69,
@@ -51876,7 +52000,7 @@ window.BIBLE_OT = [
       "text": "And the priests, and Levites, and porters, and singers, and some of the people, and the Nathinim, and all Israel, dwelt in their cities."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 8,
@@ -52333,7 +52457,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 14,
-      "text": "and his brethren, mighty men of war, a hundred and twenty-eight: and their overseer was Badiel son of one of the great men. 15-16-16 And of the Levites; Samaia, son of Esricam,"
+      "text": "and his brethren, mighty men of war, a hundred and twenty-eight: and their overseer was Badiel son of one of the great men."
+     },
+     {
+      "verse": "15-16",
+      "text": "And of the Levites; Samaia, son of Esricam,"
      },
      {
       "verse": 17,
@@ -52341,7 +52469,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 18,
-      "text": "two hundred and eighty - four. 19-21-21 And the porters; Acub, Telamin, and their brethren, a hundred and seventy-two."
+      "text": "two hundred and eighty - four."
+     },
+     {
+      "verse": "19-21",
+      "text": "And the porters; Acub, Telamin, and their brethren, a hundred and seventy-two."
      },
      {
       "verse": 22,
@@ -52361,18 +52493,26 @@ window.BIBLE_OT = [
      },
      {
       "verse": 26,
-      "text": "and in Jesu, 27-29-29 and in Bersabee:"
+      "text": "and in Jesu,"
+     },
+     {
+      "verse": "27-29",
+      "text": "and in Bersabee:"
      },
      {
       "verse": 30,
-      "text": "And their villages were Lachis and her hands: and they pitched their tents in Bersabee. 31-35-35 And the children of Benjamin dwelt from Gabaa to Machmas."
+      "text": "And their villages were Lachis and her hands: and they pitched their tents in Bersabee."
+     },
+     {
+      "verse": "31-35",
+      "text": "And the children of Benjamin dwelt from Gabaa to Machmas."
      },
      {
       "verse": 36,
       "text": "And of the Levites there were divisions to Juda and to Benjamin. Now these are the priests"
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 12,
@@ -52383,7 +52523,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 2,
-      "text": "Amaria, Maluch, 3-6-6 Sechenia."
+      "text": "Amaria, Maluch,"
+     },
+     {
+      "verse": "3-6",
+      "text": "Sechenia."
      },
      {
       "verse": 7,
@@ -52503,7 +52647,15 @@ window.BIBLE_OT = [
      },
      {
       "verse": 36,
-      "text": "and his brethren, Samaia, and Oziel, Gelol, Jama, Aia, Nathanael, and Juda, Anani, to praise with the hymns of David the man of God; and Esdras the scribe was before them, 37-38-38 at the gate, to praise before them, and they went up by the steps of the city of David, in the ascent of the wall, above the house of David, even to the water-gate 39-41-41 of Ephraim, and to the fishgate, and by the tower of Anameel, and as far as the sheep-gate."
+      "text": "and his brethren, Samaia, and Oziel, Gelol, Jama, Aia, Nathanael, and Juda, Anani, to praise with the hymns of David the man of God; and Esdras the scribe was before them,"
+     },
+     {
+      "verse": "37-38",
+      "text": "at the gate, to praise before them, and they went up by the steps of the city of David, in the ascent of the wall, above the house of David, even to the water-gate"
+     },
+     {
+      "verse": "39-41",
+      "text": "of Ephraim, and to the fishgate, and by the tower of Anameel, and as far as the sheep-gate."
      },
      {
       "verse": 42,
@@ -52530,7 +52682,7 @@ window.BIBLE_OT = [
       "text": "And all Israel in the days of Zorobabel, and in the days of Neemias, gave the portions of the singers and the porters, a daily rate: and consecrated them to the Levites: and the Levites consecrated them to the sons of Aaron."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 13,
@@ -52942,7 +53094,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 4,
-      "text": "And the queen’s maids and chamberlains went in and told her: and when she had heard what was done, she was disturbed; and she sent to clothe Mardochaeus, and take away his sackcloth; but he consented not. 5-6-6 So Esther called for her chamberlain Achrathaeus, who waited upon her; and she sent to learn the truth from Mardochaeus."
+      "text": "And the queen’s maids and chamberlains went in and told her: and when she had heard what was done, she was disturbed; and she sent to clothe Mardochaeus, and take away his sackcloth; but he consented not."
+     },
+     {
+      "verse": "5-6",
+      "text": "So Esther called for her chamberlain Achrathaeus, who waited upon her; and she sent to learn the truth from Mardochaeus."
      },
      {
       "verse": 7,
@@ -52989,7 +53145,7 @@ window.BIBLE_OT = [
       "text": "So Mardochaeus went and did all that Esther commanded him. [And he besought the Lord, making mention of all the works of the Lord; and he said, Lord God, king ruling over all, for all things are in thy power, and there is no one that shall oppose thee, in thy purpose to save Israel. - For thou hast made the heaven and the earth and every wonderful thing in the world under heaven. And thou art Lord of all, and there is no one who shall resist thee Lord. Thou knowest all things: thou knowest, Lord, that it is not in insolence, nor haughtiness, nor love of glory, that I have done this, to refuse obeisance to the haughty Aman. For I would gladly have kissed the soles of his feet for the safety of Israel. But I have done this, that I might not set the glory of man above the glory of God: and I will not worship any one except thee, my Lord, and I will not do these things in haughtiness. And now, O Lord God, the King, the God of Abraam, spare thy people, for our enemies are looking upon us to our destruction, and they have desired to destroy thine ancient inheritance. Do not overlook thy peculiar people, whom thou hast redeemed for thyself out of the land of Egypt. Hearken to my prayer, and be propitious to thine inheritance, and turn our mourning into gladness, that we may live and sing praise to thy name, O Lord; and do not utterly destroy the mouth of them that praise thee, O Lord. And all Israel cried with all their might, for death was before their eyes. And queen Esther betook herself for refuge to the Lord, being taken as it were in the agony of death. And having taken off her glorious apparel, she put on garments of distress and mourning; and instead of grand perfumes she filled her head with ashes and dung, and she greatly brought down her body, and she filled every place of her glad adorning with the torn curls of her hair. And she besought the Lord God of Israel, and said, O my Lord, thou alone art our king: help me who am destitute, and have no helper but thee, for my danger is near at hand. I have heard from my birth, in the tribe of my kindred that thou, Lord, tookest Israel out of all the nations, and our fathers out of all their kindred for a perpetual inheritance, and hast wrought for them all that thou hast said. And now we have sinned before thee, and thou hast delivered us into the hands of our enemies, because we honoured their gods: thou art righteous, O Lord. But now they have not been contented with the bitterness of our slavery, but have laid their hands on the hands of their idols, in order to abolish the decree of thy mouth, and utterly to destroy thine inheritances, and to stop the mouth of them that praise thee, and to extinguish the glory of thine house and thine altar, and to open the mouth of the Gentiles to speak the praises of vanities, and in order that a mortal king should be admired for ever. O Lord, do not resign thy sceptre to them that are not, and let them not laugh at our fall, but turn their counsel against themselves, and make an example of him who has begun to injure us. Remember us, O Lord, manifest thyself in the time of our affliction, and encourage me, O King of gods, and ruler of all dominion. Put harmonious speech into my mouth before the lion, and turn his heart to hate him that fights against us, to the utter destruction of him that consent with him. But deliver us by thine hand, and help me who am destitute, and have none but the, O Lord. Thou knowest all things, and knowest that I hate the glory of transgressors, and that I abhor the couch of the uncircumcised, and of every stranger. Thou knowest my necessity, for I abhor the symbol of my proud station, which is upon my head in the days of my splendour: I abhor it as a menstruous cloth, and I wear it not in the days of my tranquility. And thy handmaid has not eaten at the table of Aman, and I have not honoured the banquet of the king, neither have I drunk wine of libations. Neither has thy handmaid rejoiced since the day of my promotion until now, except in thee, O Lord God of Abraam. O god, who has power over all, hearken to the voice of the desperate, and deliver us from the hand of them that devise mischief; and deliver me from my fear.]"
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 5,
@@ -53248,7 +53404,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 3,
-      "text": "For the chiefs of the satraps, and the princes and the royal scribes, honoured the Jews; for the fear of Mardochaeus lay upon them. 4-5-5 For the order of the king was in force, that he should be celebrated in all the kingdom."
+      "text": "For the chiefs of the satraps, and the princes and the royal scribes, honoured the Jews; for the fear of Mardochaeus lay upon them."
+     },
+     {
+      "verse": "4-5",
+      "text": "For the order of the king was in force, that he should be celebrated in all the kingdom."
      },
      {
       "verse": 6,
@@ -53340,7 +53500,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 28,
-      "text": "And these days of the Phrurae, said they, shall be kept for ever, and their memorial shall not fail in any generation. 29-30-30 And queen Esther, the daughter of Aminadab, and Mardochaeus the Jew, wrote all that they had done, and the confirmation of the letter of Phrurae."
+      "text": "And these days of the Phrurae, said they, shall be kept for ever, and their memorial shall not fail in any generation."
+     },
+     {
+      "verse": "29-30",
+      "text": "And queen Esther, the daughter of Aminadab, and Mardochaeus the Jew, wrote all that they had done, and the confirmation of the letter of Phrurae."
      },
      {
       "verse": 31,
@@ -53351,7 +53515,7 @@ window.BIBLE_OT = [
       "text": "And Esther established it by a command for ever, and it was written for a memorial. And the king levied a tax"
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 10,
@@ -55761,7 +55925,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 12,
-      "text": "neither shall I transgress; but I have hid his words in my bosom. 13-14-14 And if too he has thus judged, who is he that has contradicted, for he has both willed a thing and done it."
+      "text": "neither shall I transgress; but I have hid his words in my bosom."
+     },
+     {
+      "verse": "13-14",
+      "text": "And if too he has thus judged, who is he that has contradicted, for he has both willed a thing and done it."
      },
      {
       "verse": 15,
@@ -55776,7 +55944,7 @@ window.BIBLE_OT = [
       "text": "For I knew not that darkness would come upon me, and thick darkness has covered me before my face."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 24,
@@ -70518,7 +70686,13 @@ window.BIBLE_OT = [
      {
       "verse": 33,
       "text": "The fear of the Lord is instruction and wisdom; and the highest honour will correspond therewith."
-     },
+     }
+    ],
+    "status": "review"
+   },
+   {
+    "chapter": 16,
+    "verses": [
      {
       "verse": 2,
       "text": "All the works of the humble man are manifest with God; but the ungodly shall perish in an evil day."
@@ -77120,7 +77294,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 13,
-      "text": "In that day I was given up as to a lion until the morning: so has he broken all my bones: for I was so given up from day even to night. 14-15-15 As a swallow, so will I cry, and as a dove, so do I mourn: for mine eyes have failed with looking to the height of heaven to the Lord, who has delivered me, and removed the sorrow of my soul."
+      "text": "In that day I was given up as to a lion until the morning: so has he broken all my bones: for I was so given up from day even to night."
+     },
+     {
+      "verse": "14-15",
+      "text": "As a swallow, so will I cry, and as a dove, so do I mourn: for mine eyes have failed with looking to the height of heaven to the Lord, who has delivered me, and removed the sorrow of my soul."
      },
      {
       "verse": 16,
@@ -77151,7 +77329,7 @@ window.BIBLE_OT = [
       "text": "And Ezekias said, This is a sign to Ezekias, that I shall go up to the house of God."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 39,
@@ -77212,7 +77390,11 @@ window.BIBLE_OT = [
      },
      {
       "verse": 5,
-      "text": "And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it. 6-7-7 The voice of one saying, Cry; and I said, What shall I cry? All flesh is grass, and all the glory of man as the flower of grass:"
+      "text": "And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it."
+     },
+     {
+      "verse": "6-7",
+      "text": "The voice of one saying, Cry; and I said, What shall I cry? All flesh is grass, and all the glory of man as the flower of grass:"
      },
      {
       "verse": 8,
@@ -77311,7 +77493,7 @@ window.BIBLE_OT = [
       "text": "but they that wait on God shall renew their strength; they shall put forth new feathers like eagles; they shall run, and not be weary; they shall walk, and not hunger."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 41,
@@ -80174,7 +80356,13 @@ window.BIBLE_OT = [
      {
       "verse": 30,
       "text": "Call ye them reprobate silver, because the Lord has rejected them."
-     },
+     }
+    ],
+    "status": "ok"
+   },
+   {
+    "chapter": 7,
+    "verses": [
      {
       "verse": 2,
       "text": "Hear ye the word of the Lord, all Judea."
@@ -95833,7 +96021,13 @@ window.BIBLE_OT = [
      {
       "verse": 15,
       "text": "on the four and twentieth day of the sixth month, in the second year of Darius the king."
-     },
+     }
+    ],
+    "status": "ok"
+   },
+   {
+    "chapter": 2,
+    "verses": [
      {
       "verse": 2,
       "text": "In the seventh month, on the twenty-first day of the month, the Lord spoke by Aggaeus the prophet, saying,"
