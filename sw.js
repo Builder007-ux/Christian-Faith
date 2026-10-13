@@ -1,10 +1,12 @@
-// Service Worker: lädt die App-Hülle offline. Inhalte (content.json) werden zuerst vom Netz geholt.
-const CACHE = 'cf-v1';
+// Service Worker: Offline-Nutzung. Immer zuerst aus dem Netz laden,
+// der Cache dient nur als Ausweichlösung, wenn keine Verbindung besteht.
+const CACHE = 'cf-v2';
 const SHELL = [
   './',
   'index.html',
   'css/style.css',
   'js/i18n.js',
+  'js/content.js',
   'js/app.js',
   'manifest.webmanifest',
   'icon.svg',
@@ -26,29 +28,17 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const req = event.request;
   if (req.method !== 'GET') return;
+  if (new URL(req.url).origin !== self.location.origin) return;
 
-  // Inhalte immer zuerst aus dem Netz, Cache nur als Ausweichlösung.
-  if (req.url.includes('content.json')) {
-    event.respondWith(
-      fetch(req)
-        .then((res) => {
+  event.respondWith(
+    fetch(req)
+      .then((res) => {
+        if (res.ok) {
           const copy = res.clone();
           caches.open(CACHE).then((c) => c.put(req, copy));
-          return res;
-        })
-        .catch(() => caches.match(req))
-    );
-    return;
-  }
-
-  // App-Hülle: Cache zuerst, sonst Netz.
-  event.respondWith(
-    caches.match(req).then((hit) => hit || fetch(req).then((res) => {
-      if (res.ok && new URL(req.url).origin === self.location.origin) {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy));
-      }
-      return res;
-    }).catch(() => caches.match('index.html')))
+        }
+        return res;
+      })
+      .catch(() => caches.match(req).then((hit) => hit || caches.match('index.html')))
   );
 });
