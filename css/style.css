@@ -8,7 +8,7 @@
   --gold: #b08a3e;
   --badge-bg: #f3ead6;
   --badge-text: #7a5a1c;
-  --radius: 14px;
+  --radius: 22px;
   --shadow: 0 1px 2px rgba(20, 24, 40, 0.06), 0 4px 16px rgba(20, 24, 40, 0.04);
   color-scheme: light;
 }
@@ -91,7 +91,7 @@ body {
 .nav a {
   color: var(--muted);
   text-decoration: none;
-  padding: 0.35rem 0.7rem;
+  padding: 0.4rem 0.8rem;
   border-radius: 999px;
   font-size: 0.95rem;
 }
@@ -112,12 +112,12 @@ select, .icon-btn {
   color: var(--text);
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 10px;
-  padding: 0.35rem 0.6rem;
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
   cursor: pointer;
 }
 
-.icon-btn { width: 2.25rem; height: 2.25rem; padding: 0; }
+.icon-btn { width: 2.4rem; height: 2.4rem; padding: 0; border-radius: 50%; }
 
 /* ---------- Inhalt ---------- */
 
@@ -153,8 +153,10 @@ h3 { font-size: 1.1rem; margin: 0; }
 .note {
   font-size: 0.9rem;
   color: var(--muted);
-  border-left: 3px solid var(--gold);
-  padding: 0.25rem 0 0.25rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 0.7rem 1rem;
   margin: 1rem 0;
 }
 
@@ -162,8 +164,8 @@ h3 { font-size: 1.1rem; margin: 0; }
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 1.1rem 1.25rem;
-  margin: 0.9rem 0;
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0;
   box-shadow: var(--shadow);
 }
 
