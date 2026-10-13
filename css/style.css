@@ -275,3 +275,131 @@ details[open] summary { margin-bottom: 0.75rem; }
   h2 { font-size: 1.6rem; }
   .timeline li { grid-template-columns: 3.4rem 1fr; }
 }
+
+/* ---------- Bibel ---------- */
+
+.search {
+  width: 100%;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.bible-group { margin: 1.1rem 0 0.4rem; }
+
+.bible-group h4 {
+  margin: 0 0 0.4rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.pill-row { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+
+.pill {
+  font-size: 0.9rem;
+  color: var(--text);
+  text-decoration: none;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.3rem 0.8rem;
+}
+
+.pill:hover { border-color: var(--gold); }
+
+.pill[aria-current="page"] {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
+.chip-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(2.6rem, 1fr));
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.chip {
+  text-align: center;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.4rem 0;
+  font-size: 0.9rem;
+}
+
+.chip:hover { border-color: var(--gold); }
+
+.chip.is-current {
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  border-color: var(--gold);
+  font-weight: 600;
+}
+
+.reading { padding: 1.4rem 1.5rem; }
+
+.verses {
+  list-style: none;
+  padding: 0;
+  margin: 0.6rem 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.verses li { margin-bottom: 0.5rem; }
+
+.vnum {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.7rem;
+  color: var(--gold);
+  font-weight: 600;
+  margin-right: 0.45rem;
+  vertical-align: super;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.pager a {
+  text-decoration: none;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+}
+
+.results { list-style: none; padding: 0; margin: 0.5rem 0 1rem; }
+
+.results li {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  margin-bottom: 0.5rem;
+}
+
+.results a {
+  display: block;
+  padding: 0.7rem 1rem;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.results strong { color: var(--accent); display: block; margin-bottom: 0.2rem; }
+.results span { color: var(--muted); font-size: 0.92rem; }

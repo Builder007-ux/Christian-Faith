@@ -1,12 +1,13 @@
 // Service Worker: Offline-Nutzung. Immer zuerst aus dem Netz laden,
 // der Cache dient nur als Ausweichlösung, wenn keine Verbindung besteht.
-const CACHE = 'cf-v2';
+const CACHE = 'cf-v3';
 const SHELL = [
   './',
   'index.html',
   'css/style.css',
   'js/i18n.js',
   'js/content.js',
+  'js/bible.js',
   'js/app.js',
   'manifest.webmanifest',
   'icon.svg',

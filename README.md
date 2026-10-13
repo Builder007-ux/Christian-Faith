@@ -78,3 +78,12 @@ Fehlt eine Übersetzung, fällt die App auf Englisch und dann auf Deutsch zurüc
 
 Da es sich um statische Dateien handelt, eignen sich GitHub Pages, Netlify oder Cloudflare Pages.
 HTTPS ist für die PWA-Funktionen (Installation und Offline-Nutzung) nötig; diese Dienste bieten es standardmäßig.
+
+## Bibel (Altes Testament, Brenton-Septuaginta)
+
+- Quelle: Brenton English Septuagint (1851), gemeinfrei. PDF von dbs.org, Textdaten in `data/bible/brenton-ot.json`.
+- Nach Änderungen an `data/bible/brenton-ot.json` einmal `node scripts/build-bible.mjs` ausführen. Das erzeugt `js/bible-ot.js`.
+- Kapitel mit `"status": "review"` haben noch Lücken in der Versnummerierung und werden in der App mit einem Hinweis angezeigt.
+- Psalmen sind noch nicht vollständig nach Versen gegliedert.
+- Die deuterokanonischen Bücher (Tobit, Judit, Sirach, Makkabäer u. a.) fehlen noch.
+- Die deutsche Übersetzung folgt später; bis dahin zeigt die App deutsch die Auszüge aus `content.json`.

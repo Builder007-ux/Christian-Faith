@@ -33,8 +33,13 @@ function localeOf(code) {
   return l ? l.locale : 'de-DE';
 }
 
+// Pfad wie "#/bibel/genesis/1" in Teile zerlegen: ['bibel', 'genesis', '1'].
+function routeParts() {
+  return location.hash.replace(/^#\//, '').split('/').filter(Boolean);
+}
+
 function currentRoute() {
-  const r = location.hash.replace(/^#\//, '');
+  const r = routeParts()[0] || '';
   return ROUTES.includes(r) ? r : 'bibel';
 }
 
@@ -43,26 +48,6 @@ function reviewBadge() {
 }
 
 // ---------- Ansichten ----------
-
-function viewBible() {
-  const passages = state.content.bible || [];
-  const items = passages.map((p) => `
-    <article class="card">
-      <header class="card-head">
-        <h3>${esc(pick(p.ref))}</h3>
-        ${reviewBadge()}
-      </header>
-      <p class="meta">${esc(t('translation'))}: ${esc(pick(p.translation))}</p>
-      <p class="verse">${esc(pick(p.text))}</p>
-    </article>`).join('');
-  return `
-    <section>
-      <h2>${esc(t('bible_title'))}</h2>
-      <p class="muted">${esc(t('bible_intro'))}</p>
-      <p class="note">${esc(t('bible_numbering'))}</p>
-      ${items}
-    </section>`;
-}
 
 function viewPrayers() {
   const items = (state.content.prayers || []).map((p) => `
@@ -184,7 +169,7 @@ function renderPage() {
     app.innerHTML = `<p class="note">${esc(t('load_error'))}</p>`;
     return;
   }
-  app.innerHTML = VIEWS[route]();
+  app.innerHTML = VIEWS[route](routeParts().slice(1));
   document.documentElement.lang = state.lang;
   document.title = `${t('nav_' + route)} · Christian Faith`;
   app.focus({ preventScroll: true });
