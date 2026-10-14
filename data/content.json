@@ -153,7 +153,63 @@
         "details": {
           "de": "Kaiser Konstantin beruft das Konzil ein. Der Begriff „wesensgleich“ (homoousios) wird zentral: Der Sohn ist wesensgleich mit dem Vater.",
           "en": "Emperor Constantine convenes the council. The term “of one essence” (homoousios) becomes central: the Son is of one essence with the Father."
-        }
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Im Jahr 325 rief Kaiser Konstantin die Bischöfe der Kirche nach Nicaea (heute Iznik in der Türkei). Anlass war der Streit um Arius, der lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott.",
+              "en": "In 325 Emperor Constantine summoned the bishops of the Church to Nicaea (today İznik in Turkey). The occasion was the dispute over Arius, who taught that the Son was created and not truly God."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who took part"
+            },
+            "text": {
+              "de": "Die Zahl der Bischöfe wird unterschiedlich angegeben, meist zwischen etwa 220 und 318. Unter den Teilnehmern war auch der junge Diakon Athanasius.",
+              "en": "The number of bishops is given differently, usually between about 220 and 318. Among the participants was the young deacon Athanasius."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Das ursprüngliche Glaubensbekenntnis von Nicaea. Zentral wurde der Begriff homoousios: der Sohn ist wesensgleich mit dem Vater.",
+                "Arius wurde verbannt. Zwei Bischöfe, die das Bekenntnis nicht unterschreiben wollten, wurden abgesetzt und verbannt.",
+                "Eine gemeinsame Regel zur Berechnung des Osterfestes."
+              ],
+              "en": [
+                "The original Nicene Creed. The term homoousios became central: the Son is of one essence with the Father.",
+                "Arius was exiled. Two bishops who refused to sign the Creed were deposed and exiled.",
+                "A common rule for calculating the date of Pascha."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Konzil war das erste ökumenische Konzil und legte das Muster für die späteren fest. Der Glaube von Nicaea bildet bis heute die Grundlage des orthodoxen Bekenntnisses.",
+              "en": "The council was the first ecumenical council and set the pattern for those that followed. The faith of Nicaea remains the foundation of Orthodox confession today."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – First Council of Nicaea",
+            "url": "https://orthodoxwiki.org/First_Council_of_Nicaea"
+          }
+        ]
       },
       {
         "year": "330",
@@ -464,8 +520,8 @@
           "en": "Athanasius of Alexandria"
         },
         "dates": {
-          "de": "um 298 – 373",
-          "en": "c. 298 – 373"
+          "de": "um 297 – 373",
+          "en": "c. 297 – 373"
         },
         "text": {
           "de": "Bischof von Alexandria und entschiedener Verteidiger des Glaubens von Nicaea gegen den Arianismus.",
@@ -480,7 +536,73 @@
         "details": {
           "de": "Er wurde mehrfach aus seinem Amt verbannt. Seine Schriften über die Menschwerdung des Wortes prägen die Theologie bis heute.",
           "en": "He was exiled from his see several times. His writings on the Incarnation of the Word still shape theology today."
-        }
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Athanasius wurde um 297 in Alexandria in eine christliche Familie geboren. Als Diakon begleitete er seinen Bischof Alexander zum Konzil von Nicaea (325). Mit etwa 28 Jahren wurde er selbst Bischof von Alexandria und leitete die Kirche dort rund 47 Jahre lang.",
+              "en": "Athanasius was born around 297 in Alexandria into a Christian family. As a deacon he accompanied his bishop, Alexander, to the Council of Nicaea (325). At about 28 he became bishop of Alexandria himself and led the Church there for some 47 years."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "items": {
+              "de": [
+                "Er trat dem Arius und dem Arianismus entgegen, der die volle Gottheit Christi bestritt.",
+                "Er verteidigte den Glauben von Nicaea. Er wurde mehrfach aus Alexandria vertrieben und verbrachte insgesamt über zwanzig Jahre im Exil.",
+                "Er schrieb über die göttliche und die menschliche Natur Christi und verteidigte die volle Gottheit des Heiligen Geistes."
+              ],
+              "en": [
+                "He opposed Arius and Arianism, which denied the full divinity of Christ.",
+                "He defended the faith of Nicaea. He was expelled from Alexandria several times and spent more than twenty years in exile in total.",
+                "He wrote about the divine and human natures of Christ and defended the full divinity of the Holy Spirit."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Vier Reden gegen die Arianer",
+                "Brief an Epiktet über die Naturen Christi",
+                "Vier Briefe an Serapion über den Heiligen Geist",
+                "Die Lebensbeschreibung des heiligen Antonius"
+              ],
+              "en": [
+                "Four orations against the Arians",
+                "Letter to Epictetus on the natures of Christ",
+                "Four letters to Serapion on the Holy Spirit",
+                "The Life of Antony"
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "2. Mai. Zusammen mit Kyrill von Alexandria wird er außerdem am 18. Januar gedacht.",
+              "en": "2 May. He is also commemorated together with Cyril of Alexandria on 18 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Orthodox Church in America – Saint Athanasius the Great",
+            "url": "https://www.oca.org/saints/lives/2029/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria"
+          }
+        ]
       },
       {
         "id": "basil",

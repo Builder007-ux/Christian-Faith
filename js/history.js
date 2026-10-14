@@ -155,6 +155,23 @@ function viewHistoryOverview() {
     </section>`;
 }
 
+// Abschnitte und Quellen aus content.json. Ein Abschnitt hat "text" oder "items" (Liste).
+function sectionsHtml(entry) {
+  const parts = (entry.sections || []).map((sec) => {
+    const body = sec.items
+      ? `<ul class="detail-list">${pick(sec.items).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>`
+      : `<p>${esc(pick(sec.text))}</p>`;
+    return `<section class="detail-section"><h3>${esc(pick(sec.heading))}</h3>${body}</section>`;
+  }).join('');
+  const sources = (entry.sources || []).length
+    ? `<section class="detail-section sources"><h3>${esc(t('history_sources'))}</h3><ul class="detail-list">${entry.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('')}</ul></section>`
+    : '';
+  const fallback = !parts && entry.details
+    ? `<p>${esc(pick(entry.details))}</p>`
+    : (!parts ? `<p class="muted">${esc(t('history_more_soon'))}</p>` : '');
+  return parts + fallback + sources;
+}
+
 function viewEvent(id) {
   const h = state.content.history || {};
   const e = (h.timeline || []).find((x) => x.id === id);
@@ -169,8 +186,8 @@ function viewEvent(id) {
         </header>
         <p class="meta">${esc(e.year)}</p>
         <div class="detail-art">${artOf(e, 'event')}</div>
-        <p>${esc(summaryOf({ entry: e }))}</p>
-        ${e.details ? `<p>${esc(pick(e.details))}</p>` : `<p class="muted">${esc(t('history_more_soon'))}</p>`}
+        <p class="detail-summary">${esc(summaryOf({ entry: e }))}</p>
+        ${sectionsHtml(e)}
       </article>
     </section>`;
 }
@@ -189,8 +206,8 @@ function viewSaint(id) {
         </header>
         <p class="meta">${esc(pick(p.dates))}</p>
         <div class="detail-art">${artOf(p, 'person')}</div>
-        <p>${esc(summaryOf({ entry: p }))}</p>
-        ${p.details ? `<p>${esc(pick(p.details))}</p>` : `<p class="muted">${esc(t('history_more_soon'))}</p>`}
+        <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
+        ${sectionsHtml(p)}
       </article>
     </section>`;
 }
