@@ -76,6 +76,30 @@
   "history": {
     "timeline": [
       {
+        "year": "30",
+        "title": {
+          "de": "Pfingsten: Entstehung der Kirche",
+          "en": "Pentecost: birth of the Church"
+        },
+        "text": {
+          "de": "Nach der Auferstehung empfangen die Jünger den Heiligen Geist; die Kirche beginnt in Jerusalem. Die genaue Jahreszahl ist unsicher.",
+          "en": "After the Resurrection the disciples receive the Holy Spirit and the Church begins in Jerusalem. The exact year is uncertain."
+        },
+        "status": "review"
+      },
+      {
+        "year": "313",
+        "title": {
+          "de": "Mailänder Edikt",
+          "en": "Edict of Milan"
+        },
+        "text": {
+          "de": "Die Kaiser Konstantin und Licinius erlauben allen Religionen im Reich, auch den Christen, ihren Glauben frei auszuüben.",
+          "en": "Emperors Constantine and Licinius grant freedom of worship throughout the empire, including to Christians."
+        },
+        "status": "review"
+      },
+      {
         "year": "325",
         "title": {
           "de": "Erstes Ökumenisches Konzil in Nicaea",
@@ -84,6 +108,18 @@
         "text": {
           "de": "Das Glaubensbekenntnis von Nicaea wird formuliert; die Lehre des Arius wird verworfen.",
           "en": "The Nicene Creed is formulated; the teaching of Arius is rejected."
+        },
+        "status": "review"
+      },
+      {
+        "year": "330",
+        "title": {
+          "de": "Konstantinopel wird Hauptstadt",
+          "en": "Constantinople becomes the capital"
+        },
+        "text": {
+          "de": "Kaiser Konstantin weiht die Stadt Konstantinopel als neue Reichshauptstadt. Sie wird zu einem geistlichen Zentrum des Ostens.",
+          "en": "Emperor Constantine dedicates Constantinople as the new imperial capital, which becomes a spiritual centre of the East."
         },
         "status": "review"
       },
@@ -124,6 +160,30 @@
         "status": "review"
       },
       {
+        "year": "553",
+        "title": {
+          "de": "Fünftes Ökumenisches Konzil in Konstantinopel",
+          "en": "Fifth Ecumenical Council of Constantinople"
+        },
+        "text": {
+          "de": "Schriften, die die Lehre des Nestorius stützen, werden verurteilt.",
+          "en": "Writings that support the teaching of Nestorius are condemned."
+        },
+        "status": "review"
+      },
+      {
+        "year": "680–681",
+        "title": {
+          "de": "Sechstes Ökumenisches Konzil in Konstantinopel",
+          "en": "Sixth Ecumenical Council of Constantinople"
+        },
+        "text": {
+          "de": "Die Lehre von nur einem Willen in Christus wird verworfen. Christus hat einen göttlichen und einen menschlichen Willen.",
+          "en": "The teaching of a single will in Christ is rejected. Christ has a divine and a human will."
+        },
+        "status": "review"
+      },
+      {
         "year": "787",
         "title": {
           "de": "Zweites Konzil von Nicaea",
@@ -144,6 +204,18 @@
         "text": {
           "de": "Das Ende des Bilderstreits in Konstantinopel wird gefeiert.",
           "en": "The end of the iconoclastic controversy in Constantinople is commemorated."
+        },
+        "status": "review"
+      },
+      {
+        "year": "988",
+        "title": {
+          "de": "Taufe der Rus in Kiew",
+          "en": "Baptism of Rus in Kyiv"
+        },
+        "text": {
+          "de": "Nach der Überlieferung lässt sich Fürst Wladimir mit seinem Volk taufen. Das Christentum prägt von nun an die Kultur der Ostslawen.",
+          "en": "According to tradition, Prince Vladimir and his people are baptised. Christianity shapes the culture of the East Slavs from then on."
         },
         "status": "review"
       },
@@ -192,6 +264,18 @@
         "text": {
           "de": "Die Stadt fällt an das Osmanische Reich. Das Byzantinische Reich endet.",
           "en": "The city falls to the Ottoman Empire, and the Byzantine Empire comes to an end."
+        },
+        "status": "review"
+      },
+      {
+        "year": "1589",
+        "title": {
+          "de": "Patriarchat in Moskau",
+          "en": "Patriarchate of Moscow"
+        },
+        "text": {
+          "de": "Das Moskauer Patriarchat wird eingerichtet und im Gefüge der orthodoxen Kirchen anerkannt.",
+          "en": "The Patriarchate of Moscow is established and recognised within the family of Orthodox churches."
         },
         "status": "review"
       }
@@ -274,6 +358,86 @@
         "text": {
           "de": "Theologe und Hymnendichter aus Damaskus. Er fasste den orthodoxen Glauben zusammen und verteidigte die Verehrung der Ikonen.",
           "en": "Theologian and hymnographer from Damascus. He summarized the Orthodox faith and defended the veneration of icons."
+        },
+        "status": "review"
+      },
+      {
+        "id": "gregory-nazianzen",
+        "name": {
+          "de": "Gregor von Nazianz",
+          "en": "Gregory of Nazianzus"
+        },
+        "dates": {
+          "de": "um 329 – 390",
+          "en": "c. 329 – 390"
+        },
+        "text": {
+          "de": "Bischof von Konstantinopel und Theologe, „der Theologe“ genannt. Er prägte die Lehre von der Dreifaltigkeit.",
+          "en": "Bishop of Constantinople and theologian, called “the Theologian”. He shaped the doctrine of the Trinity."
+        },
+        "status": "review"
+      },
+      {
+        "id": "cyril-alexandria",
+        "name": {
+          "de": "Kyrill von Alexandria",
+          "en": "Cyril of Alexandria"
+        },
+        "dates": {
+          "de": "um 376 – 444",
+          "en": "c. 376 – 444"
+        },
+        "text": {
+          "de": "Patriarch von Alexandria. Auf dem Konzil von Ephesus (431) verteidigte er den Titel Gottesgebärerin (Theotokos).",
+          "en": "Patriarch of Alexandria. At the Council of Ephesus (431) he defended the title Theotokos, Mother of God."
+        },
+        "status": "review"
+      },
+      {
+        "id": "gregory-palamas",
+        "name": {
+          "de": "Gregor Palamas",
+          "en": "Gregory Palamas"
+        },
+        "dates": {
+          "de": "um 1296 – 1359",
+          "en": "c. 1296 – 1359"
+        },
+        "text": {
+          "de": "Erzbischof von Thessaloniki. Er verteidigte die Unterscheidung zwischen Wesen und Energien Gottes und die Lehre vom Taborlicht.",
+          "en": "Archbishop of Thessalonica. He defended the distinction between God's essence and energies and the doctrine of the Light of Tabor."
+        },
+        "status": "review"
+      },
+      {
+        "id": "sergius-radonezh",
+        "name": {
+          "de": "Sergius von Radonesch",
+          "en": "Sergius of Radonezh"
+        },
+        "dates": {
+          "de": "um 1314 – 1392",
+          "en": "c. 1314 – 1392"
+        },
+        "text": {
+          "de": "Mönch und Gründer des Dreifaltigkeitsklosters bei Moskau. Er stärkte das Mönchtum in Russland.",
+          "en": "Monk and founder of the Trinity Monastery near Moscow. He strengthened monasticism in Russia."
+        },
+        "status": "review"
+      },
+      {
+        "id": "seraphim-sarov",
+        "name": {
+          "de": "Seraphim von Sarow",
+          "en": "Seraphim of Sarov"
+        },
+        "dates": {
+          "de": "1754 – 1833",
+          "en": "1754 – 1833"
+        },
+        "text": {
+          "de": "Mönch im Kloster Sarow, bekannt für sein Gebet und seine seelsorgliche Hilfe für viele Menschen.",
+          "en": "Monk at Sarov Monastery, known for his prayer and his pastoral care for many people."
         },
         "status": "review"
       }
