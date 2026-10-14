@@ -843,7 +843,9 @@ window.CONTENT_DATA = {
             "title": "Orthodox Church in America – Saint Athanasius the Great",
             "url": "https://www.oca.org/saints/lives/2029/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria"
           }
-        ]
+        ],
+        "image": "images/persons/athanasius.jpg",
+        "imageCredit": "Ikone des hl. Athanasius. Wikimedia Commons, „Ikone Athanasius von Alexandria.jpg“. Lizenz laut Commons: Public Domain (PD-Art). Die Quelle des Originals ist dort nicht angegeben."
       },
       {
         "id": "basil",

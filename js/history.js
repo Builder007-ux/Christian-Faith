@@ -211,6 +211,7 @@ function viewSaint(id) {
         </header>
         <p class="meta">${esc(pick(p.dates))}</p>
         <div class="detail-art">${artOf(p, 'person')}</div>
+        ${p.imageCredit ? `<p class="image-credit">${esc(p.imageCredit)}</p>` : ''}
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
         ${sectionsHtml(p)}
       </article>
