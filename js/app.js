@@ -180,7 +180,12 @@ async function init() {
     renderAll();
   });
   document.getElementById('theme').addEventListener('click', toggleTheme);
-  window.addEventListener('hashchange', () => { renderNav(); renderPage(); });
+  window.addEventListener('hashchange', () => {
+    renderNav();
+    renderPage();
+    // Neue Seite beginnt oben, nicht an der alten Scrollposition
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  });
 
   // Inhalte: zuerst die eingebettete Fassung (funktioniert auch per Doppelklick),
   // sonst die JSON-Datei über einen Webserver.
