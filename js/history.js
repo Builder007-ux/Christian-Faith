@@ -140,6 +140,10 @@ function viewHistoryOverview() {
     <section class="history">
       <h2>${esc(t('history_title'))}</h2>
       <p class="muted">${esc(t('history_intro'))}</p>
+      <a class="card source-link" href="#/geschichte/quelle/vita">
+        <span class="saint-name">${esc(t('source_link_title'))}</span>
+        <span class="meta">${esc(t('source_link_text'))}</span>
+      </a>
 
       <div class="view-switch" role="group" aria-label="${esc(t('timeline_title'))}">
         <button type="button" aria-pressed="${isOn('horizontal')}" onclick="setTimelineMode('horizontal')">${esc(t('history_view_horizontal'))}</button>
