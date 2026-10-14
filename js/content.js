@@ -86,7 +86,8 @@ window.CONTENT_DATA = {
           "de": "Nach der Auferstehung empfangen die Jünger den Heiligen Geist; die Kirche beginnt in Jerusalem. Die genaue Jahreszahl ist unsicher.",
           "en": "After the Resurrection the disciples receive the Holy Spirit and the Church begins in Jerusalem. The exact year is uncertain."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "303–311",
@@ -98,7 +99,8 @@ window.CONTENT_DATA = {
           "de": "Die letzte große Verfolgung im Römischen Reich. Sie endet mit dem Toleranzedikt des Galerius im Jahr 311.",
           "en": "The last great persecution in the Roman Empire. It ends with the edict of toleration issued by Galerius in 311."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "313",
@@ -110,7 +112,8 @@ window.CONTENT_DATA = {
           "de": "Die Kaiser Konstantin und Licinius erlauben allen Religionen im Reich, auch den Christen, ihren Glauben frei auszuüben.",
           "en": "Emperors Constantine and Licinius grant freedom of worship throughout the empire, including to Christians."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "325",
@@ -122,7 +125,8 @@ window.CONTENT_DATA = {
           "de": "Das Glaubensbekenntnis von Nicaea wird formuliert; die Lehre des Arius wird verworfen.",
           "en": "The Nicene Creed is formulated; the teaching of Arius is rejected."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "330",
@@ -134,7 +138,8 @@ window.CONTENT_DATA = {
           "de": "Kaiser Konstantin weiht die Stadt Konstantinopel als neue Reichshauptstadt. Sie wird zu einem geistlichen Zentrum des Ostens.",
           "en": "Emperor Constantine dedicates Constantinople as the new imperial capital, which becomes a spiritual centre of the East."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "381",
@@ -146,7 +151,8 @@ window.CONTENT_DATA = {
           "de": "Das Nicaeno-Konstantinopolitanum wird als Bekenntnis bestätigt und erweitert.",
           "en": "The Nicene-Constantinopolitan Creed is confirmed and expanded."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "395",
@@ -158,7 +164,8 @@ window.CONTENT_DATA = {
           "de": "Das Reich wird endgültig in einen West- und einen Ostteil getrennt. Der griechischsprachige Osten entwickelt sich zu Byzanz.",
           "en": "The empire is permanently divided into a western and an eastern half. The Greek-speaking East develops into Byzantium."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "431",
@@ -170,7 +177,8 @@ window.CONTENT_DATA = {
           "de": "Maria wird als Gottesgebärerin (Theotokos) bekannt.",
           "en": "Mary is affirmed as Theotokos, the Mother of God."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "451",
@@ -182,7 +190,8 @@ window.CONTENT_DATA = {
           "de": "Christus wird als wahrer Gott und wahrer Mensch in einer Person bekannt.",
           "en": "Christ is confessed as true God and true man in one person."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "548–565",
@@ -194,7 +203,8 @@ window.CONTENT_DATA = {
           "de": "Kaiser Justinian lässt am Berg Sinai ein Kloster errichten. Es besteht bis heute und ist eines der ältesten durchgehend bewohnten christlichen Klöster.",
           "en": "Emperor Justinian has a monastery built at Mount Sinai. It still exists today and is one of the oldest continuously inhabited Christian monasteries."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "553",
@@ -206,7 +216,8 @@ window.CONTENT_DATA = {
           "de": "Schriften, die die Lehre des Nestorius stützen, werden verurteilt.",
           "en": "Writings that support the teaching of Nestorius are condemned."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "680–681",
@@ -218,7 +229,8 @@ window.CONTENT_DATA = {
           "de": "Die Lehre von nur einem Willen in Christus wird verworfen. Christus hat einen göttlichen und einen menschlichen Willen.",
           "en": "The teaching of a single will in Christ is rejected. Christ has a divine and a human will."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "787",
@@ -230,7 +242,8 @@ window.CONTENT_DATA = {
           "de": "Die Verehrung der Ikonen wird wiederhergestellt.",
           "en": "The veneration of icons is affirmed."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "843",
@@ -242,7 +255,8 @@ window.CONTENT_DATA = {
           "de": "Das Ende des Bilderstreits in Konstantinopel wird gefeiert.",
           "en": "The end of the iconoclastic controversy in Constantinople is commemorated."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "863",
@@ -254,7 +268,8 @@ window.CONTENT_DATA = {
           "de": "Die Brüder Kyrill und Method werden nach Mähren gesandt. Sie übersetzen Bibel und Liturgie in die slawische Sprache.",
           "en": "The brothers Cyril and Methodius are sent to Moravia. They translate the Bible and the liturgy into Slavonic."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "867",
@@ -266,7 +281,8 @@ window.CONTENT_DATA = {
           "de": "Patriarch Photios und Papst Nikolaus I. verurteilen einander. Der Streit wurde später beigelegt, die Spannungen blieben aber.",
           "en": "Patriarch Photius and Pope Nicholas I condemn each other. The dispute was later settled, but the tensions remained."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "988",
@@ -278,7 +294,8 @@ window.CONTENT_DATA = {
           "de": "Nach der Überlieferung lässt sich Fürst Wladimir mit seinem Volk taufen. Das Christentum prägt von nun an die Kultur der Ostslawen.",
           "en": "According to tradition, Prince Vladimir and his people are baptised. Christianity shapes the culture of the East Slavs from then on."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "1054",
@@ -290,7 +307,8 @@ window.CONTENT_DATA = {
           "de": "Die gegenseitigen Exkommunikationen werden traditionell auf dieses Jahr datiert. Die Trennung entwickelte sich jedoch über lange Zeit.",
           "en": "Mutual excommunications are traditionally dated to this year. The separation, however, developed over a long period."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "1204",
@@ -302,7 +320,8 @@ window.CONTENT_DATA = {
           "de": "Kreuzfahrer erobern und plündern Konstantinopel. Das Verhältnis zwischen Ost und West wird dadurch schwer belastet.",
           "en": "Crusaders conquer and plunder Constantinople, severely straining relations between East and West."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "1439",
@@ -314,7 +333,8 @@ window.CONTENT_DATA = {
           "de": "Ein Unionsversuch zwischen Ost und West. Er wird von der Mehrheit der Orthodoxen nicht angenommen.",
           "en": "An attempt at union between East and West, which was not accepted by the majority of the Orthodox."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       },
       {
         "year": "1453",
@@ -326,7 +346,8 @@ window.CONTENT_DATA = {
           "de": "Die Stadt fällt an das Osmanische Reich. Das Byzantinische Reich endet.",
           "en": "The city falls to the Ottoman Empire, and the Byzantine Empire comes to an end."
         },
-        "status": "review"
+        "status": "review",
+        "major": true
       },
       {
         "year": "1589",
@@ -338,7 +359,8 @@ window.CONTENT_DATA = {
           "de": "Das Moskauer Patriarchat wird eingerichtet und im Gefüge der orthodoxen Kirchen anerkannt.",
           "en": "The Patriarchate of Moscow is established and recognised within the family of Orthodox churches."
         },
-        "status": "review"
+        "status": "review",
+        "major": false
       }
     ],
     "persons": [

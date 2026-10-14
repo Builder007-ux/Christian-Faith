@@ -66,36 +66,6 @@ function viewPrayers() {
     </section>`;
 }
 
-function viewHistory() {
-  const h = state.content.history || {};
-  const timeline = (h.timeline || []).map((e) => `
-    <li>
-      <span class="year">${esc(e.year)}</span>
-      <div>
-        <strong>${esc(pick(e.title))}</strong>
-        <p>${esc(pick(e.text))}</p>
-      </div>
-    </li>`).join('');
-  const persons = (h.persons || []).map((p) => `
-    <article class="card">
-      <header class="card-head">
-        <h3>${esc(pick(p.name))}</h3>
-        ${reviewBadge()}
-      </header>
-      <p class="meta">${esc(pick(p.dates))}</p>
-      <p>${esc(pick(p.text))}</p>
-    </article>`).join('');
-  return `
-    <section>
-      <h2>${esc(t('history_title'))}</h2>
-      <p class="muted">${esc(t('history_intro'))}</p>
-      <h3 class="subhead">${esc(t('timeline_title'))}</h3>
-      <ol class="timeline">${timeline}</ol>
-      <h3 class="subhead">${esc(t('persons_title'))}</h3>
-      ${persons}
-    </section>`;
-}
-
 function viewCalendar() {
   const now = new Date();
   // Heutiges Datum (lokal) als UTC-Datum, damit keine Zeitzonenverschiebung entsteht.
