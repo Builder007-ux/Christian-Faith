@@ -84,7 +84,7 @@ function timelineHorizontal(items) {
         <div class="th-lower">${lower}</div>
       </li>`;
   }).join('');
-  return `<div class="tl-scroll" tabindex="0" aria-label="${esc(t('history_timeline_scroll'))}"><ol class="tl-h">${cols}</ol></div>`;
+  return `<p class="tl-hint">${esc(t('history_drag_hint'))}</p><div class="tl-scroll" tabindex="0" aria-label="${esc(t('history_timeline_scroll'))}"><ol class="tl-h">${cols}</ol></div>`;
 }
 
 // Kurzfassung für das Fenster beim Überfahren. Fällt auf den Text zurück, wenn keine Kurzfassung da ist.

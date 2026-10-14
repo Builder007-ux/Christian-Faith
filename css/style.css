@@ -475,9 +475,17 @@ details[open] summary { margin-bottom: 0.75rem; }
 }
 
 .tl-scroll:active { cursor: grabbing; }
+
+.tl-hint { margin: 0 2rem 0.25rem; font-size: 0.85rem; color: var(--muted); }
+
+.tl-wrap.is-full .tl-scroll {
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 2.5rem, #000 calc(100% - 2.5rem), transparent);
+  mask-image: linear-gradient(to right, transparent, #000 2.5rem, #000 calc(100% - 2.5rem), transparent);
+}
 .tl-scroll.was-dragged a { pointer-events: none; }
 
 .tl-h {
+  --th-upper: 13.5rem;
   position: relative;
   display: flex;
   list-style: none;
@@ -492,14 +500,13 @@ details[open] summary { margin-bottom: 0.75rem; }
   position: absolute;
   left: 0;
   right: 0;
-  top: calc(var(--th-upper) + 1.1rem - 1px);
+  top: calc(var(--th-upper) + 1.1rem - 1.5px);
   height: 3px;
   border-radius: 2px;
-  background: var(--line);
+  background: color-mix(in srgb, var(--text) 22%, transparent);
 }
 
 .th-item {
-  --th-upper: 13.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
