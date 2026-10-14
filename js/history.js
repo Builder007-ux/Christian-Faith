@@ -87,12 +87,28 @@ function timelineHorizontal(items) {
   return `<div class="tl-scroll" tabindex="0" aria-label="${esc(t('history_timeline_scroll'))}"><ol class="tl-h">${cols}</ol></div>`;
 }
 
+// Kurzfassung für das Fenster beim Überfahren. Fällt auf den Text zurück, wenn keine Kurzfassung da ist.
+function summaryOf(it) {
+  return pick(it.entry.summary) || pick(it.entry.text);
+}
+
+// Glas-Fenster neben dem Kasten: Kurzfassung und Link zur Detailseite.
+function popup(it) {
+  return `
+    <div class="tl-pop" aria-hidden="true">
+      <p class="tl-pop-year">${esc(it.label)}</p>
+      <p>${esc(summaryOf(it))}</p>
+      <a href="${href(it)}" tabindex="-1">${esc(t('history_more'))} →</a>
+    </div>`;
+}
+
 function timelineVertical(items) {
   const rows = items.map((it, i) => {
     const side = i % 2 === 0 ? 'left' : 'right';
     const body = it.kind === 'event' && !it.major ? minorLabel(it) : card(it);
-    const left = side === 'left' ? body : '';
-    const right = side === 'right' ? body : '';
+    const item = `<div class="tl-item">${body}${popup(it)}</div>`;
+    const left = side === 'left' ? item : '';
+    const right = side === 'right' ? item : '';
     return `
       <li class="tv-row side-${side}">
         <div class="tv-left">${left}</div>
@@ -153,7 +169,8 @@ function viewEvent(id) {
         </header>
         <p class="meta">${esc(e.year)}</p>
         <div class="detail-art">${artOf(e, 'event')}</div>
-        <p>${esc(pick(e.text))}</p>
+        <p>${esc(summaryOf({ entry: e }))}</p>
+        ${e.details ? `<p>${esc(pick(e.details))}</p>` : `<p class="muted">${esc(t('history_more_soon'))}</p>`}
       </article>
     </section>`;
 }
@@ -172,7 +189,8 @@ function viewSaint(id) {
         </header>
         <p class="meta">${esc(pick(p.dates))}</p>
         <div class="detail-art">${artOf(p, 'person')}</div>
-        <p>${esc(pick(p.text))}</p>
+        <p>${esc(summaryOf({ entry: p }))}</p>
+        ${p.details ? `<p>${esc(pick(p.details))}</p>` : `<p class="muted">${esc(t('history_more_soon'))}</p>`}
       </article>
     </section>`;
 }
@@ -204,6 +222,16 @@ function viewSaint(id) {
     if (box && box.classList.contains('was-dragged')) {
       e.preventDefault();
       e.stopPropagation();
+      return;
+    }
+    // Ohne Maus (Touch): erster Tipp öffnet das Fenster, zweiter Tipp geht weiter
+    const item = e.target.closest && e.target.closest('.tv .tl-item');
+    if (!item || !window.matchMedia('(hover: none)').matches) return;
+    if (!item.classList.contains('is-open')) {
+      e.preventDefault();
+      e.stopPropagation();
+      document.querySelectorAll('.tl-item.is-open').forEach((x) => x.classList.remove('is-open'));
+      item.classList.add('is-open');
     }
   }, true);
 })();

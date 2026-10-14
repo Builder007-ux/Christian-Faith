@@ -723,3 +723,58 @@ details[open] summary { margin-bottom: 0.75rem; }
 
 .detail-art img { width: 100%; height: 100%; object-fit: cover; }
 .detail-art .art-placeholder { width: 5rem; height: 5rem; }
+
+/* ---------- Glas-Fenster beim Überfahren (vertikaler Zeitstrahl) ---------- */
+
+.tl-item { position: relative; }
+
+.tl-pop {
+  position: absolute;
+  top: 50%;
+  width: 17rem;
+  padding: 0.9rem 1rem;
+  border-radius: 20px;
+  background: color-mix(in srgb, var(--surface) 70%, transparent);
+  -webkit-backdrop-filter: blur(18px) saturate(1.5);
+  backdrop-filter: blur(18px) saturate(1.5);
+  border: 1px solid color-mix(in srgb, var(--text) 12%, transparent);
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.18);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--text);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-50%) scale(0.97);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  z-index: 5;
+}
+
+.tv-left .tl-pop { right: calc(100% + 0.9rem); }
+.tv-right .tl-pop { left: calc(100% + 0.9rem); }
+
+.tl-item.is-open .tl-pop,
+.tl-item:focus-within .tl-pop {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(-50%) scale(1);
+}
+
+@media (hover: hover) {
+  .tl-item:hover .tl-pop {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(-50%) scale(1);
+  }
+}
+
+.tl-pop p { margin: 0.3rem 0 0; }
+.tl-pop-year { font-weight: 600; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tl-pop a { display: inline-block; margin-top: 0.5rem; color: var(--accent); font-weight: 600; text-decoration: none; }
+
+/* Horizontal: kein Fenster, Klick geht direkt zur Detailseite */
+.tl-h .tl-pop { display: none; }
+
+@media (max-width: 640px) {
+  .tl-pop { width: 14rem; }
+  .tv-left .tl-pop, .tv-right .tl-pop { left: calc(100% + 0.6rem); right: auto; }
+}
