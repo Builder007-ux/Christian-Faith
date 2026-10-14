@@ -88,7 +88,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-30"
+        "id": "ev-30",
+        "summary": {
+          "de": "Nach der Auferstehung Christi empfangen die Jünger den Heiligen Geist. Die Kirche beginnt in Jerusalem zu wachsen.",
+          "en": "After the Resurrection of Christ the disciples receive the Holy Spirit. The Church begins to grow in Jerusalem."
+        },
+        "details": {
+          "de": "Die Apostelgeschichte (Kapitel 2) beschreibt das Ereignis. Die Kirche feiert Pfingsten als Fest des Heiligen Geistes, fünfzig Tage nach Ostern.",
+          "en": "The Acts of the Apostles (chapter 2) describes the event. The Church celebrates Pentecost as the feast of the Holy Spirit, fifty days after Pascha."
+        }
       },
       {
         "year": "303–311",
@@ -116,7 +124,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-313"
+        "id": "ev-313",
+        "summary": {
+          "de": "Die Kaiser Konstantin und Licinius erlauben den Christen, ihren Glauben frei auszuüben. Die Verfolgung endet.",
+          "en": "Emperors Constantine and Licinius allow Christians to practise their faith freely. The persecution ends."
+        },
+        "details": {
+          "de": "Das Edikt gibt den Christen dieselbe Freiheit wie anderen Religionen im Reich. Danach kann sich die Kirche offen organisieren.",
+          "en": "The edict gives Christians the same freedom as other religions in the empire. The Church can then organise itself openly."
+        }
       },
       {
         "year": "325",
@@ -130,7 +146,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-325"
+        "id": "ev-325",
+        "summary": {
+          "de": "Das erste ökumenische Konzil formuliert das Glaubensbekenntnis von Nicaea. Die Lehre des Arius wird verworfen.",
+          "en": "The first ecumenical council formulates the Nicene Creed. The teaching of Arius is rejected."
+        },
+        "details": {
+          "de": "Kaiser Konstantin beruft das Konzil ein. Der Begriff „wesensgleich“ (homoousios) wird zentral: Der Sohn ist wesensgleich mit dem Vater.",
+          "en": "Emperor Constantine convenes the council. The term “of one essence” (homoousios) becomes central: the Son is of one essence with the Father."
+        }
       },
       {
         "year": "330",
@@ -158,7 +182,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-381"
+        "id": "ev-381",
+        "summary": {
+          "de": "Das zweite ökumenische Konzil bestätigt das Glaubensbekenntnis und erweitert es um Aussagen über den Heiligen Geist.",
+          "en": "The second ecumenical council confirms the Creed and expands it with statements about the Holy Spirit."
+        },
+        "details": {
+          "de": "Das Nicäno-Konstantinopolitanische Glaubensbekenntnis wird bis heute in der Liturgie gesprochen.",
+          "en": "The Nicene-Constantinopolitan Creed is still recited in the liturgy today."
+        }
       },
       {
         "year": "395",
@@ -186,7 +218,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-431"
+        "id": "ev-431",
+        "summary": {
+          "de": "Das Konzil von Ephesus bestätigt Maria als Gottesgebärerin (Theotokos). Kyrill von Alexandria spielt eine zentrale Rolle.",
+          "en": "The Council of Ephesus confirms Mary as Theotokos, Mother of God. Cyril of Alexandria plays a central role."
+        },
+        "details": {
+          "de": "Der Streit ging um die Frage, wie göttliche und menschliche Natur in Christus verbunden sind. Der Titel Theotokos ist bis heute in der Ostkirche zentral.",
+          "en": "The dispute concerned how the divine and human natures are joined in Christ. The title Theotokos remains central in the Eastern Church today."
+        }
       },
       {
         "year": "451",
@@ -200,7 +240,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-451"
+        "id": "ev-451",
+        "summary": {
+          "de": "Christus wird als wahrer Gott und wahrer Mensch in einer Person bekannt.",
+          "en": "Christ is confessed as true God and true man in one person."
+        },
+        "details": {
+          "de": "Das Konzil formuliert die Lehre von den zwei Naturen Christi, ungetrennt und unvermischt. Die Frage führte später zur Trennung der Kirchen, die bis heute besteht.",
+          "en": "The council formulates the teaching of the two natures of Christ, united without confusion. The question later led to a separation of churches that persists today."
+        }
       },
       {
         "year": "548–565",
@@ -312,7 +360,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-988"
+        "id": "ev-988",
+        "summary": {
+          "de": "Nach der Überlieferung lässt sich Fürst Wladimir von Kiew taufen. Damit beginnt das Christentum im Gebiet der Rus.",
+          "en": "According to tradition, Prince Vladimir of Kyiv is baptised. Christianity begins in the lands of Rus."
+        },
+        "details": {
+          "de": "Die Taufe gilt als Beginn der Kirche in Russland und der Ukraine. Die Einzelheiten sind vor allem aus der Nestorchronik bekannt und in Teilen umstritten.",
+          "en": "The baptism is seen as the beginning of the Church in Russia and Ukraine. The details are known mainly from the Russian Primary Chronicle and are partly disputed."
+        }
       },
       {
         "year": "1054",
@@ -326,7 +382,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-1054"
+        "id": "ev-1054",
+        "summary": {
+          "de": "Die Gesandten des Papstes und der Patriarch von Konstantinopel exkommunizieren sich gegenseitig.",
+          "en": "Papal legates and the Patriarch of Constantinople excommunicate each other."
+        },
+        "details": {
+          "de": "Der Streit betraf unter anderem den Primat des Papstes und den Zusatz „Filioque“ im Glaubensbekenntnis. Das Datum gilt oft als Beginn der Spaltung, die sich aber über lange Zeit entwickelte.",
+          "en": "The dispute concerned, among other things, the primacy of the Pope and the addition “Filioque” to the Creed. The date is often seen as the start of the schism, which developed over a long period."
+        }
       },
       {
         "year": "1204",
@@ -368,7 +432,15 @@ window.CONTENT_DATA = {
         },
         "status": "review",
         "major": true,
-        "id": "ev-1453"
+        "id": "ev-1453",
+        "summary": {
+          "de": "Konstantinopel fällt nach langer Belagerung an das Osmanische Reich. Das Byzantinische Reich endet.",
+          "en": "After a long siege Constantinople falls to the Ottoman Empire. The Byzantine Empire comes to an end."
+        },
+        "details": {
+          "de": "Die Hagia Sophia wird danach als Moschee genutzt. Das Patriarchat von Konstantinopel bleibt als geistliches Zentrum bestehen.",
+          "en": "Hagia Sophia is then used as a mosque. The Patriarchate of Constantinople remains as a spiritual centre."
+        }
       },
       {
         "year": "1589",
@@ -401,7 +473,15 @@ window.CONTENT_DATA = {
           "en": "Bishop of Alexandria and a leading defender of the Nicene faith against Arianism."
         },
         "status": "review",
-        "start": 298
+        "start": 298,
+        "summary": {
+          "de": "Bischof von Alexandria und Verteidiger des Glaubens von Nicaea gegen den Arianismus.",
+          "en": "Bishop of Alexandria and defender of the Nicene faith against Arianism."
+        },
+        "details": {
+          "de": "Er wurde mehrfach aus seinem Amt verbannt. Seine Schriften über die Menschwerdung des Wortes prägen die Theologie bis heute.",
+          "en": "He was exiled from his see several times. His writings on the Incarnation of the Word still shape theology today."
+        }
       },
       {
         "id": "basil",
@@ -418,7 +498,15 @@ window.CONTENT_DATA = {
           "en": "Bishop of Caesarea in Cappadocia. He shaped communal monasticism; the liturgy named after him is attributed to him."
         },
         "status": "review",
-        "start": 330
+        "start": 330,
+        "summary": {
+          "de": "Bischof von Caesarea und Begründer des gemeinschaftlichen Mönchtums im Osten.",
+          "en": "Bishop of Caesarea and founder of communal monasticism in the East."
+        },
+        "details": {
+          "de": "Er verfasste Regeln für Klöster, die in der Orthodoxie bis heute gelten. Die Basilius-Liturgie wird ihm zugeschrieben.",
+          "en": "He wrote monastic rules that still apply in Orthodoxy. The Liturgy of St Basil is attributed to him."
+        }
       },
       {
         "id": "chrysostom",
@@ -435,7 +523,15 @@ window.CONTENT_DATA = {
           "en": "Patriarch of Constantinople, known for his sermons and biblical commentaries. His epithet means “golden-mouthed”."
         },
         "status": "review",
-        "start": 349
+        "start": 349,
+        "summary": {
+          "de": "Patriarch von Konstantinopel, bekannt für seine Predigten.",
+          "en": "Patriarch of Constantinople, known for his sermons."
+        },
+        "details": {
+          "de": "Er kritisierte Machtmissbrauch und Reichtum am Kaiserhof und wurde deshalb verbannt. Seine Bibelauslegungen sind bis heute wichtig.",
+          "en": "He criticised abuse of power and wealth at the imperial court and was exiled for it. His biblical commentaries remain important."
+        }
       },
       {
         "id": "maximus",
@@ -452,7 +548,15 @@ window.CONTENT_DATA = {
           "en": "Monk and theologian. He defended the human and divine wills of Christ and died after persecution and exile."
         },
         "status": "review",
-        "start": 580
+        "start": 580,
+        "summary": {
+          "de": "Mönch und Theologe, der den menschlichen und den göttlichen Willen Christi verteidigte.",
+          "en": "Monk and theologian who defended the human and divine wills of Christ."
+        },
+        "details": {
+          "de": "Er wurde verfolgt, verbannt und starb 662 im Exil.",
+          "en": "He was persecuted, exiled and died in exile in 662."
+        }
       },
       {
         "id": "john-damascus",
@@ -469,7 +573,15 @@ window.CONTENT_DATA = {
           "en": "Theologian and hymnographer from Damascus. He summarized the Orthodox faith and defended the veneration of icons."
         },
         "status": "review",
-        "start": 675
+        "start": 675,
+        "summary": {
+          "de": "Theologe und Hymnendichter, der den orthodoxen Glauben zusammenfasste.",
+          "en": "Theologian and hymnographer who summarised the Orthodox faith."
+        },
+        "details": {
+          "de": "Er verfasste die „Quelle der Erkenntnis“ und verteidigte die Verehrung der Ikonen.",
+          "en": "He wrote the “Fount of Knowledge” and defended the veneration of icons."
+        }
       },
       {
         "id": "gregory-nazianzen",
@@ -486,7 +598,15 @@ window.CONTENT_DATA = {
           "en": "Bishop of Constantinople and theologian, called “the Theologian”. He shaped the doctrine of the Trinity."
         },
         "status": "review",
-        "start": 329
+        "start": 329,
+        "summary": {
+          "de": "Bischof von Konstantinopel, genannt „der Theologe“.",
+          "en": "Bishop of Constantinople, called “the Theologian”."
+        },
+        "details": {
+          "de": "Er prägte die Sprache der Trinitätslehre und hielt berühmte Reden über Gott und den Glauben.",
+          "en": "He shaped the language of the doctrine of the Trinity and gave famous orations on God and faith."
+        }
       },
       {
         "id": "cyril-alexandria",
@@ -503,7 +623,15 @@ window.CONTENT_DATA = {
           "en": "Patriarch of Alexandria. At the Council of Ephesus (431) he defended the title Theotokos, Mother of God."
         },
         "status": "review",
-        "start": 376
+        "start": 376,
+        "summary": {
+          "de": "Patriarch von Alexandria, der auf dem Konzil von Ephesus den Titel Gottesgebärerin verteidigte.",
+          "en": "Patriarch of Alexandria who defended the title Theotokos at the Council of Ephesus."
+        },
+        "details": {
+          "de": "Seine Schriften zur Christologie prägten die folgenden Konzile.",
+          "en": "His writings on Christology shaped the councils that followed."
+        }
       },
       {
         "id": "gregory-palamas",
@@ -520,7 +648,15 @@ window.CONTENT_DATA = {
           "en": "Archbishop of Thessalonica. He defended the distinction between God's essence and energies and the doctrine of the Light of Tabor."
         },
         "status": "review",
-        "start": 1296
+        "start": 1296,
+        "summary": {
+          "de": "Erzbischof von Thessaloniki, der die Lehre vom Taborlicht verteidigte.",
+          "en": "Archbishop of Thessalonica who defended the doctrine of the Light of Tabor."
+        },
+        "details": {
+          "de": "Seine Unterscheidung zwischen Wesen und Energien Gottes wurde im 14. Jahrhundert auf Synoden anerkannt.",
+          "en": "His distinction between God's essence and energies was affirmed by synods in the 14th century."
+        }
       },
       {
         "id": "sergius-radonezh",
@@ -537,7 +673,15 @@ window.CONTENT_DATA = {
           "en": "Monk and founder of the Trinity Monastery near Moscow. He strengthened monasticism in Russia."
         },
         "status": "review",
-        "start": 1314
+        "start": 1314,
+        "summary": {
+          "de": "Mönch, der das Dreifaltigkeitskloster bei Moskau gründete.",
+          "en": "Monk who founded the Trinity Monastery near Moscow."
+        },
+        "details": {
+          "de": "Er gilt als einer der wichtigsten Heiligen Russlands. Sein Kloster wurde ein geistliches Zentrum.",
+          "en": "He is regarded as one of the most important saints of Russia. His monastery became a spiritual centre."
+        }
       },
       {
         "id": "seraphim-sarov",
@@ -554,7 +698,15 @@ window.CONTENT_DATA = {
           "en": "Monk at Sarov Monastery, known for his prayer and his pastoral care for many people."
         },
         "status": "review",
-        "start": 1754
+        "start": 1754,
+        "summary": {
+          "de": "Mönch im Kloster Sarow, bekannt für sein Gebet und seine Hilfe für viele Menschen.",
+          "en": "Monk at Sarov Monastery, known for his prayer and his help to many people."
+        },
+        "details": {
+          "de": "Er lebte viele Jahre als Einsiedler und empfing Menschen, die Rat suchten.",
+          "en": "He lived for many years as a hermit and received people who sought counsel."
+        }
       },
       {
         "id": "antony-great",
@@ -571,7 +723,15 @@ window.CONTENT_DATA = {
           "en": "Hermit in Egypt. He is regarded as the father of Christian monasticism."
         },
         "status": "review",
-        "start": 251
+        "start": 251,
+        "summary": {
+          "de": "Einsiedler in Ägypten und Vater des christlichen Mönchtums.",
+          "en": "Hermit in Egypt and father of Christian monasticism."
+        },
+        "details": {
+          "de": "Er zog sich in die Wüste zurück. Sein Leben wurde von Athanasius beschrieben und früh weit verbreitet.",
+          "en": "He withdrew into the desert. His life was written by Athanasius and quickly spread widely."
+        }
       },
       {
         "id": "pachomius",
@@ -588,7 +748,15 @@ window.CONTENT_DATA = {
           "en": "Founder of communal monastic life in Egypt. He gave his monasteries a common rule."
         },
         "status": "review",
-        "start": 292
+        "start": 292,
+        "summary": {
+          "de": "Gründer des gemeinschaftlichen Klosterlebens in Ägypten.",
+          "en": "Founder of communal monastic life in Egypt."
+        },
+        "details": {
+          "de": "Er gründete mehrere Klöster mit einer gemeinsamen Regel.",
+          "en": "He founded several monasteries with a common rule."
+        }
       },
       {
         "id": "ephrem-syrus",
@@ -605,7 +773,15 @@ window.CONTENT_DATA = {
           "en": "Deacon and poet from Edessa. He wrote hymns and sermons in Syriac."
         },
         "status": "review",
-        "start": 306
+        "start": 306,
+        "summary": {
+          "de": "Diakon und Dichter in Edessa, der Hymnen in syrischer Sprache schrieb.",
+          "en": "Deacon and poet in Edessa who wrote hymns in Syriac."
+        },
+        "details": {
+          "de": "Seine Hymnen werden bis heute verehrt. Er gilt als einer der wichtigsten Dichter der syrischen Kirche.",
+          "en": "His hymns are still revered. He is considered one of the most important poets of the Syriac Church."
+        }
       },
       {
         "id": "gregory-nyssa",
@@ -622,7 +798,15 @@ window.CONTENT_DATA = {
           "en": "Bishop of Nyssa and brother of Basil. He shaped the theology of the Trinity and of spiritual experience."
         },
         "status": "review",
-        "start": 335
+        "start": 335,
+        "summary": {
+          "de": "Bischof von Nyssa und Bruder des Basilius, Theologe der Trinität.",
+          "en": "Bishop of Nyssa and brother of Basil, theologian of the Trinity."
+        },
+        "details": {
+          "de": "Er schrieb über das geistliche Leben als Weg zur Gemeinschaft mit Gott.",
+          "en": "He wrote about the spiritual life as a path to communion with God."
+        }
       },
       {
         "id": "cyril-methodius",
@@ -639,7 +823,15 @@ window.CONTENT_DATA = {
           "en": "Brothers from Thessalonica and missionaries to the Slavs. The Glagolitic script is attributed to them."
         },
         "status": "review",
-        "start": 826
+        "start": 826,
+        "summary": {
+          "de": "Brüder aus Thessaloniki, die die Slawen missionierten und die Bibel übersetzten.",
+          "en": "Brothers from Thessalonica who evangelised the Slavs and translated the Bible."
+        },
+        "details": {
+          "de": "Sie schufen Grundlagen der slawischen Schrift. Kyrill und Method gelten als Apostel der Slawen.",
+          "en": "They laid foundations for the Slavic script. Cyril and Methodius are regarded as apostles of the Slavs."
+        }
       },
       {
         "id": "photius",
@@ -656,7 +848,15 @@ window.CONTENT_DATA = {
           "en": "Patriarch of Constantinople and scholar. His dispute with Rome is regarded as a precursor of the later schism."
         },
         "status": "review",
-        "start": 810
+        "start": 810,
+        "summary": {
+          "de": "Patriarch von Konstantinopel und bedeutender Gelehrter.",
+          "en": "Patriarch of Constantinople and an important scholar."
+        },
+        "details": {
+          "de": "Sein Streit mit Papst Nikolaus I. gilt als Vorläufer der späteren Spaltung. Er verfasste die „Bibliothek“, eine Sammlung von Lesefrüchten.",
+          "en": "His dispute with Pope Nicholas I is seen as a precursor of the later schism. He wrote the “Bibliotheca”, a collection of summaries of books he had read."
+        }
       },
       {
         "id": "symeon-theologian",
@@ -673,7 +873,15 @@ window.CONTENT_DATA = {
           "en": "Mystic and theologian. He emphasised personal prayer and the experience of the divine light."
         },
         "status": "review",
-        "start": 949
+        "start": 949,
+        "summary": {
+          "de": "Mystiker, der das persönliche Gebet und die Erfahrung des göttlichen Lichts betonte.",
+          "en": "Mystic who emphasised personal prayer and the experience of the divine light."
+        },
+        "details": {
+          "de": "Er wurde zu Lebzeiten angefeindet und verbannt. Seine Schriften wurden im späteren Mönchtum viel gelesen.",
+          "en": "He was opposed and exiled during his lifetime. His writings were widely read in later monasticism."
+        }
       }
     ]
   }
