@@ -87,7 +87,8 @@ window.CONTENT_DATA = {
           "en": "After the Resurrection the disciples receive the Holy Spirit and the Church begins in Jerusalem. The exact year is uncertain."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-30"
       },
       {
         "year": "303–311",
@@ -100,7 +101,8 @@ window.CONTENT_DATA = {
           "en": "The last great persecution in the Roman Empire. It ends with the edict of toleration issued by Galerius in 311."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-303-311"
       },
       {
         "year": "313",
@@ -113,7 +115,8 @@ window.CONTENT_DATA = {
           "en": "Emperors Constantine and Licinius grant freedom of worship throughout the empire, including to Christians."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-313"
       },
       {
         "year": "325",
@@ -126,7 +129,8 @@ window.CONTENT_DATA = {
           "en": "The Nicene Creed is formulated; the teaching of Arius is rejected."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-325"
       },
       {
         "year": "330",
@@ -139,7 +143,8 @@ window.CONTENT_DATA = {
           "en": "Emperor Constantine dedicates Constantinople as the new imperial capital, which becomes a spiritual centre of the East."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-330"
       },
       {
         "year": "381",
@@ -152,7 +157,8 @@ window.CONTENT_DATA = {
           "en": "The Nicene-Constantinopolitan Creed is confirmed and expanded."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-381"
       },
       {
         "year": "395",
@@ -165,7 +171,8 @@ window.CONTENT_DATA = {
           "en": "The empire is permanently divided into a western and an eastern half. The Greek-speaking East develops into Byzantium."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-395"
       },
       {
         "year": "431",
@@ -178,7 +185,8 @@ window.CONTENT_DATA = {
           "en": "Mary is affirmed as Theotokos, the Mother of God."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-431"
       },
       {
         "year": "451",
@@ -191,7 +199,8 @@ window.CONTENT_DATA = {
           "en": "Christ is confessed as true God and true man in one person."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-451"
       },
       {
         "year": "548–565",
@@ -204,7 +213,8 @@ window.CONTENT_DATA = {
           "en": "Emperor Justinian has a monastery built at Mount Sinai. It still exists today and is one of the oldest continuously inhabited Christian monasteries."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-548-565"
       },
       {
         "year": "553",
@@ -217,7 +227,8 @@ window.CONTENT_DATA = {
           "en": "Writings that support the teaching of Nestorius are condemned."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-553"
       },
       {
         "year": "680–681",
@@ -230,7 +241,8 @@ window.CONTENT_DATA = {
           "en": "The teaching of a single will in Christ is rejected. Christ has a divine and a human will."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-680-681"
       },
       {
         "year": "787",
@@ -243,7 +255,8 @@ window.CONTENT_DATA = {
           "en": "The veneration of icons is affirmed."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-787"
       },
       {
         "year": "843",
@@ -256,7 +269,8 @@ window.CONTENT_DATA = {
           "en": "The end of the iconoclastic controversy in Constantinople is commemorated."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-843"
       },
       {
         "year": "863",
@@ -269,7 +283,8 @@ window.CONTENT_DATA = {
           "en": "The brothers Cyril and Methodius are sent to Moravia. They translate the Bible and the liturgy into Slavonic."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-863"
       },
       {
         "year": "867",
@@ -282,7 +297,8 @@ window.CONTENT_DATA = {
           "en": "Patriarch Photius and Pope Nicholas I condemn each other. The dispute was later settled, but the tensions remained."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-867"
       },
       {
         "year": "988",
@@ -295,7 +311,8 @@ window.CONTENT_DATA = {
           "en": "According to tradition, Prince Vladimir and his people are baptised. Christianity shapes the culture of the East Slavs from then on."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-988"
       },
       {
         "year": "1054",
@@ -308,7 +325,8 @@ window.CONTENT_DATA = {
           "en": "Mutual excommunications are traditionally dated to this year. The separation, however, developed over a long period."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-1054"
       },
       {
         "year": "1204",
@@ -321,7 +339,8 @@ window.CONTENT_DATA = {
           "en": "Crusaders conquer and plunder Constantinople, severely straining relations between East and West."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-1204"
       },
       {
         "year": "1439",
@@ -334,7 +353,8 @@ window.CONTENT_DATA = {
           "en": "An attempt at union between East and West, which was not accepted by the majority of the Orthodox."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-1439"
       },
       {
         "year": "1453",
@@ -347,7 +367,8 @@ window.CONTENT_DATA = {
           "en": "The city falls to the Ottoman Empire, and the Byzantine Empire comes to an end."
         },
         "status": "review",
-        "major": true
+        "major": true,
+        "id": "ev-1453"
       },
       {
         "year": "1589",
@@ -360,7 +381,8 @@ window.CONTENT_DATA = {
           "en": "The Patriarchate of Moscow is established and recognised within the family of Orthodox churches."
         },
         "status": "review",
-        "major": false
+        "major": false,
+        "id": "ev-1589"
       }
     ],
     "persons": [
@@ -378,7 +400,8 @@ window.CONTENT_DATA = {
           "de": "Bischof von Alexandria und entschiedener Verteidiger des Glaubens von Nicaea gegen den Arianismus.",
           "en": "Bishop of Alexandria and a leading defender of the Nicene faith against Arianism."
         },
-        "status": "review"
+        "status": "review",
+        "start": 298
       },
       {
         "id": "basil",
@@ -394,7 +417,8 @@ window.CONTENT_DATA = {
           "de": "Bischof von Caesarea in Kappadokien. Er prägte das gemeinschaftliche Mönchtum; die nach ihm benannte Liturgie wird ihm zugeschrieben.",
           "en": "Bishop of Caesarea in Cappadocia. He shaped communal monasticism; the liturgy named after him is attributed to him."
         },
-        "status": "review"
+        "status": "review",
+        "start": 330
       },
       {
         "id": "chrysostom",
@@ -410,7 +434,8 @@ window.CONTENT_DATA = {
           "de": "Patriarch von Konstantinopel, bekannt für seine Predigten und Schriftauslegungen. Sein Beiname bedeutet „Goldmund“.",
           "en": "Patriarch of Constantinople, known for his sermons and biblical commentaries. His epithet means “golden-mouthed”."
         },
-        "status": "review"
+        "status": "review",
+        "start": 349
       },
       {
         "id": "maximus",
@@ -426,7 +451,8 @@ window.CONTENT_DATA = {
           "de": "Mönch und Theologe. Er verteidigte den menschlichen und den göttlichen Willen Christi und starb nach Verfolgung und Verbannung.",
           "en": "Monk and theologian. He defended the human and divine wills of Christ and died after persecution and exile."
         },
-        "status": "review"
+        "status": "review",
+        "start": 580
       },
       {
         "id": "john-damascus",
@@ -442,7 +468,8 @@ window.CONTENT_DATA = {
           "de": "Theologe und Hymnendichter aus Damaskus. Er fasste den orthodoxen Glauben zusammen und verteidigte die Verehrung der Ikonen.",
           "en": "Theologian and hymnographer from Damascus. He summarized the Orthodox faith and defended the veneration of icons."
         },
-        "status": "review"
+        "status": "review",
+        "start": 675
       },
       {
         "id": "gregory-nazianzen",
@@ -458,7 +485,8 @@ window.CONTENT_DATA = {
           "de": "Bischof von Konstantinopel und Theologe, „der Theologe“ genannt. Er prägte die Lehre von der Dreifaltigkeit.",
           "en": "Bishop of Constantinople and theologian, called “the Theologian”. He shaped the doctrine of the Trinity."
         },
-        "status": "review"
+        "status": "review",
+        "start": 329
       },
       {
         "id": "cyril-alexandria",
@@ -474,7 +502,8 @@ window.CONTENT_DATA = {
           "de": "Patriarch von Alexandria. Auf dem Konzil von Ephesus (431) verteidigte er den Titel Gottesgebärerin (Theotokos).",
           "en": "Patriarch of Alexandria. At the Council of Ephesus (431) he defended the title Theotokos, Mother of God."
         },
-        "status": "review"
+        "status": "review",
+        "start": 376
       },
       {
         "id": "gregory-palamas",
@@ -490,7 +519,8 @@ window.CONTENT_DATA = {
           "de": "Erzbischof von Thessaloniki. Er verteidigte die Unterscheidung zwischen Wesen und Energien Gottes und die Lehre vom Taborlicht.",
           "en": "Archbishop of Thessalonica. He defended the distinction between God's essence and energies and the doctrine of the Light of Tabor."
         },
-        "status": "review"
+        "status": "review",
+        "start": 1296
       },
       {
         "id": "sergius-radonezh",
@@ -506,7 +536,8 @@ window.CONTENT_DATA = {
           "de": "Mönch und Gründer des Dreifaltigkeitsklosters bei Moskau. Er stärkte das Mönchtum in Russland.",
           "en": "Monk and founder of the Trinity Monastery near Moscow. He strengthened monasticism in Russia."
         },
-        "status": "review"
+        "status": "review",
+        "start": 1314
       },
       {
         "id": "seraphim-sarov",
@@ -522,7 +553,8 @@ window.CONTENT_DATA = {
           "de": "Mönch im Kloster Sarow, bekannt für sein Gebet und seine seelsorgliche Hilfe für viele Menschen.",
           "en": "Monk at Sarov Monastery, known for his prayer and his pastoral care for many people."
         },
-        "status": "review"
+        "status": "review",
+        "start": 1754
       },
       {
         "id": "antony-great",
@@ -538,7 +570,8 @@ window.CONTENT_DATA = {
           "de": "Einsiedler in Ägypten. Er gilt als Vater des christlichen Mönchtums.",
           "en": "Hermit in Egypt. He is regarded as the father of Christian monasticism."
         },
-        "status": "review"
+        "status": "review",
+        "start": 251
       },
       {
         "id": "pachomius",
@@ -554,7 +587,8 @@ window.CONTENT_DATA = {
           "de": "Gründer des gemeinschaftlichen Klosterlebens in Ägypten. Er gab seinen Klöstern eine gemeinsame Regel.",
           "en": "Founder of communal monastic life in Egypt. He gave his monasteries a common rule."
         },
-        "status": "review"
+        "status": "review",
+        "start": 292
       },
       {
         "id": "ephrem-syrus",
@@ -570,7 +604,8 @@ window.CONTENT_DATA = {
           "de": "Diakon und Dichter aus Edessa. Er schrieb Hymnen und Predigten in syrischer Sprache.",
           "en": "Deacon and poet from Edessa. He wrote hymns and sermons in Syriac."
         },
-        "status": "review"
+        "status": "review",
+        "start": 306
       },
       {
         "id": "gregory-nyssa",
@@ -586,7 +621,8 @@ window.CONTENT_DATA = {
           "de": "Bischof von Nyssa und Bruder des Basilius. Er prägte die Theologie der Trinität und der geistlichen Erfahrung.",
           "en": "Bishop of Nyssa and brother of Basil. He shaped the theology of the Trinity and of spiritual experience."
         },
-        "status": "review"
+        "status": "review",
+        "start": 335
       },
       {
         "id": "cyril-methodius",
@@ -602,7 +638,8 @@ window.CONTENT_DATA = {
           "de": "Brüder aus Thessaloniki und Missionare der Slawen. Ihnen wird die glagolitische Schrift zugeschrieben.",
           "en": "Brothers from Thessalonica and missionaries to the Slavs. The Glagolitic script is attributed to them."
         },
-        "status": "review"
+        "status": "review",
+        "start": 826
       },
       {
         "id": "photius",
@@ -618,7 +655,8 @@ window.CONTENT_DATA = {
           "de": "Patriarch von Konstantinopel und Gelehrter. Sein Streit mit Rom gilt als Vorläufer der späteren Spaltung.",
           "en": "Patriarch of Constantinople and scholar. His dispute with Rome is regarded as a precursor of the later schism."
         },
-        "status": "review"
+        "status": "review",
+        "start": 810
       },
       {
         "id": "symeon-theologian",
@@ -634,7 +672,8 @@ window.CONTENT_DATA = {
           "de": "Mystiker und Theologe. Er betonte das persönliche Gebet und die Erfahrung des göttlichen Lichts.",
           "en": "Mystic and theologian. He emphasised personal prayer and the experience of the divine light."
         },
-        "status": "review"
+        "status": "review",
+        "start": 949
       }
     ]
   }

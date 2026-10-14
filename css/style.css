@@ -432,164 +432,6 @@ details[open] summary { margin-bottom: 0.75rem; }
   color: var(--bg);
 }
 
-/* ---------- Ereigniskasten ---------- */
-
-.event-box {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  width: 11rem;
-  padding: 0.5rem;
-  font: inherit;
-  color: var(--text);
-  text-align: left;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  cursor: pointer;
-}
-
-.event-box:hover { border-color: var(--gold); }
-
-.event-art {
-  display: grid;
-  place-items: center;
-  height: 6.5rem;
-  border-radius: 12px;
-  background: var(--bg);
-  color: var(--muted);
-  overflow: hidden;
-}
-
-.event-art img { width: 100%; height: 100%; object-fit: cover; }
-.art-placeholder { width: 3.5rem; height: 3.5rem; }
-
-.event-name {
-  margin-top: 0.5rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-.event-detail {
-  margin-top: 0.5rem;
-  max-width: 22rem;
-  padding: 0.75rem 1rem;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 14px;
-}
-
-.event-detail p { margin: 0.25rem 0; }
-
-/* ---------- Zeitstrahl vertikal ---------- */
-
-.tl-vertical {
-  list-style: none;
-  margin: 1rem 0;
-  padding: 0;
-}
-
-.tl-row {
-  position: relative;
-  display: grid;
-  grid-template-columns: 4.5rem 1.25rem 1fr;
-  align-items: start;
-  gap: 0.5rem;
-  padding-bottom: 1rem;
-}
-
-.tl-year {
-  font-variant-numeric: tabular-nums;
-  font-weight: 600;
-  color: var(--muted);
-  font-size: 0.9rem;
-  text-align: right;
-  padding-top: 0.2rem;
-}
-
-.tl-stem {
-  position: relative;
-  justify-self: center;
-  width: 2px;
-  align-self: stretch;
-  background: var(--line);
-}
-
-.tl-stem::after {
-  content: "";
-  position: absolute;
-  top: 0.35rem;
-  left: 50%;
-  width: 0.7rem;
-  height: 0.7rem;
-  transform: translateX(-50%);
-  border-radius: 50%;
-  background: var(--gold);
-}
-
-.tl-row:not(.is-major) .tl-stem::after { width: 0.45rem; height: 0.45rem; background: var(--line); }
-
-.tl-minor { margin: 0.1rem 0; font-size: 0.95rem; }
-
-/* ---------- Zeitstrahl horizontal ---------- */
-
-.tl-scroll {
-  overflow-x: auto;
-  margin: 1rem -1.5rem;
-  padding: 0.5rem 1.5rem 1rem;
-}
-
-.tl-horizontal {
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  min-width: max-content;
-}
-
-.tl-col {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 11.5rem;
-  position: relative;
-}
-
-.tl-col-top { height: 9rem; display: flex; align-items: flex-end; justify-content: center; text-align: center; }
-
-.tl-stem-v {
-  width: 2px;
-  height: 1.5rem;
-  background: var(--line);
-}
-
-.tl-dot {
-  width: 0.7rem;
-  height: 0.7rem;
-  border-radius: 50%;
-  background: var(--gold);
-  position: relative;
-  z-index: 1;
-}
-
-.tl-col:not(.is-major) .tl-dot { width: 0.45rem; height: 0.45rem; background: var(--line); }
-
-.tl-horizontal { position: relative; }
-
-/* Zeitlinie: läuft durch die Mitte aller Punkte */
-.tl-horizontal::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: calc(9rem + 1.5rem + 0.35rem - 1px);
-  height: 2px;
-  background: var(--line);
-}
-
-.tl-horizontal .tl-year { text-align: center; padding-top: 0.4rem; }
-
 /* ---------- Heilige ---------- */
 
 .saint-grid {
@@ -613,3 +455,271 @@ details[open] summary { margin-bottom: 0.75rem; }
 
 .back { display: inline-block; margin-bottom: 0.75rem; text-decoration: none; color: var(--muted); }
 .saint-detail { padding: 1.4rem 1.5rem; }
+
+/* ---------- Zeitstrahl (Kirchengeschichte) ---------- */
+
+.tl-wrap { margin: 1rem 0 1.5rem; }
+
+/* Horizontal über die ganze Bildschirmbreite */
+.tl-wrap.is-full {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+
+.tl-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  cursor: grab;
+  padding: 0.5rem 0 1rem;
+  scrollbar-width: thin;
+}
+
+.tl-scroll:active { cursor: grabbing; }
+.tl-scroll.was-dragged a { pointer-events: none; }
+
+.tl-h {
+  position: relative;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0 4rem;
+  min-width: max-content;
+}
+
+/* Die Hauptlinie durch alle Punkte */
+.tl-h::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(var(--th-upper) + 1.1rem - 1px);
+  height: 3px;
+  border-radius: 2px;
+  background: var(--line);
+}
+
+.th-item {
+  --th-upper: 13.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15rem;
+  flex: 0 0 15rem;
+}
+
+.th-upper {
+  height: var(--th-upper);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.th-lower {
+  height: 13.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.th-line { height: 2.2rem; display: flex; justify-content: center; align-items: flex-start; }
+
+.th-stem {
+  width: 3px;
+  height: 1.6rem;
+  background: var(--line);
+}
+
+.th-dot {
+  display: block;
+  margin-top: 0.75rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: var(--line);
+  position: relative;
+  z-index: 1;
+}
+
+.th-dot.is-major {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-top: 0.65rem;
+  background: var(--gold);
+}
+
+.th-year {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* Kästen: Ereignis breit, Person hoch */
+.tl-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  color: var(--text);
+  text-decoration: none;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 0.5rem;
+  transition: border-color 0.15s;
+}
+
+.tl-card:hover { border-color: var(--gold); }
+
+.tl-event { width: 13.5rem; }
+.tl-person { width: 10.5rem; }
+
+.tl-card-art {
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--muted);
+  overflow: hidden;
+}
+
+.tl-event .tl-card-art { height: 6.5rem; }
+.tl-person .tl-card-art { height: 9rem; }
+
+.tl-card-art img { width: 100%; height: 100%; object-fit: cover; }
+.art-placeholder { width: 3.5rem; height: 3.5rem; }
+
+.tl-card-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  padding: 0 0.25rem 0.25rem;
+}
+
+.tl-minor {
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+  max-width: 11rem;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.tl-minor:hover { color: var(--text); }
+
+/* Vertikal: Linie in der Mitte, Kästen links und rechts */
+.tv {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tv-row {
+  display: grid;
+  grid-template-columns: 1fr 6rem 1fr;
+  align-items: center;
+  padding: 0.6rem 0;
+}
+
+.tv-left { display: flex; justify-content: flex-end; position: relative; }
+.tv-right { display: flex; justify-content: flex-start; position: relative; }
+
+.tv-axis {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+}
+
+.tv-axis::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 3px;
+  transform: translateX(-50%);
+  background: var(--line);
+  border-radius: 2px;
+}
+
+.tv-dot {
+  position: relative;
+  margin-top: 50%;
+  transform: translateY(-50%);
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: var(--line);
+  z-index: 1;
+}
+
+.tv-dot.is-major {
+  width: 0.9rem;
+  height: 0.9rem;
+  background: var(--gold);
+}
+
+.tv-year {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-190%);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+  z-index: 1;
+}
+
+/* Strich vom Kasten zur Mittellinie */
+.tv-left .tl-card::after,
+.tv-right .tl-card::before,
+.tv-left .tl-minor::after,
+.tv-right .tl-minor::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 2.2rem;
+  height: 3px;
+  background: var(--line);
+  transform: translateY(-50%);
+}
+
+.tv-left .tl-card::after,
+.tv-left .tl-minor::after { left: 100%; }
+.tv-right .tl-card::before,
+.tv-right .tl-minor::before { right: 100%; }
+
+.tv-left .tl-card, .tv-left .tl-minor { position: relative; }
+.tv-right .tl-card, .tv-right .tl-minor { position: relative; }
+
+.tv-row .tl-card { position: relative; }
+
+@media (max-width: 640px) {
+  .tv-row { grid-template-columns: 2.5rem 1fr; }
+  .tv-left, .tv-right { grid-column: 2; grid-row: 1; justify-content: flex-start; }
+  .tv-axis { grid-column: 1; grid-row: 1; }
+  .tv-row:has(.tv-left:empty) .tv-right,
+  .tv-row:has(.tv-right:empty) .tv-left { display: flex; }
+  .tv-left:empty, .tv-right:empty { display: none; }
+  .tv-left .tl-card::after, .tv-left .tl-minor::after { left: auto; right: 100%; }
+  .tv-year { transform: translateY(-190%); }
+  .tv-axis::before { left: 0.5rem; }
+  .tv-dot { margin-top: 50%; }
+}
+
+.detail-art {
+  display: grid;
+  place-items: center;
+  height: 12rem;
+  margin: 0.5rem 0 1rem;
+  border-radius: 16px;
+  background: var(--bg);
+  color: var(--muted);
+  overflow: hidden;
+}
+
+.detail-art img { width: 100%; height: 100%; object-fit: cover; }
+.detail-art .art-placeholder { width: 5rem; height: 5rem; }

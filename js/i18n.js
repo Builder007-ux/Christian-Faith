@@ -43,7 +43,8 @@ const UI = {
     history_saints_intro: 'Heilige, die die Kirche geprägt haben. Auf einen Namen tippen, um Details zu lesen.',
     history_view_vertical: 'Vertikal',
     history_view_horizontal: 'Horizontal',
-    history_back: '← Zurück zu den Heiligen',
+    history_back_timeline: '← Zurück zum Zeitstrahl',
+    history_timeline_scroll: 'Zeitstrahl, nach links und rechts ziehen oder scrollen',
     history_placeholder_note: 'Bild folgt',
     history_major: 'Wichtiges Ereignis',
 
@@ -102,7 +103,8 @@ const UI = {
     history_saints_intro: 'Saints who shaped the Church. Tap a name to read more.',
     history_view_vertical: 'Vertical',
     history_view_horizontal: 'Horizontal',
-    history_back: '← Back to saints',
+    history_back_timeline: '← Back to the timeline',
+    history_timeline_scroll: 'Timeline, drag or scroll left and right',
     history_placeholder_note: 'Image to follow',
     history_major: 'Major event',
 
