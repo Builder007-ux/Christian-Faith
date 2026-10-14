@@ -4551,7 +4551,7 @@ window.BIBLE_OT = [
     "chapter": 37,
     "verses": [
      {
-      "verse": 1,
+      "verse": "1-2",
       "text": "And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach."
      },
      {
@@ -4687,7 +4687,7 @@ window.BIBLE_OT = [
       "text": "And the Madianites sold Joseph into Egypt; to Petephres, the eunuch of Pharao, captain of the guard."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 38,
@@ -31267,7 +31267,7 @@ window.BIBLE_OT = [
     "chapter": 13,
     "verses": [
      {
-      "verse": 1,
+      "verse": "1-2",
       "text": "And Saul chooses for himself three thousand men of the men of Israel: and there were with Saul two thousand who were in Machmas, and in mount Baethel, and a thousand were with Jonathan in Gabaa of Benjamin: and he sent the rest of the people every man to his tent."
      },
      {
@@ -31355,7 +31355,7 @@ window.BIBLE_OT = [
       "text": "And there went out some from the camp of the Philistines to the place beyond Machmas."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 14,
@@ -37263,7 +37263,7 @@ window.BIBLE_OT = [
     "chapter": 7,
     "verses": [
      {
-      "verse": 1,
+      "verse": "1-12",
       "text": ""
      },
      {
@@ -38049,7 +38049,7 @@ window.BIBLE_OT = [
     "chapter": 12,
     "verses": [
      {
-      "verse": 1,
+      "verse": "1-2",
       "text": "And king Roboam goes to Sikima; for all Israel were coming to Sikima to make him king."
      },
      {
@@ -38173,7 +38173,7 @@ window.BIBLE_OT = [
       "text": "and went up to the altar which he made in Baethel to sacrifice to the heifers which he made, and he placed in Baethel the priests of the high places which he had made. And he went up to the altar which he had made, on the fifteenth day in the eighth month, at the feast which he devised out of his own heart; and he made a feast to the children of Israel, and went up to the altar to sacrifice."
      }
     ],
-    "status": "review"
+    "status": "ok"
    },
    {
     "chapter": 13,
@@ -38321,7 +38321,7 @@ window.BIBLE_OT = [
     "chapter": 14,
     "verses": [
      {
-      "verse": 1,
+      "verse": "1-20",
       "text": ""
      },
      {
