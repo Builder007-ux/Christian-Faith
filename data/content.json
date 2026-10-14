@@ -157,6 +157,16 @@
         "sections": [
           {
             "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Nach seinem Sieg über Licinius (324) wollte Kaiser Konstantin das Reich auch kirchlich einen. Der Streit um Arius hatte sich im Osten ausgebreitet und drohte die Gemeinden zu spalten.",
+              "en": "After defeating Licinius in 324, Emperor Constantine wanted to unite the empire in the Church as well. The dispute over Arius had spread through the East and threatened to divide the communities."
+            }
+          },
+          {
+            "heading": {
               "de": "Was geschah",
               "en": "What happened"
             },
@@ -184,12 +194,14 @@
               "de": [
                 "Das ursprüngliche Glaubensbekenntnis von Nicaea. Zentral wurde der Begriff homoousios: der Sohn ist wesensgleich mit dem Vater.",
                 "Arius wurde verbannt. Zwei Bischöfe, die das Bekenntnis nicht unterschreiben wollten, wurden abgesetzt und verbannt.",
-                "Eine gemeinsame Regel zur Berechnung des Osterfestes."
+                "Eine gemeinsame Regel zur Berechnung des Osterfestes.",
+                "Zwanzig Kirchenregeln (Kanones), u. a. zu Priesterweihe und zur Einheit der Kirche."
               ],
               "en": [
                 "The original Nicene Creed. The term homoousios became central: the Son is of one essence with the Father.",
                 "Arius was exiled. Two bishops who refused to sign the Creed were deposed and exiled.",
-                "A common rule for calculating the date of Pascha."
+                "A common rule for calculating the date of Pascha.",
+                "Twenty canons (church rules), including on ordination and on the unity of the Church."
               ]
             }
           },
@@ -564,6 +576,26 @@
                 "He defended the faith of Nicaea. He was expelled from Alexandria several times and spent more than twenty years in exile in total.",
                 "He wrote about the divine and human natures of Christ and defended the full divinity of the Holy Spirit."
               ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Sein bekanntester Gedanke lautet sinngemäß: Gott wurde Mensch, damit der Mensch vergöttlicht werden kann. Gemeint ist, dass der Mensch durch die Gemeinschaft mit Christus am Leben Gottes teilhat, ohne selbst Gott zu werden.",
+              "en": "His best-known idea can be summarised as follows: God became man so that man might be deified. He means that through communion with Christ a person shares in the life of God without becoming God."
+            }
+          },
+          {
+            "heading": {
+              "de": "Kanon der Schrift",
+              "en": "Canon of Scripture"
+            },
+            "text": {
+              "de": "In seinem Osterbrief des Jahres 367 nennt er genau die 27 Bücher des Neuen Testaments, wie sie heute gelten. Das gilt als eine der frühesten Listen dieser Art.",
+              "en": "In his Easter letter of 367 he lists exactly the 27 books of the New Testament as they are recognised today. This is considered one of the earliest lists of its kind."
             }
           },
           {
