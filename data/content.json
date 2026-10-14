@@ -315,13 +315,83 @@
         "major": true,
         "id": "ev-381",
         "summary": {
-          "de": "Das zweite ökumenische Konzil bestätigt das Glaubensbekenntnis und erweitert es um Aussagen über den Heiligen Geist.",
-          "en": "The second ecumenical council confirms the Creed and expands it with statements about the Holy Spirit."
+          "de": "Das zweite ökumenische Konzil bekräftigt das Glaubensbekenntnis von Nizäa und ergänzt es um Aussagen über den Heiligen Geist.",
+          "en": "The second ecumenical council confirms the Nicene Creed and adds statements about the Holy Spirit."
         },
         "details": {
-          "de": "Das Nicäno-Konstantinopolitanische Glaubensbekenntnis wird bis heute in der Liturgie gesprochen.",
+          "de": "Das Glaubensbekenntnis von Nizäa-Konstantinopel wird bis heute in der Liturgie gebetet.",
           "en": "The Nicene-Constantinopolitan Creed is still recited in the liturgy today."
-        }
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Nach dem Konzil von Nizäa (325) blieb die Frage offen, wie der Heilige Geist zu verstehen ist. Die Pneumatomachen (Makedonianer) bestritten, dass der Geist wahrer Gott ist. Dazu kam der Streit um Apollinaris, der Christus eine menschliche Seele absprach. Kaiser Theodosius I. wollte die Reichskirche im Osten neu ordnen.",
+              "en": "After the Council of Nicaea (325) the question of how to understand the Holy Spirit remained open. The Pneumatomachians (Macedonians) denied that the Spirit is true God. In addition there was the dispute over Apollinaris, who denied that Christ had a human soul. Emperor Theodosius I wanted to reorganise the Church of the East."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Kaiser Theodosius I. berief das Konzil 381 nach Konstantinopel. Es tagte von Mai bis Juli in der Kirche Hagia Irene. Gregor von Nazianz führte zunächst den Vorsitz, bis Meletius von Antiochien kurz nach der Eröffnung starb. Gregor legte danach sein Amt nieder, und Nektarios wurde Vorsitzender. Die Synode bekräftigte Nizäa, verurteilte Arianer, Makedonianer und Apollinaristen und sprach vom Geist als dem Herrn, der lebendig macht und vom Vater ausgeht.",
+              "en": "Emperor Theodosius I convened the council at Constantinople in 381. It met from May to July in the church of Hagia Irene. Gregory of Nazianzus first presided, until Meletius of Antioch died shortly after the opening. Gregory then resigned and Nectarius became president. The council reaffirmed Nicaea, condemned Arians, Macedonians and Apollinarians, and spoke of the Spirit as the Lord who gives life and proceeds from the Father."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who took part"
+            },
+            "text": {
+              "de": "Nach den meisten Angaben kamen rund 150 Bischöfe, alle aus dem Osten. Eine westliche Vertretung fehlte. Die Angaben zur Zahl sind in den Quellen nicht einheitlich.",
+              "en": "Most sources give about 150 bishops, all from the East. There was no Western representation. The figures in the sources are not uniform."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Bekräftigung des Glaubens von Nizäa, ergänzt um die Lehre vom Heiligen Geist. Ob das heutige Bekenntnis damals offiziell beschlossen wurde, ist in der Forschung umstritten.",
+                "Sieben Kanones (Kirchenregeln). Der dritte gibt dem Bischof von Konstantinopel den Ehrenrang nach Rom, „weil Konstantinopel das neue Rom ist“.",
+                "Die Kirche in Rom und Alexandrien empfand den dritten Kanon als Eingriff in ihre Stellung."
+              ],
+              "en": [
+                "Reaffirmation of the faith of Nicaea, supplemented by the teaching on the Holy Spirit. Whether the present creed was officially adopted at that time is disputed among scholars.",
+                "Seven canons (church rules). The third gives the Bishop of Constantinople honour after the Bishop of Rome, “because Constantinople is New Rome”.",
+                "The churches of Rome and Alexandria regarded the third canon as an encroachment on their position."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Glaubensbekenntnis von Nizäa-Konstantinopel ist das gemeinsame Bekenntnis der orthodoxen und der katholischen Kirche und wird in der Liturgie gebetet. Der Ehrenrang Konstantinopels ist bis heute ein Kern des Verhältnisses zwischen den orthodoxen Kirchen.",
+              "en": "The Nicene-Constantinopolitan Creed is the shared confession of the Orthodox and Catholic Churches and is recited in the liturgy. The honour of Constantinople remains central to the relations between the Orthodox Churches today."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – First Council of Constantinople",
+            "url": "https://en.wikipedia.org/wiki/First_Council_of_Constantinople"
+          },
+          {
+            "title": "OrthodoxWiki – Second Ecumenical Council",
+            "url": "https://orthodoxwiki.org/Second_Ecumenical_Council"
+          }
+        ]
       },
       {
         "year": "395",
@@ -351,13 +421,87 @@
         "major": true,
         "id": "ev-431",
         "summary": {
-          "de": "Das Konzil von Ephesus bestätigt Maria als Gottesgebärerin (Theotokos). Kyrill von Alexandria spielt eine zentrale Rolle.",
-          "en": "The Council of Ephesus confirms Mary as Theotokos, Mother of God. Cyril of Alexandria plays a central role."
+          "de": "Das Konzil von Ephesus bestätigt Maria als Gottesgebärerin (Theotokos) und verurteilt die Lehre des Nestorius.",
+          "en": "The Council of Ephesus confirms Mary as Theotokos, Mother of God, and condemns the teaching of Nestorius."
         },
         "details": {
-          "de": "Der Streit ging um die Frage, wie göttliche und menschliche Natur in Christus verbunden sind. Der Titel Theotokos ist bis heute in der Ostkirche zentral.",
+          "de": "Der Streit ging darum, wie göttliche und menschliche Natur in Christus verbunden sind. Der Titel Theotokos ist in der Ostkirche bis heute zentral.",
           "en": "The dispute concerned how the divine and human natures are joined in Christ. The title Theotokos remains central in the Eastern Church today."
-        }
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Nestorius war seit 428 Patriarch von Konstantinopel. Er lehnte es ab, Maria Theotokos („Gottesgebärerin“) zu nennen, und betonte die Unterscheidung der beiden Naturen in Christus so stark, dass sie als zwei Personen erscheinen konnten. Cyrill von Alexandrien widersprach ihm scharf.",
+              "en": "Nestorius had been Patriarch of Constantinople since 428. He refused to call Mary Theotokos (“God-bearer”) and stressed the distinction of the two natures in Christ so strongly that they seemed to be two persons. Cyril of Alexandria opposed him sharply."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Kaiser Theodosius II. berief das Konzil nach Ephesus ein. Es sollte im Pfingstmonat 431 beginnen. Cyrill eröffnete die Versammlung am 22. Juni, bevor die Bischöfe aus Antiochien eingetroffen waren. Johannes von Antiochien kam einige Tage später, hielt eine Gegensynode ab und setzte Cyrill und Memnon ab. Das Konzil antwortete mit der Absetzung und Verurteilung des Nestorius. Der Kaiser bestätigte die Absetzungen.",
+              "en": "Emperor Theodosius II convened the council at Ephesus. It was due to open at Pentecost 431. Cyril opened the assembly on 22 June, before the bishops from Antioch had arrived. John of Antioch arrived some days later, held a rival synod and deposed Cyril and Memnon. The council answered by deposing and condemning Nestorius. The emperor confirmed the depositions."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who took part"
+            },
+            "text": {
+              "de": "Cyrill führte den Vorsitz. Die Zahl der Bischöfe wird je nach Quelle mit etwa 200 bis 250 angegeben. Der Streit war heftig, und es gab gegenseitige Vorwürfe.",
+              "en": "Cyril presided. The number of bishops is given as about 200 to 250, depending on the source. The dispute was bitter and marked by mutual accusations."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Maria ist Theotokos, weil sie den Gottessohn als Mensch geboren hat.",
+                "Christus ist eine Person, wahrer Gott und wahrer Mensch, und die beiden Naturen sind ohne Vermischung vereint.",
+                "Das Glaubensbekenntnis von Nizäa darf nicht verändert werden.",
+                "Nestorius wurde abgesetzt und verurteilt. Er bat darum, in sein früheres Kloster zurückkehren zu dürfen.",
+                "Die Kirche von Zypern wurde in ihrer Unabhängigkeit von Antiochien bestätigt."
+              ],
+              "en": [
+                "Mary is Theotokos, because she bore the Son of God as a man.",
+                "Christ is one person, true God and true man, and the two natures are united without confusion.",
+                "The Creed of Nicaea may not be changed.",
+                "Nestorius was deposed and condemned. He asked to retire to his former monastery.",
+                "The Church of Cyprus was confirmed in its independence from Antioch."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Ephesus ist das dritte ökumenische Konzil. Der Titel Theotokos bleibt in der Ostkirche und in der katholischen Kirche zentral, besonders in der Marienverehrung. Die Entscheidung über die Einheit Christi prägt bis heute die christliche Lehre von der Menschwerdung.",
+              "en": "Ephesus is the third ecumenical council. The title Theotokos remains central in the Eastern and Catholic Churches, especially in devotion to Mary. The decision on the unity of Christ still shapes Christian teaching on the Incarnation."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Council of Ephesus",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Ephesus"
+          },
+          {
+            "title": "OrthodoxWiki – Third Ecumenical Council",
+            "url": "https://orthodoxwiki.org/Third_Ecumenical_Council"
+          }
+        ]
       },
       {
         "year": "451",
