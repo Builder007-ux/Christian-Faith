@@ -172,8 +172,8 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Im Jahr 325, im zwanzigsten Regierungsjahr des Kaisers, lud Konstantin die Bischöfe per Brief nach Nicaea in Bithynien (heute İznik in der Türkei) ein und stellte Transport und Pferde zur Verfügung. Er eröffnete die Versammlung mit einer Rede, die übersetzt wurde, und bat um Eintracht. Anlass war der Streit um Arius, der lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott. Nach dem Bericht des Eusebius von Caesarea wurden alle Streitfragen am Ende einmütig entschieden; jeder Bischof unterschrieb die Beschlüsse. Der Kaiser ließ die Beschlüsse anschließend an alle Provinzen verschicken.",
-              "en": "In 325, in the twentieth year of his reign, Constantine invited the bishops by letter to Nicaea in Bithynia (today İznik in Turkey) and provided transport and horses. He opened the assembly with a speech, which was translated, and asked for harmony. The occasion was the dispute over Arius, who taught that the Son was created and not truly God. According to Eusebius of Caesarea, every disputed question was finally settled unanimously, and each bishop signed the decisions. The emperor then had the decisions sent to every province."
+              "de": "Im Jahr 325, im zwanzigsten Regierungsjahr des Kaisers, lud Konstantin die Bischöfe per Brief nach Nicaea in Bithynien (heute İznik in der Türkei) ein und stellte Transport und Pferde zur Verfügung. Er eröffnete die Versammlung mit einer Rede, die übersetzt wurde, und bat um Eintracht. Anlass war der Streit um Arius, der lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott. Nach dem Bericht des Eusebius von Caesarea wurden alle Streitfragen am Ende einmütig entschieden; jeder Bischof unterschrieb die Beschlüsse. Der Kaiser ließ die Beschlüsse anschließend an alle Provinzen verschicken. Die genauen Tagesdaten sind unsicher; der Herausgeber der englischen Ausgabe nimmt einen Zeitraum von etwa Mitte Juni bis 25. August an.",
+              "en": "In 325, in the twentieth year of his reign, Constantine invited the bishops by letter to Nicaea in Bithynia (today İznik in Turkey) and provided transport and horses. He opened the assembly with a speech, which was translated, and asked for harmony. The occasion was the dispute over Arius, who taught that the Son was created and not truly God. According to Eusebius of Caesarea, every disputed question was finally settled unanimously, and each bishop signed the decisions. The emperor then had the decisions sent to every province. The exact dates are uncertain; the editor of the English edition assumes the council ran from about mid-June to 25 August."
             }
           },
           {
@@ -193,14 +193,16 @@ window.CONTENT_DATA = {
             },
             "items": {
               "de": [
-                "Eusebius, Vita Constantini 3,8: „Unter der gegenwärtigen Schar war aber eine Menge von mehr als zweihundertfünfzig Bischöfen.“",
-                "Eusebius, Vita Constantini 3,6: Der Kaiser lädt die Bischöfe ein und stellt ihnen die öffentliche Post und Lasttiere zur Verfügung.",
-                "Eusebius, Vita Constantini 3,10: Der Kaiser betritt die Versammlung im Palast „wie ein Engel Gottes vom Himmel her“."
+                "Eusebius, Vita Constantini 3,6: Der Kaiser lädt die Bischöfe schriftlich ein und stellt Post und Lasttiere zur Verfügung.",
+                "Eusebius, Vita Constantini 3,8: Es kommen mehr als 250 Bischöfe zusammen, dazu Priester, Diakone und Begleiter.",
+                "Eusebius, Vita Constantini 3,10: Der Kaiser betritt den Saal im Palast, und alle erheben sich.",
+                "Eusebius, Vita Constantini 3,12–13: Der Kaiser bittet um Frieden und bringt die streitenden Bischöfe zur Einigung."
               ],
               "en": [
-                "Eusebius, Life of Constantine 3.8: more than 250 bishops were present (paraphrase from the German text).",
-                "Eusebius, Life of Constantine 3.6: the emperor invites the bishops and provides them with the imperial post and pack animals (paraphrase).",
-                "Eusebius, Life of Constantine 3.10: the emperor enters the assembly in the palace like an angel of God from heaven (paraphrase)."
+                "Eusebius, Life of Constantine 3.6: the emperor invites the bishops by letter and provides them with the imperial post and pack animals.",
+                "Eusebius, Life of Constantine 3.8: more than 250 bishops gather, in addition to priests, deacons and attendants.",
+                "Eusebius, Life of Constantine 3.10: the emperor enters the hall in the palace, and everyone rises.",
+                "Eusebius, Life of Constantine 3.12–13: the emperor pleads for peace and brings the quarrelling bishops to agreement."
               ]
             }
           },
@@ -237,16 +239,20 @@ window.CONTENT_DATA = {
         ],
         "sources": [
           {
+            "title": "Eusebius, Vita Constantini, Buch III Kap. VI–XIV (Lesefassung auf dieser Seite, Englisch)",
+            "url": "#/geschichte/quelle/vita/3/6"
+          },
+          {
             "title": "Eusebius von Caesarea, Vita Constantini 3.4–24 (fourthcentury.com)",
             "url": "https://fourthcentury.com/?p=21308"
           },
           {
-            "title": "OrthodoxWiki – First Council of Nicaea",
-            "url": "https://orthodoxwiki.org/First_Council_of_Nicaea"
+            "title": "Bibliothek der Kirchenväter (BKV), deutsche Übersetzung",
+            "url": "https://bkv.unifr.ch"
           },
           {
-            "title": "Bibliothek der Kirchenväter (BKV), Eusebius, Vier Bücher über das Leben Konstantins",
-            "url": "https://bkv.unifr.ch"
+            "title": "OrthodoxWiki – First Council of Nicaea",
+            "url": "https://orthodoxwiki.org/First_Council_of_Nicaea"
           }
         ]
       },

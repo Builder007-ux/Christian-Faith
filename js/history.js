@@ -120,6 +120,7 @@ function timelineVertical(items) {
 }
 
 function viewHistory(sub) {
+  if (sub[0] === 'quelle') return viewSourceReader(sub.slice(1));
   if (sub[0] === 'heilige' && sub[1]) return viewSaint(sub[1]);
   if (sub[0] === 'ereignis' && sub[1]) return viewEvent(sub[1]);
   return viewHistoryOverview();
@@ -164,7 +165,7 @@ function sectionsHtml(entry) {
     return `<section class="detail-section"><h3>${esc(pick(sec.heading))}</h3>${body}</section>`;
   }).join('');
   const sources = (entry.sources || []).length
-    ? `<section class="detail-section sources"><h3>${esc(t('history_sources'))}</h3><ul class="detail-list">${entry.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('')}</ul></section>`
+    ? `<section class="detail-section sources"><h3>${esc(t('history_sources'))}</h3><ul class="detail-list">${entry.sources.map((s) => (s.url.startsWith('#') ? `<li><a href="${esc(s.url)}">${esc(s.title)}</a></li>` : `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`)).join('')}</ul></section>`
     : '';
   const fallback = !parts && entry.details
     ? `<p>${esc(pick(entry.details))}</p>`
@@ -208,6 +209,84 @@ function viewSaint(id) {
         <div class="detail-art">${artOf(p, 'person')}</div>
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
         ${sectionsHtml(p)}
+      </article>
+    </section>`;
+}
+
+// ---------- Quellentexte (Lesefassung) ----------
+// Der Text liegt in js/source-vita.js (erzeugt von scripts/build-source-vita.py) und wird
+// erst beim Öffnen geladen. Über ein Skript funktioniert das auch per Doppelklick (file://).
+function loadSourceScript() {
+  if (window.SOURCE_VITA || loadSourceScript.pending) return;
+  loadSourceScript.pending = true;
+  const s = document.createElement('script');
+  s.src = 'js/source-vita.js';
+  s.onload = () => { loadSourceScript.pending = false; renderPage(); };
+  s.onerror = () => { loadSourceScript.pending = false; loadSourceScript.failed = true; renderPage(); };
+  document.head.appendChild(s);
+}
+
+function roman(n) {
+  return ['', 'I', 'II', 'III', 'IV'][n] || String(n);
+}
+
+function viewSourceReader(parts) {
+  if (!window.SOURCE_VITA) {
+    loadSourceScript();
+    const msg = loadSourceScript.failed ? t('source_load_error') : t('source_loading');
+    return `<section class="history"><p class="note">${esc(msg)}</p></section>`;
+  }
+  const src = window.SOURCE_VITA;
+  const credit = `<p class="muted source-credit">${esc(
+    t('source_credit').replace('{t}', src.translator).replace('{l}', src.license)
+  )}</p>`;
+  const back = `<a class="back" href="#/geschichte/quelle/vita">← ${esc(t('source_index_title'))}</a>`;
+
+  const [, bookNo, chNo] = parts;
+  const book = src.books.find((b) => String(b.number) === bookNo);
+  const ch = book && book.chapters[Number(chNo) - 1];
+
+  if (!ch) {
+    const index = src.books.map((b) => `
+      <section class="source-book">
+        <h3>${esc(t('source_book'))} ${roman(b.number)}</h3>
+        <div class="source-chapters">
+          ${b.chapters.map((c, i) => `<a class="source-chip" href="#/geschichte/quelle/vita/${b.number}/${i + 1}">${esc(c.number)}</a>`).join('')}
+        </div>
+      </section>`).join('');
+    return `
+      <section class="history">
+        <h2>${esc(src.title)}</h2>
+        <p class="muted">${esc(t('source_index_intro'))}</p>
+        ${credit}
+        ${index}
+      </section>`;
+  }
+
+  // Vorheriges und nächstes Kapitel über alle Bücher hinweg
+  const flat = src.books.flatMap((b) => b.chapters.map((c, i) => ({ b, i: i + 1 })));
+  const pos = flat.findIndex((x) => x.b.number === book.number && x.i === Number(chNo));
+  const prev = flat[pos - 1];
+  const next = flat[pos + 1];
+  const link = (x, label) => (x ? `<a href="#/geschichte/quelle/vita/${x.b.number}/${x.i}">${esc(label)}</a>` : '');
+
+  return `
+    <section class="history">
+      ${back}
+      <article class="card saint-detail source-reader">
+        <header class="card-head">
+          <h2>${esc(src.title)}</h2>
+        </header>
+        <p class="meta">${esc(t('source_book'))} ${roman(book.number)} · ${esc(t('source_chapter'))} ${esc(ch.number)}</p>
+        <h3 class="source-heading">${esc(ch.title)}</h3>
+        <div class="source-text">
+          ${ch.paragraphs.map((p) => `<p>${esc(p)}</p>`).join('')}
+        </div>
+        <nav class="source-nav">
+          ${link(prev, t('source_prev'))}
+          ${link(next, t('source_next'))}
+        </nav>
+        ${credit}
       </article>
     </section>`;
 }

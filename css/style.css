@@ -803,3 +803,23 @@ details[open] summary { margin-bottom: 0.75rem; }
 .detail-list li { margin: 0.25rem 0; }
 .detail-list a { color: var(--accent); }
 .sources { font-size: 0.9rem; }
+
+/* ---------- Quellentexte (Lesefassung) ---------- */
+.source-book { margin-top: 1.6rem; }
+.source-book h3 { font-size: 1.05rem; margin: 0 0 .6rem; }
+.source-chapters { display: flex; flex-wrap: wrap; gap: .45rem; }
+.source-chip {
+  min-width: 2.6rem; text-align: center; padding: .35rem .6rem;
+  border: 1px solid var(--line); border-radius: 999px;
+  color: var(--accent); text-decoration: none; font-size: .92rem;
+  background: var(--surface);
+}
+.source-chip:hover { border-color: var(--gold); }
+.source-heading { font-size: 1.15rem; line-height: 1.45; margin: .4rem 0 1.2rem; }
+.source-text { max-width: 68ch; font-size: 1.05rem; line-height: 1.8; }
+.source-text p { margin: 0 0 1rem; }
+.source-nav {
+  display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  margin-top: 1.6rem; padding-top: 1rem; border-top: 1px solid var(--line);
+}
+.source-credit { font-size: .88rem; margin-top: 1.4rem; }
