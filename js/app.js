@@ -3,7 +3,7 @@
 
 const state = {
   content: null,
-  lang: localStorage.getItem('cf-lang') || 'de',
+  lang: localStorage.getItem('cf-lang') || 'en',
   theme: localStorage.getItem('cf-theme') || 'auto',
 };
 
