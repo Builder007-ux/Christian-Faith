@@ -188,6 +188,24 @@ window.CONTENT_DATA = {
           },
           {
             "heading": {
+              "de": "Aus der Quelle",
+              "en": "From the source"
+            },
+            "items": {
+              "de": [
+                "Eusebius, Vita Constantini 3,8: „Unter der gegenwärtigen Schar war aber eine Menge von mehr als zweihundertfünfzig Bischöfen.“",
+                "Eusebius, Vita Constantini 3,6: Der Kaiser lädt die Bischöfe ein und stellt ihnen die öffentliche Post und Lasttiere zur Verfügung.",
+                "Eusebius, Vita Constantini 3,10: Der Kaiser betritt die Versammlung im Palast „wie ein Engel Gottes vom Himmel her“."
+              ],
+              "en": [
+                "Eusebius, Life of Constantine 3.8: more than 250 bishops were present (paraphrase from the German text).",
+                "Eusebius, Life of Constantine 3.6: the emperor invites the bishops and provides them with the imperial post and pack animals (paraphrase).",
+                "Eusebius, Life of Constantine 3.10: the emperor enters the assembly in the palace like an angel of God from heaven (paraphrase)."
+              ]
+            }
+          },
+          {
+            "heading": {
               "de": "Ergebnis",
               "en": "Outcome"
             },
@@ -225,6 +243,10 @@ window.CONTENT_DATA = {
           {
             "title": "OrthodoxWiki – First Council of Nicaea",
             "url": "https://orthodoxwiki.org/First_Council_of_Nicaea"
+          },
+          {
+            "title": "Bibliothek der Kirchenväter (BKV), Eusebius, Vier Bücher über das Leben Konstantins",
+            "url": "https://bkv.unifr.ch"
           }
         ]
       },
