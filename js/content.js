@@ -162,8 +162,8 @@ window.CONTENT_DATA = {
               "en": "Background"
             },
             "text": {
-              "de": "Nach seinem Sieg über Licinius (324) wollte Kaiser Konstantin das Reich auch kirchlich einen. Der Streit um Arius hatte sich im Osten ausgebreitet und drohte die Gemeinden zu spalten.",
-              "en": "After defeating Licinius in 324, Emperor Constantine wanted to unite the empire in the Church as well. The dispute over Arius had spread through the East and threatened to divide the communities."
+              "de": "Nach seinem Sieg über Licinius (324) wollte Kaiser Konstantin das Reich auch kirchlich einen. Der Streit um Arius hatte sich im Osten ausgebreitet und drohte die Gemeinden zu spalten. Dazu kam der Streit um den Termin des Osterfestes, der vor allem zwischen Gemeinden im Osten und im Westen unterschiedlich gefeiert wurde.",
+              "en": "After defeating Licinius in 324, Emperor Constantine wanted to unite the empire in the Church as well. The dispute over Arius had spread through the East and threatened to divide the communities. In addition, there was disagreement about the date of Easter, which was kept differently in the East and the West."
             }
           },
           {
@@ -172,8 +172,8 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Im Jahr 325 rief Kaiser Konstantin die Bischöfe der Kirche nach Nicaea (heute Iznik in der Türkei). Anlass war der Streit um Arius, der lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott.",
-              "en": "In 325 Emperor Constantine summoned the bishops of the Church to Nicaea (today İznik in Turkey). The occasion was the dispute over Arius, who taught that the Son was created and not truly God."
+              "de": "Im Jahr 325, im zwanzigsten Regierungsjahr des Kaisers, lud Konstantin die Bischöfe per Brief nach Nicaea in Bithynien (heute İznik in der Türkei) ein und stellte Transport und Pferde zur Verfügung. Er eröffnete die Versammlung mit einer Rede, die übersetzt wurde, und bat um Eintracht. Anlass war der Streit um Arius, der lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott. Nach dem Bericht des Eusebius von Caesarea wurden alle Streitfragen am Ende einmütig entschieden; jeder Bischof unterschrieb die Beschlüsse. Der Kaiser ließ die Beschlüsse anschließend an alle Provinzen verschicken.",
+              "en": "In 325, in the twentieth year of his reign, Constantine invited the bishops by letter to Nicaea in Bithynia (today İznik in Turkey) and provided transport and horses. He opened the assembly with a speech, which was translated, and asked for harmony. The occasion was the dispute over Arius, who taught that the Son was created and not truly God. According to Eusebius of Caesarea, every disputed question was finally settled unanimously, and each bishop signed the decisions. The emperor then had the decisions sent to every province."
             }
           },
           {
@@ -182,8 +182,8 @@ window.CONTENT_DATA = {
               "en": "Who took part"
             },
             "text": {
-              "de": "Die Zahl der Bischöfe wird unterschiedlich angegeben, meist zwischen etwa 220 und 318. Unter den Teilnehmern war auch der junge Diakon Athanasius.",
-              "en": "The number of bishops is given differently, usually between about 220 and 318. Among the participants was the young deacon Athanasius."
+              "de": "Eusebius spricht von mehr als 250 Bischöfen, dazu kamen Priester, Diakone und Begleiter. Sie kamen aus Europa, Libyen und Asien, nach seinem Bericht auch ein Bischof aus Persien und einer aus Skythien. Die später oft genannte Zahl 318 stammt aus der späteren Überlieferung. Unter den Teilnehmern war der junge Diakon Athanasius, der Sekretär des Bischofs Alexander von Alexandria war.",
+              "en": "Eusebius speaks of more than 250 bishops, in addition to priests, deacons and attendants. They came from Europe, Libya and Asia, and according to his account also a bishop from Persia and one from Scythia. The figure of 318 often given later comes from later tradition. Among the participants was the young deacon Athanasius, who served as secretary to Bishop Alexander of Alexandria."
             }
           },
           {
@@ -195,13 +195,13 @@ window.CONTENT_DATA = {
               "de": [
                 "Das ursprüngliche Glaubensbekenntnis von Nicaea. Zentral wurde der Begriff homoousios: der Sohn ist wesensgleich mit dem Vater.",
                 "Arius wurde verbannt. Zwei Bischöfe, die das Bekenntnis nicht unterschreiben wollten, wurden abgesetzt und verbannt.",
-                "Eine gemeinsame Regel zur Berechnung des Osterfestes.",
+                "Eine gemeinsame Regel, nach der das Osterfest überall am selben Tag gefeiert werden sollte.",
                 "Zwanzig Kirchenregeln (Kanones), u. a. zu Priesterweihe und zur Einheit der Kirche."
               ],
               "en": [
                 "The original Nicene Creed. The term homoousios became central: the Son is of one essence with the Father.",
                 "Arius was exiled. Two bishops who refused to sign the Creed were deposed and exiled.",
-                "A common rule for calculating the date of Pascha.",
+                "A common rule that Easter should be kept on the same day everywhere.",
                 "Twenty canons (church rules), including on ordination and on the unity of the Church."
               ]
             }
@@ -212,12 +212,16 @@ window.CONTENT_DATA = {
               "en": "Significance today"
             },
             "text": {
-              "de": "Das Konzil war das erste ökumenische Konzil und legte das Muster für die späteren fest. Der Glaube von Nicaea bildet bis heute die Grundlage des orthodoxen Bekenntnisses.",
-              "en": "The council was the first ecumenical council and set the pattern for those that followed. The faith of Nicaea remains the foundation of Orthodox confession today."
+              "de": "Das Konzil war das erste ökumenische Konzil und legte das Muster für die späteren fest. Der Glaube von Nicaea bildet bis heute die Grundlage des orthodoxen Bekenntnisses, und das Glaubensbekenntnis wird in der Liturgie gesprochen.",
+              "en": "The council was the first ecumenical council and set the pattern for those that followed. The faith of Nicaea remains the foundation of Orthodox confession today, and the Creed is recited in the liturgy."
             }
           }
         ],
         "sources": [
+          {
+            "title": "Eusebius von Caesarea, Vita Constantini 3.4–24 (fourthcentury.com)",
+            "url": "https://fourthcentury.com/?p=21308"
+          },
           {
             "title": "OrthodoxWiki – First Council of Nicaea",
             "url": "https://orthodoxwiki.org/First_Council_of_Nicaea"
