@@ -89,6 +89,18 @@ window.CONTENT_DATA = {
         "status": "review"
       },
       {
+        "year": "303–311",
+        "title": {
+          "de": "Große Christenverfolgung unter Diokletian",
+          "en": "Great Persecution under Diocletian"
+        },
+        "text": {
+          "de": "Die letzte große Verfolgung im Römischen Reich. Sie endet mit dem Toleranzedikt des Galerius im Jahr 311.",
+          "en": "The last great persecution in the Roman Empire. It ends with the edict of toleration issued by Galerius in 311."
+        },
+        "status": "review"
+      },
+      {
         "year": "313",
         "title": {
           "de": "Mailänder Edikt",
@@ -137,6 +149,18 @@ window.CONTENT_DATA = {
         "status": "review"
       },
       {
+        "year": "395",
+        "title": {
+          "de": "Teilung des Römischen Reiches",
+          "en": "Division of the Roman Empire"
+        },
+        "text": {
+          "de": "Das Reich wird endgültig in einen West- und einen Ostteil getrennt. Der griechischsprachige Osten entwickelt sich zu Byzanz.",
+          "en": "The empire is permanently divided into a western and an eastern half. The Greek-speaking East develops into Byzantium."
+        },
+        "status": "review"
+      },
+      {
         "year": "431",
         "title": {
           "de": "Konzil von Ephesus",
@@ -157,6 +181,18 @@ window.CONTENT_DATA = {
         "text": {
           "de": "Christus wird als wahrer Gott und wahrer Mensch in einer Person bekannt.",
           "en": "Christ is confessed as true God and true man in one person."
+        },
+        "status": "review"
+      },
+      {
+        "year": "548–565",
+        "title": {
+          "de": "Katharinenkloster am Sinai",
+          "en": "Monastery of St Catherine on Sinai"
+        },
+        "text": {
+          "de": "Kaiser Justinian lässt am Berg Sinai ein Kloster errichten. Es besteht bis heute und ist eines der ältesten durchgehend bewohnten christlichen Klöster.",
+          "en": "Emperor Justinian has a monastery built at Mount Sinai. It still exists today and is one of the oldest continuously inhabited Christian monasteries."
         },
         "status": "review"
       },
@@ -205,6 +241,30 @@ window.CONTENT_DATA = {
         "text": {
           "de": "Das Ende des Bilderstreits in Konstantinopel wird gefeiert.",
           "en": "The end of the iconoclastic controversy in Constantinople is commemorated."
+        },
+        "status": "review"
+      },
+      {
+        "year": "863",
+        "title": {
+          "de": "Mission der Slawen durch Kyrill und Method",
+          "en": "Mission to the Slavs by Cyril and Methodius"
+        },
+        "text": {
+          "de": "Die Brüder Kyrill und Method werden nach Mähren gesandt. Sie übersetzen Bibel und Liturgie in die slawische Sprache.",
+          "en": "The brothers Cyril and Methodius are sent to Moravia. They translate the Bible and the liturgy into Slavonic."
+        },
+        "status": "review"
+      },
+      {
+        "year": "867",
+        "title": {
+          "de": "Streit zwischen Photios und Rom",
+          "en": "Dispute between Photius and Rome"
+        },
+        "text": {
+          "de": "Patriarch Photios und Papst Nikolaus I. verurteilen einander. Der Streit wurde später beigelegt, die Spannungen blieben aber.",
+          "en": "Patriarch Photius and Pope Nicholas I condemn each other. The dispute was later settled, but the tensions remained."
         },
         "status": "review"
       },
@@ -439,6 +499,118 @@ window.CONTENT_DATA = {
         "text": {
           "de": "Mönch im Kloster Sarow, bekannt für sein Gebet und seine seelsorgliche Hilfe für viele Menschen.",
           "en": "Monk at Sarov Monastery, known for his prayer and his pastoral care for many people."
+        },
+        "status": "review"
+      },
+      {
+        "id": "antony-great",
+        "name": {
+          "de": "Antonius der Große",
+          "en": "Antony the Great"
+        },
+        "dates": {
+          "de": "um 251 – 356",
+          "en": "c. 251 – 356"
+        },
+        "text": {
+          "de": "Einsiedler in Ägypten. Er gilt als Vater des christlichen Mönchtums.",
+          "en": "Hermit in Egypt. He is regarded as the father of Christian monasticism."
+        },
+        "status": "review"
+      },
+      {
+        "id": "pachomius",
+        "name": {
+          "de": "Pachomius",
+          "en": "Pachomius"
+        },
+        "dates": {
+          "de": "um 292 – 348",
+          "en": "c. 292 – 348"
+        },
+        "text": {
+          "de": "Gründer des gemeinschaftlichen Klosterlebens in Ägypten. Er gab seinen Klöstern eine gemeinsame Regel.",
+          "en": "Founder of communal monastic life in Egypt. He gave his monasteries a common rule."
+        },
+        "status": "review"
+      },
+      {
+        "id": "ephrem-syrus",
+        "name": {
+          "de": "Ephraem der Syrer",
+          "en": "Ephrem the Syrian"
+        },
+        "dates": {
+          "de": "um 306 – 373",
+          "en": "c. 306 – 373"
+        },
+        "text": {
+          "de": "Diakon und Dichter aus Edessa. Er schrieb Hymnen und Predigten in syrischer Sprache.",
+          "en": "Deacon and poet from Edessa. He wrote hymns and sermons in Syriac."
+        },
+        "status": "review"
+      },
+      {
+        "id": "gregory-nyssa",
+        "name": {
+          "de": "Gregor von Nyssa",
+          "en": "Gregory of Nyssa"
+        },
+        "dates": {
+          "de": "um 335 – 395",
+          "en": "c. 335 – 395"
+        },
+        "text": {
+          "de": "Bischof von Nyssa und Bruder des Basilius. Er prägte die Theologie der Trinität und der geistlichen Erfahrung.",
+          "en": "Bishop of Nyssa and brother of Basil. He shaped the theology of the Trinity and of spiritual experience."
+        },
+        "status": "review"
+      },
+      {
+        "id": "cyril-methodius",
+        "name": {
+          "de": "Kyrill und Method",
+          "en": "Cyril and Methodius"
+        },
+        "dates": {
+          "de": "Kyrill um 826 – 869; Method um 815 – 885",
+          "en": "Cyril c. 826 – 869; Methodius c. 815 – 885"
+        },
+        "text": {
+          "de": "Brüder aus Thessaloniki und Missionare der Slawen. Ihnen wird die glagolitische Schrift zugeschrieben.",
+          "en": "Brothers from Thessalonica and missionaries to the Slavs. The Glagolitic script is attributed to them."
+        },
+        "status": "review"
+      },
+      {
+        "id": "photius",
+        "name": {
+          "de": "Photios der Große",
+          "en": "Photius the Great"
+        },
+        "dates": {
+          "de": "um 810 – 893",
+          "en": "c. 810 – 893"
+        },
+        "text": {
+          "de": "Patriarch von Konstantinopel und Gelehrter. Sein Streit mit Rom gilt als Vorläufer der späteren Spaltung.",
+          "en": "Patriarch of Constantinople and scholar. His dispute with Rome is regarded as a precursor of the later schism."
+        },
+        "status": "review"
+      },
+      {
+        "id": "symeon-theologian",
+        "name": {
+          "de": "Symeon der Neue Theologe",
+          "en": "Symeon the New Theologian"
+        },
+        "dates": {
+          "de": "949 – 1022",
+          "en": "949 – 1022"
+        },
+        "text": {
+          "de": "Mystiker und Theologe. Er betonte das persönliche Gebet und die Erfahrung des göttlichen Lichts.",
+          "en": "Mystic and theologian. He emphasised personal prayer and the experience of the divine light."
         },
         "status": "review"
       }
