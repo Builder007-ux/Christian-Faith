@@ -1949,8 +1949,8 @@ window.CONTENT_DATA = {
         ],
         "image": "images/persons/basil.jpg",
         "imageCredit": {
-          "de": "Mosaik des hl. Basilius (byzantinisch). Herkunft und Lizenz des Bildes sind noch nicht geklärt und müssen vor der Veröffentlichung geprüft werden.",
-          "en": "Mosaic of St Basil (Byzantine). The origin and licence of the image are not yet clarified and must be checked before publication."
+          "de": "Mosaik des hl. Basilius (byzantinisch). Wikimedia Commons, „Basil of Caesarea.jpg“. Lizenz laut Commons: gemeinfrei (Public Domain), da in den USA vor 1931 veröffentlicht und im Herkunftsland nach Ablauf der Schutzfrist frei.",
+          "en": "Mosaic of St Basil (Byzantine). Wikimedia Commons, “Basil of Caesarea.jpg”. Licence per Commons: public domain, as it was published in the USA before 1931 and is free in its country of origin after the copyright term."
         }
       },
       {
