@@ -239,39 +239,39 @@ window.CONTENT_DATA = {
         ],
         "sources": [
           {
-            "title": "Eusebius, Vita Constantini III.VI: How he ordered a Council to be held at Nicæa",
+            "title": "Eusebius, Vita Constantini 3.6: How he ordered a Council to be held at Nicæa",
             "url": "#/geschichte/quelle/vita/3/6"
           },
           {
-            "title": "Eusebius, Vita Constantini III.VII: Of the General Council, at which Bishops from all Nations were Present",
+            "title": "Eusebius, Vita Constantini 3.7: Of the General Council, at which Bishops from all Nations were Present",
             "url": "#/geschichte/quelle/vita/3/7"
           },
           {
-            "title": "Eusebius, Vita Constantini III.VIII: That the Assembly was composed, as in the Acts of the Apostles, of Individuals from Various Nations",
+            "title": "Eusebius, Vita Constantini 3.8: That the Assembly was composed, as in the Acts of the Apostles, of Individuals from Various Nations",
             "url": "#/geschichte/quelle/vita/3/8"
           },
           {
-            "title": "Eusebius, Vita Constantini III.IX: Of the Virtue and Age of the Two Hundred and Fifty Bishops",
+            "title": "Eusebius, Vita Constantini 3.9: Of the Virtue and Age of the Two Hundred and Fifty Bishops",
             "url": "#/geschichte/quelle/vita/3/9"
           },
           {
-            "title": "Eusebius, Vita Constantini III.X: Council in the Palace. Constantine, entering, took his Seat in the Assembly",
+            "title": "Eusebius, Vita Constantini 3.10: Council in the Palace. Constantine, entering, took his Seat in the Assembly",
             "url": "#/geschichte/quelle/vita/3/10"
           },
           {
-            "title": "Eusebius, Vita Constantini III.XI: Silence of the Council, after Some Words by the Bishop Eusebius",
+            "title": "Eusebius, Vita Constantini 3.11: Silence of the Council, after Some Words by the Bishop Eusebius",
             "url": "#/geschichte/quelle/vita/3/11"
           },
           {
-            "title": "Eusebius, Vita Constantini III.XII: Constantine’s Address to the Council concerning Peace",
+            "title": "Eusebius, Vita Constantini 3.12: Constantine’s Address to the Council concerning Peace",
             "url": "#/geschichte/quelle/vita/3/12"
           },
           {
-            "title": "Eusebius, Vita Constantini III.XIII: How he led the Dissentient Bishops to Harmony of Sentiment",
+            "title": "Eusebius, Vita Constantini 3.13: How he led the Dissentient Bishops to Harmony of Sentiment",
             "url": "#/geschichte/quelle/vita/3/13"
           },
           {
-            "title": "Eusebius, Vita Constantini III.XIV: Unanimous Declaration of the Council concerning Faith, and the Celebration of Easter",
+            "title": "Eusebius, Vita Constantini 3.14: Unanimous Declaration of the Council concerning Faith, and the Celebration of Easter",
             "url": "#/geschichte/quelle/vita/3/14"
           },
           {

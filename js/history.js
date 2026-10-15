@@ -253,9 +253,9 @@ function viewSourceReader(parts) {
   if (!ch) {
     const index = src.books.map((b) => `
       <section class="source-book">
-        <h3>${esc(t('source_book'))} ${roman(b.number)}</h3>
+        <h3>${esc(t('source_book'))} ${b.number}</h3>
         <div class="source-chapters">
-          ${b.chapters.map((c, i) => `<a class="source-chip" href="#/geschichte/quelle/vita/${b.number}/${i + 1}">${esc(c.number)}</a>`).join('')}
+          ${b.chapters.map((c, i) => `<a class="source-chip" href="#/geschichte/quelle/vita/${b.number}/${i + 1}">${i + 1}</a>`).join('')}
         </div>
       </section>`).join('');
     return `
@@ -281,7 +281,7 @@ function viewSourceReader(parts) {
         <header class="card-head">
           <h2>${esc(src.title)}</h2>
         </header>
-        <p class="meta">${esc(t('source_book'))} ${roman(book.number)} · ${esc(t('source_chapter'))} ${esc(ch.number)}</p>
+        <p class="meta">${esc(t('source_book'))} ${book.number} · ${esc(t('source_chapter'))} ${Number(chNo)}</p>
         <h3 class="source-heading">${esc(ch.title)}</h3>
         <div class="source-text">
           ${ch.paragraphs.map((p) => `<p>${esc(p)}</p>`).join('')}
