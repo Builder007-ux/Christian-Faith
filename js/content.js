@@ -90,13 +90,71 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-30",
         "summary": {
-          "de": "Nach der Auferstehung Christi empfangen die Jünger den Heiligen Geist. Die Kirche beginnt in Jerusalem zu wachsen.",
-          "en": "After the Resurrection of Christ the disciples receive the Holy Spirit. The Church begins to grow in Jerusalem."
+          "de": "Am Pfingstfest kommt der Heilige Geist auf die Apostel herab. Die Kirche beginnt zu wirken.",
+          "en": "At Pentecost the Holy Spirit comes down on the apostles. The Church begins its work."
         },
         "details": {
-          "de": "Die Apostelgeschichte (Kapitel 2) beschreibt das Ereignis. Die Kirche feiert Pfingsten als Fest des Heiligen Geistes, fünfzig Tage nach Ostern.",
-          "en": "The Acts of the Apostles (chapter 2) describes the event. The Church celebrates Pentecost as the feast of the Holy Spirit, fifty days after Pascha."
-        }
+          "de": "Nach Apostelgeschichte 2 geschieht das in Jerusalem, am fünfzigsten Tag nach Ostern.",
+          "en": "According to Acts 2 it happens in Jerusalem, on the fiftieth day after Easter."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Jesus war nach seiner Auferstehung noch vierzig Tage bei den Jüngern und fuhr dann in den Himmel auf. Die Jünger blieben in Jerusalem und warteten, wie er es ihnen gesagt hatte.",
+              "en": "After his resurrection Jesus remained with his disciples for forty days and then ascended into heaven. The disciples stayed in Jerusalem and waited, as he had told them."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Am Pfingsttag, zehn Tage nach der Himmelfahrt, kommt ein Brausen vom Himmel, und Feuerzungen lassen sich auf jeden nieder. Die Jünger werden mit dem Heiligen Geist erfüllt und sprechen in Sprachen, die sie nicht gelernt haben. Menschen aus vielen Ländern hören sie in ihrer eigenen Sprache. Petrus erklärt, dass die Verheißung des Propheten Joel erfüllt ist, und ruft zur Umkehr und Taufe auf.",
+              "en": "On the day of Pentecost, ten days after the Ascension, a sound like a mighty wind comes from heaven, and tongues of fire rest on each of them. The disciples are filled with the Holy Spirit and speak in languages they have not learned. People from many countries hear them in their own language. Peter explains that the prophecy of Joel is fulfilled and calls the listeners to repentance and baptism."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Rund dreitausend Menschen lassen sich an diesem Tag taufen (Apostelgeschichte 2,41).",
+                "Die Gemeinde in Jerusalem beginnt als Kirche."
+              ],
+              "en": [
+                "About three thousand people are baptised that day (Acts 2:41).",
+                "The community in Jerusalem begins as the Church."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Pfingsten gilt als Geburtstag der Kirche. In der Orthodoxie heißt das Fest auch Trinitätsfest, weil es das Wirken des dreieinigen Gottes zeigt. Die Kirchen werden mit Grün und Blumen geschmückt, als Zeichen für das Leben, das der Geist schenkt.",
+              "en": "Pentecost is regarded as the birthday of the Church. In Orthodoxy the feast is also called the Feast of the Holy Trinity, because it reveals the work of the triune God. Churches are decorated with greenery and flowers as a sign of the life the Spirit gives."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "orthochristian.com – The Feast of Pentecost",
+            "url": "https://orthochristian.com/62259.html"
+          },
+          {
+            "title": "Church Mother of God – Descent of the Holy Spirit",
+            "url": "https://churchmotherofgod.org/histories/descent-of-the-holy-spirit/"
+          }
+        ]
       },
       {
         "year": "303–311",
@@ -126,13 +184,71 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-313",
         "summary": {
-          "de": "Die Kaiser Konstantin und Licinius erlauben den Christen, ihren Glauben frei auszuüben. Die Verfolgung endet.",
-          "en": "Emperors Constantine and Licinius allow Christians to practise their faith freely. The persecution ends."
+          "de": "Konstantin und Licinius gewähren Religionsfreiheit im Römischen Reich. Christen erhalten beschlagnahmten Besitz zurück.",
+          "en": "Constantine and Licinius grant freedom of worship in the Roman Empire. Christians recover confiscated property."
         },
         "details": {
-          "de": "Das Edikt gibt den Christen dieselbe Freiheit wie anderen Religionen im Reich. Danach kann sich die Kirche offen organisieren.",
-          "en": "The edict gives Christians the same freedom as other religions in the empire. The Church can then organise itself openly."
-        }
+          "de": "Der Name „Edikt“ ist ungenau. Bekannt ist die Regelung vor allem aus einem späteren Erlass des Licinius.",
+          "en": "The name “edict” is imprecise. The arrangement is known mainly from a later rescript of Licinius."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Die „Große Verfolgung“ unter Diokletian begann 303. Sie zerstörte Kirchen und Bücher und zwang viele Christen zum Opfer für den Kaiser. Am Ende dieser Verfolgung stand die Frage, wie das Reich mit den Christen umgehen sollte.",
+              "en": "The “Great Persecution” under Diocletian began in 303. It destroyed churches and books and forced many Christians to sacrifice to the emperor. At the end of the persecution the question was how the empire should treat the Christians."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Die beiden Kaiser Konstantin im Westen und Licinius im Osten trafen sich Anfang 313 in Mailand (Mediolanum). Die Vereinbarung, die dort getroffen wurde, ist vor allem aus einem Reskript des Licinius aus Nikomedia bekannt, das wenige Monate später erging. Sie gewährte Christen und Anhängern anderer Religionen volle Freiheit, ihren Gottesdienst zu feiern. Christen erhielten beschlagnahmten Besitz zurück, Kirchengüter eingeschlossen. Wer den Besitz inzwischen hatte, konnte vom Staat Entschädigung verlangen.",
+              "en": "The two emperors, Constantine in the West and Licinius in the East, met at Milan (Mediolanum) at the beginning of 313. The agreement reached there is known mainly from a rescript of Licinius issued a few months later at Nicomedia. It granted Christians and followers of other religions full freedom to worship as they wished. Christians recovered property seized during the persecution, including church property. Those who now held it could claim compensation from the state."
+            }
+          },
+          {
+            "heading": {
+              "de": "Warum „Konkordat“ und nicht „Edikt“",
+              "en": "Why “concordat” rather than “edict”"
+            },
+            "items": {
+              "de": [
+                "Die Quellen sprechen eher von einer Übereinkunft zwischen zwei Herrschern als von einem Erlass.",
+                "Die Datierung schwankt zwischen Januar und Februar 313."
+              ],
+              "en": [
+                "The sources speak more of an agreement between two rulers than of a decree.",
+                "The date varies between January and February 313."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Mit diesem Schritt endete die staatliche Verfolgung der Christen im Römischen Reich. Die Kirche konnte sich öffentlich entfalten. Der Weg zur späteren Reichskirche begann hier.",
+              "en": "This step ended the state persecution of Christians in the Roman Empire. The Church could now develop openly. The path to the later state church begins here."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Christian History Institute – The Edict of Milan (313)",
+            "url": "https://christianhistoryinstitute.org/magazine/article/edict-of-milan"
+          },
+          {
+            "title": "Britannica – Edict of Milan",
+            "url": "https://www.britannica.com/topic/Edict-of-Milan"
+          }
+        ]
       },
       {
         "year": "325",
@@ -518,13 +634,73 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-451",
         "summary": {
-          "de": "Christus wird als wahrer Gott und wahrer Mensch in einer Person bekannt.",
-          "en": "Christ is confessed as true God and true man in one person."
+          "de": "Das Konzil von Chalcedon bekennt Christus als eine Person mit zwei Naturen, göttlicher und menschlicher. Die Oriental-Orthodoxen lehnen es ab.",
+          "en": "The Council of Chalcedon confesses Christ as one person with two natures, divine and human. The Oriental Orthodox reject it."
         },
         "details": {
-          "de": "Das Konzil formuliert die Lehre von den zwei Naturen Christi, ungetrennt und unvermischt. Die Frage führte später zur Trennung der Kirchen, die bis heute besteht.",
-          "en": "The council formulates the teaching of the two natures of Christ, united without confusion. The question later led to a separation of churches that persists today."
-        }
+          "de": "Das Konzil ist bis heute der Grund für die Trennung zwischen der chalkedonischen Orthodoxie und den orientalisch-orthodoxen Kirchen.",
+          "en": "The council is still the reason for the division between the Chalcedonian Orthodox and the Oriental Orthodox Churches."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Nach Ephesus (431) entbrannte ein neuer Streit: Eutyches, ein Mönch in Konstantinopel, lehrte, dass Christus nach der Vereinigung nur eine Natur habe. Die Synode von Ephesus 449 unterstützte ihn. Kaiser Markian und Papst Leo I. riefen dann ein neues Konzil ein.",
+              "en": "After Ephesus (431) a new dispute arose: Eutyches, a monk in Constantinople, taught that after the union Christ had only one nature. The 449 synod at Ephesus supported him. Emperor Marcian and Pope Leo I then convened a new council."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Das Konzil tagte vom 8. Oktober bis 1. November 451 in Chalcedon, heute Kadıköy bei Istanbul. Kaiser Markian berief es ein. Der Brief Papst Leos an Bischof Flavian, der Tomus Leonis, wurde verlesen und als rechtgläubig angenommen. Das Konzil formulierte, Christus sei „in zwei Naturen, unvermischt, unverwandelt, ungeteilt, ungetrennt“ zu bekennen.",
+              "en": "The council met from 8 October to 1 November 451 at Chalcedon, today Kadıköy near Istanbul. Emperor Marcian convened it. Pope Leo’s letter to Bishop Flavian, the Tome of Leo, was read and accepted as orthodox. The council declared that Christ is to be acknowledged “in two natures, inconfusedly, unchangeably, indivisibly, inseparably”."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Festlegung: eine Person, zwei Naturen, ohne Vermischung.",
+                "Etwa 520 Bischöfe oder Vertreter waren anwesend.",
+                "Kanon 28 gab Konstantinopel den gleichen Rang wie Rom. Rom erkannte ihn nicht an."
+              ],
+              "en": [
+                "Definition: one person, two natures, without confusion.",
+                "About 520 bishops or their representatives were present.",
+                "Canon 28 gave Constantinople equal privileges with Rome. Rome did not accept it."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Die orientalisch-orthodoxen Kirchen lehnen Chalcedon ab, weil sie darin eine Zwei-Naturen-Lehre sehen, die Christus spalte. Sie bekennen die eine Natur des fleischgewordenen Wortes. Die Lehre von Chalcedon ist die Grundlage der römisch-katholischen, der östlich-orthodoxen und der anglikanischen Kirchen.",
+              "en": "The Oriental Orthodox Churches reject Chalcedon, because they see in it a two-natures teaching that divides Christ. They confess the one nature of the incarnate Word. The teaching of Chalcedon is the basis of the Roman Catholic, Eastern Orthodox and Anglican Churches."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Council of Chalcedon",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Chalcedon"
+          },
+          {
+            "title": "Tome of Leo – Letter of Pope Leo to Flavian (EWTN)",
+            "url": "https://www.ewtn.com/catholicism/library/council-of-chalcedon---the-letter-of-pope-leo-to-flavian-bishop-of-constantinople-about-eutyches-1453"
+          }
+        ]
       },
       {
         "year": "548–565",
@@ -638,13 +814,73 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-988",
         "summary": {
-          "de": "Nach der Überlieferung lässt sich Fürst Wladimir von Kiew taufen. Damit beginnt das Christentum im Gebiet der Rus.",
-          "en": "According to tradition, Prince Vladimir of Kyiv is baptised. Christianity begins in the lands of Rus."
+          "de": "Großfürst Wladimir lässt sich taufen. Kiew und das Reich der Rus werden christlich.",
+          "en": "Grand Prince Vladimir is baptised. Kiev and the realm of Rus’ become Christian."
         },
         "details": {
-          "de": "Die Taufe gilt als Beginn der Kirche in Russland und der Ukraine. Die Einzelheiten sind vor allem aus der Nestorchronik bekannt und in Teilen umstritten.",
-          "en": "The baptism is seen as the beginning of the Church in Russia and Ukraine. The details are known mainly from the Russian Primary Chronicle and are partly disputed."
-        }
+          "de": "Die Taufe ist der Anfang der Orthodoxie in der Rus. Sie verband das Reich mit der byzantinischen Welt.",
+          "en": "The baptism marks the beginning of Orthodoxy in Rus’. It linked the realm with the Byzantine world."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Großfürst Wladimir von Kiew suchte nach einer Religion, die sein Reich einen kann. Der alte Götterkult um Perun reichte dafür nicht aus. Die Gesandten, die er nach Konstantinopel schickte, berichteten von der Liturgie in der Hagia Sophia. Politisch und wirtschaftlich lag Byzanz nahe.",
+              "en": "Grand Prince Vladimir of Kiev was looking for a religion that could unite his realm. The old cult of Perun was not enough. The envoys he sent to Constantinople reported on the liturgy in Hagia Sophia. Byzantium was politically and economically close."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Kaiser Basileios II. bat Wladimir um Hilfe gegen einen Aufstand und schickte ihm dafür Truppen. Als der Kaiser zögerte, die Schwester Anna zur Ehe zu geben, eroberte Wladimir die byzantinische Hafenstadt Chersones auf der Krim. Basileios willigte ein, wenn Wladimir Christ wurde. Nach den Quellen wurde Wladimir in Chersones oder in Kiew getauft und heiratete Anna. Danach ließ er in Kiew die Statue des Perun in den Dnjepr werfen und das Volk zur Taufe ans Wasser führen.",
+              "en": "Emperor Basil II asked Vladimir for military help against a rebellion and sent troops for it. When the emperor hesitated to give his sister Anna in marriage, Vladimir captured the Byzantine port of Chersonesus in Crimea. Basil agreed on condition that Vladimir became a Christian. According to the sources, Vladimir was baptised either in Chersonesus or in Kiev and married Anna. He then had the statue of Perun thrown into the Dnieper in Kiev and the people led to the river for baptism."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Die Taufe der Bevölkerung von Kiew und weiteren Städten.",
+                "Byzantinische Kultur, Architektur, Ikonenmalerei und Klöster kommen in die Rus.",
+                "Die Kirche erhält weitreichende Rechte, auch in Familien- und Erbfragen."
+              ],
+              "en": [
+                "Baptism of the population of Kiev and other towns.",
+                "Byzantine culture, architecture, icon painting and monasteries reach Rus’.",
+                "The Church receives extensive rights, including in family and inheritance matters."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Die Taufe Wladimirs gilt als Grundlage der orthodoxen Kirchen Russlands, der Ukraine und Belarus. Wladimir wird als Heiliger verehrt und als „Gleich den Aposteln“ bezeichnet.",
+              "en": "Vladimir’s baptism is regarded as the foundation of the Orthodox Churches of Russia, Ukraine and Belarus. Vladimir is venerated as a saint and called “Equal to the Apostles”."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Christianization of Kievan Rus’",
+            "url": "https://orthodoxwiki.org/Christianization_of_Kievan_Rus%27"
+          },
+          {
+            "title": "EBSCO Research Starters – Baptism of Vladimir I",
+            "url": "https://www.ebsco.com/research-starters/history/baptism-vladimir-i"
+          }
+        ]
       },
       {
         "year": "1054",
@@ -660,13 +896,73 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-1054",
         "summary": {
-          "de": "Die Gesandten des Papstes und der Patriarch von Konstantinopel exkommunizieren sich gegenseitig.",
-          "en": "Papal legates and the Patriarch of Constantinople excommunicate each other."
+          "de": "Päpstliche Legaten und der Patriarch von Konstantinopel belegen sich gegenseitig mit dem Bann. Es ist der Beginn der Trennung zwischen Ost und West.",
+          "en": "Papal legates and the Patriarch of Constantinople excommunicate each other. This marks the beginning of the separation between East and West."
         },
         "details": {
-          "de": "Der Streit betraf unter anderem den Primat des Papstes und den Zusatz „Filioque“ im Glaubensbekenntnis. Das Datum gilt oft als Beginn der Spaltung, die sich aber über lange Zeit entwickelte.",
-          "en": "The dispute concerned, among other things, the primacy of the Pope and the addition “Filioque” to the Creed. The date is often seen as the start of the schism, which developed over a long period."
-        }
+          "de": "Der Bann von 1054 wurde 1965 aufgehoben. Die Trennung besteht aber bis heute.",
+          "en": "The excommunications of 1054 were lifted in 1965. The division still exists today."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Seit Jahrhunderten gab es Spannungen zwischen Rom und Konstantinopel über den Primat des Papstes und über theologische und liturgische Fragen. Dazu zählten das Filioque im Glaubensbekenntnis, die Verwendung von ungesäuertem Brot in der Eucharistie und Fragen der Zuständigkeit. Patriarch Michael I. Kerullarios von Konstantinopel geriet in Streit mit Papst Leo IX.",
+              "en": "For centuries there had been tensions between Rome and Constantinople over the primacy of the pope and over theological and liturgical questions. These included the filioque in the creed, the use of unleavened bread in the Eucharist and questions of jurisdiction. Patriarch Michael I Cerularius of Constantinople fell into dispute with Pope Leo IX."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Papst Leo IX. starb am 19. April 1054. Seine Legaten, unter ihnen Kardinal Humbert, blieben trotzdem in Konstantinopel. Am 16. Juli legten sie eine Bannbulle auf den Altar der Hagia Sophia. Sie richtete sich gegen den Patriarchen und seine Anhänger. Am 20. Juli verhängte eine Synode unter Michael den Bann über Humbert und seine zwei Begleiter. Am 24. Juli wurde dieser Bann in der Hagia Sophia verkündet.",
+              "en": "Pope Leo IX died on 19 April 1054. His legates, including Cardinal Humbert, nevertheless remained in Constantinople. On 16 July they placed a bull of excommunication on the altar of Hagia Sophia. It was directed against the patriarch and his followers. On 20 July a synod under Michael excommunicated Humbert and his two companions. On 24 July this excommunication was proclaimed in Hagia Sophia."
+            }
+          },
+          {
+            "heading": {
+              "de": "Streitpunkte",
+              "en": "Points of dispute"
+            },
+            "items": {
+              "de": [
+                "Der Anspruch des Papstes auf Jurisdiktion über andere Kirchen, aus orthodoxer Sicht der wichtigste Grund.",
+                "Das Filioque im Glaubensbekenntnis.",
+                "Ungesäuertes Brot in der Eucharistie."
+              ],
+              "en": [
+                "The papal claim to jurisdiction over other Churches, from the Orthodox point of view the most important cause.",
+                "The filioque in the creed.",
+                "Unleavened bread in the Eucharist."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Am 7. Dezember 1965 hoben Papst Paul VI. und Patriarch Athenagoras I. die Bannsprüche von 1054 auf. Die Kirchen sind bis heute nicht in voller Gemeinschaft. Die Trennung von 1054 ist der Ausgangspunkt der Spaltung zwischen Ost und West.",
+              "en": "On 7 December 1965 Pope Paul VI and Patriarch Athenagoras I lifted the excommunications of 1054. The Churches are still not in full communion. The division of 1054 is the starting point of the split between East and West."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OCA – The Great Schism (Orthodox view)",
+            "url": "https://oca.org/orthodoxy/the-orthodox-faith/church-history/eleventh-century/the-great-schism"
+          },
+          {
+            "title": "Wikipedia (en) – Michael I Cerularius",
+            "url": "https://en.wikipedia.org/wiki/Michael_I_Cerularius"
+          }
+        ]
       },
       {
         "year": "1204",
@@ -710,13 +1006,71 @@ window.CONTENT_DATA = {
         "major": true,
         "id": "ev-1453",
         "summary": {
-          "de": "Konstantinopel fällt nach langer Belagerung an das Osmanische Reich. Das Byzantinische Reich endet.",
-          "en": "After a long siege Constantinople falls to the Ottoman Empire. The Byzantine Empire comes to an end."
+          "de": "Die Osmanen erobern Konstantinopel. Das Byzantinische Reich endet. Die Stadt wird zur osmanischen Hauptstadt.",
+          "en": "The Ottomans take Constantinople. The Byzantine Empire ends. The city becomes the Ottoman capital."
         },
         "details": {
-          "de": "Die Hagia Sophia wird danach als Moschee genutzt. Das Patriarchat von Konstantinopel bleibt als geistliches Zentrum bestehen.",
-          "en": "Hagia Sophia is then used as a mosque. The Patriarchate of Constantinople remains as a spiritual centre."
-        }
+          "de": "Die Hagia Sophia wird Moschee. Konstantinopel bleibt Sitz des Ökumenischen Patriarchen.",
+          "en": "Hagia Sophia becomes a mosque. Constantinople remains the seat of the Ecumenical Patriarch."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Das Byzantinische Reich war seit dem Vierten Kreuzzug (1204) geschwächt. Die Stadt war nur noch ein kleines Gebiet um die Mauern. Der osmanische Sultan Mehmed II. bereitete einen Angriff vor, um die Stadt zu erobern.",
+              "en": "The Byzantine Empire had been weakened since the Fourth Crusade (1204). The city was little more than a small area within its walls. The Ottoman sultan Mehmed II prepared an attack to take the city."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Die Osmanen erreichten Konstantinopel im April 1453, die Belagerung begann im April. Die Verteidiger unter Kaiser Konstantin XI. Palaiologos hielten fast zwei Monate stand. Osmanische Großgeschütze beschädigten die Mauern. Nach einem letzten Angriff am 28. Mai drangen die Osmanen am 29. Mai in die Stadt ein. Der Kaiser kam dabei ums Leben. Sein genaues Schicksal ist unbekannt.",
+              "en": "The Ottomans reached Constantinople in April 1453, and the siege began in earnest in April. The defenders under Emperor Constantine XI Palaiologos held out for almost two months. Ottoman heavy guns damaged the walls. After a final assault on 28 May, the Ottomans broke into the city on 29 May. The emperor died in the fighting. His exact fate is unknown."
+            }
+          },
+          {
+            "heading": {
+              "de": "Kräfte und Zahlen",
+              "en": "Forces and figures"
+            },
+            "items": {
+              "de": [
+                "Die Angreifer werden mit über 100.000 Mann angegeben, dazu eine große Flotte.",
+                "Die Verteidiger waren weit unterlegen, nach den Quellen rund 7.000 bis 8.000 Männer. Die Angaben schwanken."
+              ],
+              "en": [
+                "The attackers are given as more than 100,000 men, plus a large fleet.",
+                "The defenders were far outnumbered, according to the sources about 7,000 to 8,000 men. The figures vary."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Mit dem Fall endete das Byzantinische Reich, das über tausend Jahre bestanden hatte. Die Hagia Sophia wurde zur Moschee und später zum Museum. Konstantinopel, heute Istanbul, blieb Sitz des Ökumenischen Patriarchen der Orthodoxie. Viele griechische Gelehrte flohen nach Westen und prägten die Renaissance.",
+              "en": "The fall ended the Byzantine Empire, which had lasted for more than a thousand years. Hagia Sophia became a mosque and later a museum. Constantinople, today Istanbul, remained the seat of the Ecumenical Patriarch of Orthodoxy. Many Greek scholars fled to the West and shaped the Renaissance."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "EBSCO Research Starters – Fall of Constantinople",
+            "url": "https://ebsco.com/research-starters/history/fall-constantinople"
+          },
+          {
+            "title": "Basilica.ro – On this day, 29 May 1453",
+            "url": "https://basilica.ro/en/?p=281126"
+          }
+        ]
       },
       {
         "year": "1589",
