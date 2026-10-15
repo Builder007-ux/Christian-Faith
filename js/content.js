@@ -2239,7 +2239,12 @@ window.CONTENT_DATA = {
             "title": "Wikipedia (en) – John of Damascus",
             "url": "https://en.wikipedia.org/wiki/John_of_Damascus"
           }
-        ]
+        ],
+        "image": "images/persons/john-damascus.jpg",
+        "imageCredit": {
+          "de": "Ikone des hl. Johannes von Damaskus. Wikimedia Commons. Lizenz laut Commons: gemeinfrei (Public Domain).",
+          "en": "Icon of St John of Damascus. Wikimedia Commons. Licence per Commons: public domain."
+        }
       },
       {
         "id": "gregory-nazianzen",
