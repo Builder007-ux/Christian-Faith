@@ -2044,7 +2044,12 @@ window.CONTENT_DATA = {
             "title": "Angelus – Saint of the Day: John Chrysostom",
             "url": "https://angelusnews.com/faith/saint-of-the-day/john-chrysostom/"
           }
-        ]
+        ],
+        "image": "images/persons/chrysostom.jpg",
+        "imageCredit": {
+          "de": "Mosaik des hl. Johannes Chrysostomus (Hagia Sophia, Konstantinopel). Wikimedia Commons. Lizenz laut Commons: gemeinfrei (Public Domain).",
+          "en": "Mosaic of St John Chrysostom (Hagia Sophia, Constantinople). Wikimedia Commons. Licence per Commons: public domain."
+        }
       },
       {
         "id": "maximus",
