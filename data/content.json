@@ -167,7 +167,65 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-303-311"
+        "id": "ev-303-311",
+        "summary": {
+          "de": "Ab 303 lässt Kaiser Diokletian die Christen verfolgen. 311 erlässt Galerius ein Toleranzedikt, das die Verfolgung beendet.",
+          "en": "From 303 Emperor Diocletian has Christians persecuted. In 311 Galerius issues an edict of toleration that ends the persecution."
+        },
+        "details": {
+          "de": "Die Große Verfolgung war die letzte und härteste der römischen Christenverfolgungen. Sie betraf Kirchen, Bücher und Kleriker.",
+          "en": "The Great Persecution was the last and most severe of the Roman persecutions of Christians. It targeted churches, books and clergy."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Das Christentum war im Reich im 3. Jahrhundert stark gewachsen. Diokletian wollte das Reich durch einheitliche Kultpraxis stabilisieren und sah im Christentum eine Gefahr.",
+              "en": "Christianity had grown considerably in the empire during the 3rd century. Diocletian wanted to stabilise the empire through a unified religious practice and saw Christianity as a threat."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Im Februar 303 erließ Diokletian das erste Edikt: Kirchen wurden zerstört, heilige Schriften verbrannt, Versammlungen verboten. Es folgten weitere Edikte, die auch Kleriker und schließlich alle Christen zum Opfer des Kultes zwangen. Viele wurden hingerichtet, andere verloren Besitz und Ämter.",
+              "en": "In February 303 Diocletian issued the first edict: churches were destroyed, sacred scriptures burned and assemblies forbidden. Further edicts followed that targeted clergy and finally required all Christians to offer sacrifice. Many were executed, others lost property and offices."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Im Jahr 311 erließ Galerius, der im Osten herrschte, kurz vor seinem Tod ein Toleranzedikt, das den Christen die freie Ausübung ihres Glaubens zugestand.",
+                "Das Edikt von Mailand (313) bestätigte diese Duldung für das ganze Reich.",
+                "Die Märtyrer dieser Zeit wurden in der Kirche tief verehrt."
+              ],
+              "en": [
+                "In 311 Galerius, who ruled in the East, issued an edict of toleration shortly before his death, allowing Christians to practise their faith.",
+                "The Edict of Milan (313) confirmed this toleration for the whole empire.",
+                "The martyrs of this period were deeply honoured in the Church."
+              ]
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Diocletianic Martyrs",
+            "url": "https://orthodoxwiki.org/Diocletianic_Martyrs"
+          },
+          {
+            "title": "John Sanidopoulos – April 30, 311: Emperor Galerius issues …",
+            "url": "https://www.johnsanidopoulos.com/2011/04/april-30-311-emperor-galerius-issues.html?m=1"
+          }
+        ]
       },
       {
         "year": "313",
@@ -415,7 +473,57 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-330"
+        "id": "ev-330",
+        "summary": {
+          "de": "Am 11. Mai 330 weiht Kaiser Konstantin Byzanz als neue Hauptstadt des Reiches und nennt sie Konstantinopel.",
+          "en": "On 11 May 330 Emperor Constantine dedicates Byzantium as the new capital of the empire and names it Constantinople."
+        },
+        "details": {
+          "de": "Die Stadt wurde zum Zentrum des östlichen Christentums. Hier fanden später mehrere ökumenische Konzile statt.",
+          "en": "The city became the centre of Eastern Christianity. Several ecumenical councils later took place there."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Konstantin hatte nach dem Sieg über Licinius 324 die Alleinherrschaft erlangt. Er suchte einen Ort im Osten, der näher an den Grenzen und den reichen Provinzen lag als Rom.",
+              "en": "After defeating Licinius in 324 Constantine became sole ruler. He sought a site in the East, closer to the frontiers and the wealthy provinces than Rome."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Die alte griechische Siedlung Byzanz am Bosporus wurde ausgebaut, mit Mauern, Foren, Kirchen und einem Senat. Die Weihe fand am 11. Mai 330 statt.",
+              "en": "The old Greek settlement of Byzantium on the Bosporus was expanded, with walls, forums, churches and a senate. The dedication took place on 11 May 330."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Konstantinopel wurde Sitz des Ökumenischen Patriarchen und das geistliche Zentrum des Ostens. Mit dem Namen der Stadt ist der Weg des Christentums im Osten eng verbunden.",
+              "en": "Constantinople became the seat of the Ecumenical Patriarch and the spiritual centre of the East. The path of Christianity in the East is closely bound up with the city."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Oxford University Press Blog – Constantine dedicates Constantinople",
+            "url": "https://blog.oup.com/2012/05/constantine-dedicates-constantinople/"
+          },
+          {
+            "title": "Greek City Times – May 11, 330: Byzantium",
+            "url": "https://greekcitytimes.com/2021/05/12/may-11-330-byzantium/"
+          }
+        ]
       },
       {
         "year": "381",
@@ -521,7 +629,55 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-395"
+        "id": "ev-395",
+        "summary": {
+          "de": "Nach dem Tod Theodosius’ I. 395 werden das West- und das Ostreich dauerhaft unter seinen Söhnen getrennt.",
+          "en": "After the death of Theodosius I in 395, the western and eastern empires are permanently separated under his sons."
+        },
+        "details": {
+          "de": "Die Teilung war zunächst eine Verwaltungsfrage. Sie wurde später endgültig, als das Westreich 476 unterging und der Osten noch fast tausend Jahre bestand.",
+          "en": "The division was at first an administrative matter. It became permanent when the Western Empire fell in 476, while the East survived for nearly a thousand years."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Kaiser Theodosius I. starb im Januar 395. Er hinterließ zwei Söhne: Arcadius, der den Osten mit Konstantinopel erhielt, und Honorius, der den Westen mit Mailand und später Ravenna regierte.",
+              "en": "Emperor Theodosius I died in January 395. He left two sons: Arcadius, who received the East with Constantinople, and Honorius, who ruled the West from Milan and later Ravenna."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Der Osten sprach vor allem Griechisch und wurde später als Byzanz bezeichnet.",
+                "Der Westen sprach Latein und geriet unter wachsenden Druck durch germanische Völker.",
+                "Die Kirchen beider Reichsteile entwickelten sich zunehmend getrennt."
+              ],
+              "en": [
+                "The East spoke mainly Greek and was later called Byzantium.",
+                "The West spoke Latin and came under growing pressure from Germanic peoples.",
+                "The churches of the two halves developed increasingly apart."
+              ]
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Byzantine Empire under the Theodosian dynasty",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_Empire_under_the_Theodosian_dynasty"
+          },
+          {
+            "title": "Edward Gibbon – The Decline and Fall, Chapter 29 (gemeinfrei)",
+            "url": "https://ccel.org/ccel/gibbon/decline/volume1/chap29.htm"
+          }
+        ]
       },
       {
         "year": "431",
@@ -713,7 +869,47 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-548-565"
+        "id": "ev-548-565",
+        "summary": {
+          "de": "Unter Kaiser Justinian entsteht das Katharinenkloster auf dem Sinai, eines der ältesten durchgehend bewohnten Klöster der Christenheit.",
+          "en": "Under Emperor Justinian the Monastery of St Catherine is built on Mount Sinai, one of the oldest continuously inhabited monasteries in Christendom."
+        },
+        "details": {
+          "de": "Das Kloster wurde an dem Ort errichtet, den die Tradition mit der Dornbuschszene verbindet. Es bewahrt bis heute eine bedeutende Handschriftensammlung und Ikonen.",
+          "en": "The monastery was built on the site the tradition links with the burning bush. It still preserves an important collection of manuscripts and icons."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Die Mönchsgemeinschaft am Berg Sinai bestand schon früher. Justinian ließ die Anlage zwischen etwa 548 und 565 mit starken Mauern und einer Basilika errichten. Die Basilika ist der Verklärung Christi geweiht.",
+              "en": "A community of monks already lived on Mount Sinai earlier. Justinian had the complex built between about 548 and 565, with strong walls and a basilica. The basilica is dedicated to the Transfiguration of Christ."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Kloster ist nach seiner Heiligen Katharina benannt, deren Verehrung im Mittelalter von Sinai aus Verbreitung fand. Es gehört zu den wichtigsten Stätten der Ostkirche und ist Weltkulturerbe der UNESCO.",
+              "en": "The monastery is named after St Catherine, whose veneration spread from Sinai during the Middle Ages. It is one of the most important sites of the Eastern Church and a UNESCO World Heritage Site."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Saint Catherine’s Monastery",
+            "url": "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery"
+          },
+          {
+            "title": "OrthodoxWiki – St. Catherine’s Monastery (Sinai)",
+            "url": "https://orthodoxwiki.org/St._Catherine%27s_Monastery_(Sinai)"
+          }
+        ]
       },
       {
         "year": "553",
@@ -727,7 +923,57 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-553"
+        "id": "ev-553",
+        "summary": {
+          "de": "Das Fünfte Ökumenische Konzil verurteilt Theodor von Mopsuestia und die sogenannten „Drei Kapitel“, Schriften, die dem Nestorianismus nahestanden.",
+          "en": "The Fifth Ecumenical Council condemns Theodore of Mopsuestia and the so-called “Three Chapters”, writings considered close to Nestorianism."
+        },
+        "details": {
+          "de": "Das Konzil wurde von Kaiser Justinian einberufen, um die Einheit mit den Gegnern von Chalcedon zu fördern. Ob es dies erreichte, blieb umstritten.",
+          "en": "The council was convened by Emperor Justinian to promote unity with the opponents of Chalcedon. Whether it succeeded remained disputed."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Nach Chalcedon 451 gab es im Osten starke Gruppen, die das Konzil ablehnten. Justinian wollte sie gewinnen und verurteilte deshalb Personen und Schriften, die als nestorianisch galten.",
+              "en": "After Chalcedon in 451 strong groups in the East rejected the council. Justinian wanted to win them over and therefore condemned persons and writings regarded as Nestorian."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Das Konzil tagte im Mai und Juni 553 in Konstantinopel. Es verurteilte Theodor von Mopsuestia, Theodoret von Kyrrhos Schrift gegen Cyrill und den Brief des Ibas von Edessa. Papst Vigilius, der die Verurteilung zunächst ablehnte, stimmte später zu.",
+              "en": "The council met in Constantinople in May and June 553. It condemned Theodore of Mopsuestia, the writing of Theodoret of Cyrrhus against Cyril and the letter of Ibas of Edessa. Pope Vigilius, who at first rejected the condemnation, later agreed."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Konzil gilt in der Orthodoxie als ökumenisch. Die Frage, wie Christus als Gott und Mensch zu verstehen ist, wurde durch die Lehre über die Person Christi weiter geklärt.",
+              "en": "The council is regarded as ecumenical in Orthodoxy. The question of how Christ is understood as God and man was further clarified through the teaching on the person of Christ."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Fordham Sourcebook – Second Council of Constantinople",
+            "url": "https://sourcebooks.web.fordham.edu/basis/const2.asp"
+          },
+          {
+            "title": "Philip Schaff – History of the Christian Church, Vol. III (gemeinfrei)",
+            "url": "https://ccel.org/ccel/schaff/hcc3.iii.xii.xxviii.html"
+          }
+        ]
       },
       {
         "year": "680–681",
@@ -741,7 +987,57 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-680-681"
+        "id": "ev-680-681",
+        "summary": {
+          "de": "Das Dritte Konzil von Konstantinopel (Sechstes Ökumenisches) verurteilt den Monotheletismus und bestätigt, dass Christus zwei Willen hat, einen göttlichen und einen menschlichen.",
+          "en": "The Third Council of Constantinople (Sixth Ecumenical) condemns Monothelitism and confirms that Christ has two wills, divine and human."
+        },
+        "details": {
+          "de": "Maximus der Bekenner war einer der wichtigsten Verteidiger dieser Lehre. Das Konzil rehabilitierte ihn später in der Orthodoxie.",
+          "en": "Maximus the Confessor was one of the chief defenders of this teaching. The council later vindicated him in Orthodoxy."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Der Monotheletismus lehrte, Christus habe nur einen Willen. Er wurde als Vermittlungsversuch zwischen Chalcedon und den Gegnern vorgeschlagen, widersprach aber der Lehre von den zwei Naturen.",
+              "en": "Monothelitism taught that Christ had only one will. It was proposed as a compromise between Chalcedon and its opponents, but it contradicted the teaching of the two natures."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Das Konzil tagte von 680 bis 681 in Konstantinopel. Es verurteilte den Monotheletismus und mehrere Patriarchen und Kaiser, die ihn gefördert hatten. Auch Papst Honorius wurde verurteilt, weil er die Lehre nicht klar zurückgewiesen hatte.",
+              "en": "The council met in Constantinople from 680 to 681. It condemned Monothelitism and several patriarchs and emperors who had promoted it. Pope Honorius was also condemned for not clearly rejecting the teaching."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Die Lehre von den zwei Willen Christi ist in der Ostkirche und in der katholischen Kirche gleichermaßen anerkannt. Das Konzil bestätigte zugleich die Bedeutung des Menschlichen in Christus.",
+              "en": "The teaching on the two wills of Christ is accepted in both the Eastern and the Catholic Church. The council also affirmed the reality of the human in Christ."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Third Council of Constantinople",
+            "url": "https://en.wikipedia.org/wiki/Third_Council_of_Constantinople"
+          },
+          {
+            "title": "OrthodoxWiki – Sixth Ecumenical Council",
+            "url": "https://orthodoxwiki.org/Sixth_Ecumenical_Council"
+          }
+        ]
       },
       {
         "year": "787",
@@ -755,7 +1051,57 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-787"
+        "id": "ev-787",
+        "summary": {
+          "de": "Das Zweite Konzil von Nicaea erklärt die Verehrung der Ikonen für rechtmäßig und verurteilt den Bilderstreit.",
+          "en": "The Second Council of Nicaea declares the veneration of icons lawful and condemns iconoclasm."
+        },
+        "details": {
+          "de": "Die Ikonenverehrung wird als Verehrung (proskynesis) unterschieden von der Anbetung, die allein Gott gebührt. Dieser Unterschied ist für die Ostkirche bis heute grundlegend.",
+          "en": "Icon veneration is distinguished as honour (proskynesis) from the worship (latreia) that is due to God alone. This distinction remains fundamental for the Eastern Church."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Ab 726 lehnten die byzantinischen Kaiser die Ikonen ab. Das Konzil von 754 verbot sie, und der Bilderstreit dauerte bis 843.",
+              "en": "From 726 the Byzantine emperors rejected icons. A council in 754 banned them, and the iconoclastic controversy lasted until 843."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Kaiserin Irene berief das Konzil ein. Es begann 787 in Nicaea und tagte danach in Konstantinopel. Die Väter erklärten die Verehrung der Ikonen für zulässig und verurteilten die Gegner.",
+              "en": "Empress Irene convened the council. It opened in 787 at Nicaea and then met in Constantinople. The fathers declared the veneration of icons permissible and condemned its opponents."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Konzil ist das siebte und letzte gemeinsame Konzil der ungeteilten Kirche. In der Orthodoxie ist die Ikone ein Fenster zum Heiligen und fester Bestandteil des Gottesdienstes.",
+              "en": "The council is the seventh and last council shared by the undivided Church. In Orthodoxy the icon is a window onto the holy and an essential part of worship."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Second Council of Nicaea",
+            "url": "https://en.wikipedia.org/wiki/Second_Council_of_Nicaea"
+          },
+          {
+            "title": "OrthodoxWiki – Seventh Ecumenical Council",
+            "url": "https://orthodoxwiki.org/Seventh_Ecumenical_Council"
+          }
+        ]
       },
       {
         "year": "843",
@@ -769,7 +1115,47 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-843"
+        "id": "ev-843",
+        "summary": {
+          "de": "Am ersten Fastensonntag 843 wird die Ikonenverehrung in Konstantinopel wiederhergestellt. Der Tag heißt seither „Sonntag der Orthodoxie“.",
+          "en": "On the first Sunday of Lent 843 the veneration of icons is restored in Constantinople. The day has since been called the “Sunday of Orthodoxy”."
+        },
+        "details": {
+          "de": "Die Kaiserin Theodora setzte die Ikonen nach dem Tod des Kaisers Theophilos wieder ein. Der Gedenktag wird in der Ostkirche jährlich gefeiert.",
+          "en": "Empress Theodora restored the icons after the death of Emperor Theophilos. The commemoration is celebrated every year in the Eastern Church."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Nach dem Tod des bilderfeindlichen Kaisers Theophilos 842 regierte seine Witwe Theodora für ihren unmündigen Sohn Michael III. Sie ließ die Ikonen wieder zu und setzte den Patriarchen Methodios ein. Am ersten Fastensonntag, dem 11. März 843, zog die Stadt in einer Prozession mit den Ikonen.",
+              "en": "After the death of the iconoclast Emperor Theophilos in 842, his widow Theodora ruled for her underage son Michael III. She restored the icons and installed Patriarch Methodios. On the first Sunday of Lent, 11 March 843, the city processed with the icons."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Der Sonntag der Orthodoxie wird am ersten Fastensonntag gefeiert. Die Gemeinde bekennt dabei den Glauben und ehrt die Heiligen und Ikonen.",
+              "en": "The Sunday of Orthodoxy is celebrated on the first Sunday of Lent. The congregation confesses the faith and honours the saints and icons."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Theodora, the Empress",
+            "url": "https://orthodoxwiki.org/Theodora_(9th_century_empress)"
+          },
+          {
+            "title": "GOARCH – The Sunday of Orthodoxy",
+            "url": "https://goarchdiocese.ca/the-sunday-of-orthodoxy/"
+          }
+        ]
       },
       {
         "year": "863",
@@ -783,7 +1169,65 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-863"
+        "id": "ev-863",
+        "summary": {
+          "de": "Die Brüder Kyrill und Method werden 863 zu den Slawen in Mähren gesandt und übersetzen Bibel und Liturgie in die slawische Sprache.",
+          "en": "In 863 the brothers Cyril and Methodius are sent to the Slavs in Moravia and translate the Bible and liturgy into Slavonic."
+        },
+        "details": {
+          "de": "Sie entwickelten eine Schrift für die slawische Sprache, aus der später die kyrillische Schrift hervorging. Ihr Werk prägt die orthodoxen Kirchen der Slawen bis heute.",
+          "en": "They developed a script for the Slavonic language, from which the Cyrillic alphabet later emerged. Their work still shapes the Orthodox churches of the Slavs."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Der Mährerfürst Rastislav bat den byzantinischen Kaiser Michael III. um Lehrer in der Sprache seines Volkes. Kyrill und Method, Brüder aus Thessaloniki, machten sich 863 auf den Weg. Sie übersetzten Evangelium und Liturgie und begannen mit dem Gottesdienst in slawischer Sprache.",
+              "en": "The Moravian prince Rastislav asked the Byzantine Emperor Michael III for teachers in his people’s language. Cyril and Methodius, brothers from Thessaloniki, set out in 863. They translated the Gospels and liturgy and began worship in Slavonic."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Der slawische Gottesdienst wurde in Mähren und Pannonien gefeiert.",
+                "Methodius wurde später Erzbischof, wurde aber von lateinischen Gegnern angefeindet.",
+                "Schüler der Brüder verbreiteten die Schrift und den Gottesdienst auf dem Balkan und in Russland."
+              ],
+              "en": [
+                "Slavonic worship was celebrated in Moravia and Pannonia.",
+                "Methodius later became archbishop but was opposed by Latin clergy.",
+                "Their disciples spread the script and the worship in the Balkans and Russia."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Kyrill und Method gelten als Apostel der Slawen. Die Orthodoxie feiert sie am 11. Mai, in der katholischen Kirche wird Kyrill am 14. Februar gedacht.",
+              "en": "Cyril and Methodius are regarded as apostles of the Slavs. They are commemorated on 11 May (Cyril) and 14 February."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Cyril and Methodius",
+            "url": "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+          },
+          {
+            "title": "New World Encyclopedia – Saints Cyril and Methodius",
+            "url": "https://www.newworldencyclopedia.org/entry/Saints_Cyril_and_Methodius"
+          }
+        ]
       },
       {
         "year": "867",
@@ -797,7 +1241,57 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-867"
+        "id": "ev-867",
+        "summary": {
+          "de": "Patriarch Photios und Papst Nikolaus I. verurteilen einander. Der Streit führt zu einer tiefen Entfremdung, die 1054 im großen Schisma endet.",
+          "en": "Patriarch Photius and Pope Nicholas I condemn each other. The dispute leads to a deep estrangement that ends in the Great Schism of 1054."
+        },
+        "details": {
+          "de": "Der Konflikt entzündete sich an der Absetzung des Patriarchen Ignatios und an Fragen der Jurisdiktion in Bulgarien. Er zeigte die Spannungen zwischen Rom und Konstantinopel, die bis heute nachwirken.",
+          "en": "The conflict arose from the deposition of Patriarch Ignatius and questions of jurisdiction in Bulgaria. It showed the tensions between Rome and Constantinople that still have effects today."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Kaiser Michael III. setzte 858 den Patriarchen Ignatios ab und ließ Photios, einen gelehrten Laien, zum Patriarchen wählen. Rom unterstützte Ignatios und erkannte Photios zunächst nicht an.",
+              "en": "In 858 Emperor Michael III deposed Patriarch Ignatius and had Photius, a learned layman, elected patriarch. Rome supported Ignatius and at first did not recognise Photius."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Nikolaus I. verurteilte Photios 863 und setzte ihn ab. Photios antwortete 867 mit einer Synode in Konstantinopel, die den Papst als Häretiker verurteilte. Im selben Jahr wurde Photios allerdings durch Kaiser Basilius I. abgesetzt. Nikolaus starb im November 867.",
+              "en": "Nicholas I condemned Photius in 863 and deposed him. In 867 Photius replied with a synod in Constantinople that condemned the pope as a heretic. In the same year, however, Photius was deposed by Emperor Basil I. Nicholas died in November 867."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Nach der Wiederherstellung des Photios wurden die Spannungen 879/880 zeitweise beigelegt, blieben aber bestehen. Das Konzil von 869/870, das Photios verurteilte, wird in der Orthodoxie nicht als ökumenisch anerkannt. Photios selbst gilt als großer Gelehrter.",
+              "en": "After Photius was restored, the tensions were temporarily eased at a synod in 879/880, but they remained. The council of 869/870, which condemned Photius, is not recognised as ecumenical in Orthodoxy. Photius himself is regarded as a great scholar."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Photian schism",
+            "url": "https://en.wikipedia.org/wiki/Photian_schism"
+          },
+          {
+            "title": "Britannica – Photian Schism",
+            "url": "https://www.britannica.com:443/event/Photian-Schism"
+          }
+        ]
       },
       {
         "year": "988",
@@ -975,7 +1469,65 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-1204"
+        "id": "ev-1204",
+        "summary": {
+          "de": "Kreuzfahrer des Vierten Kreuzzugs erobern und plündern Konstantinopel. Die Stadt wird zur Hauptstadt eines lateinischen Kaiserreichs.",
+          "en": "Crusaders of the Fourth Crusade conquer and plunder Constantinople. The city becomes the capital of a Latin empire."
+        },
+        "details": {
+          "de": "Die Plünderung zerstörte viele Kirchen und Kunstwerke. Das Verhältnis zwischen Ost und West wurde dadurch auf Jahrhunderte belastet.",
+          "en": "The plunder destroyed many churches and works of art. Relations between East and West were burdened for centuries."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Der Vierte Kreuzzug war ursprünglich gegen Ägypten gerichtet. Die Kreuzfahrer ließen sich jedoch für die Wiedereinsetzung eines abgesetzten byzantinischen Prinzen gewinnen. Im April 1204 nahmen sie Konstantinopel ein und plünderten es drei Tage lang.",
+              "en": "The Fourth Crusade was originally directed against Egypt. The crusaders were, however, persuaded to restore a deposed Byzantine prince. In April 1204 they took Constantinople and plundered it for three days."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Es entstand das Lateinische Kaiserreich, das bis 1261 bestand.",
+                "Der griechische Patriarch musste weichen, lateinische Bischöfe übernahmen Kirchen.",
+                "Byzantinische Nachfolgestaaten in Nicaea, Epirus und Trapezunt blieben bestehen."
+              ],
+              "en": [
+                "The Latin Empire was established and lasted until 1261.",
+                "The Greek patriarch had to withdraw, and Latin bishops took over churches.",
+                "Byzantine successor states in Nicaea, Epirus and Trebizond survived."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Ereignis gilt vielen Orthodoxen als tiefer Bruch mit dem Westen. Es wird bis heute als Wunde im Verhältnis der Kirchen erinnert.",
+              "en": "Many Orthodox regard the event as a deep rupture with the West. It is still remembered as a wound in relations between the churches."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Sack of Constantinople",
+            "url": "https://en.wikipedia.org/wiki/Sack_of_Constantinople"
+          },
+          {
+            "title": "Wikipedia (en) – Latin Empire",
+            "url": "https://en.wikipedia.org/wiki/Latin_Empire"
+          }
+        ]
       },
       {
         "year": "1439",
@@ -989,7 +1541,67 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-1439"
+        "id": "ev-1439",
+        "summary": {
+          "de": "Auf dem Konzil von Florenz wird eine Union zwischen Ost- und Westkirche beschlossen. Die Mehrheit der Orthodoxen lehnt sie später ab.",
+          "en": "The Council of Florence agrees a union between the Eastern and Western churches. The majority of the Orthodox later reject it."
+        },
+        "details": {
+          "de": "Der byzantinische Kaiser suchte Hilfe gegen die Osmanen und hoffte auf militärische Unterstützung des Westens. Der Metropolit Markus von Ephesus verweigerte als einziger Bischof die Unterschrift.",
+          "en": "The Byzantine emperor sought help against the Ottomans and hoped for military support from the West. Metropolitan Mark of Ephesus alone among the bishops refused to sign."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Hintergrund",
+              "en": "Background"
+            },
+            "text": {
+              "de": "Die Osmanen bedrohten Konstantinopel. Der Kaiser Johannes VIII. reiste 1437 mit einer Delegation nach Italien, um einen Unionsvertrag zu erreichen.",
+              "en": "The Ottomans threatened Constantinople. In 1437 Emperor John VIII travelled to Italy with a delegation to reach a union agreement."
+            }
+          },
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Das Konzil tagte zunächst in Ferrara, dann in Florenz. Im Juli 1439 wurde die Union verkündet. Die meisten griechischen Bischöfe unterschrieben, unter starkem Druck und mit Zweifeln.",
+              "en": "The council first met in Ferrara and then in Florence. In July 1439 the union was proclaimed. Most Greek bishops signed, under strong pressure and with doubts."
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "text": {
+              "de": "Die Union wurde in Konstantinopel und in Russland nicht umgesetzt und von der Mehrheit des Klerus und Volkes abgelehnt. Konstantinopel fiel 1453 an die Osmanen, ohne dass Hilfe aus dem Westen eintraf.",
+              "en": "The union was not implemented in Constantinople or in Russia, and was rejected by most of the clergy and people. Constantinople fell to the Ottomans in 1453 without help from the West arriving."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Markus von Ephesus wird in der Orthodoxie als Bekenner des Glaubens verehrt. Die Frage der Einheit mit Rom bleibt ein zentrales Thema des ökumenischen Gesprächs.",
+              "en": "Mark of Ephesus is honoured in Orthodoxy as a confessor of the faith. The question of unity with Rome remains a central theme of ecumenical dialogue."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "East2West – Failed Attempts at Union",
+            "url": "https://east2west.org/sp_faq/failed-attempts-at-union"
+          },
+          {
+            "title": "The Eastern Church – Saint Mark of Ephesus",
+            "url": "https://www.theeasternchurch.com/saints/saint-mark-of-ephesus-complete-life-theology-council-of-florence"
+          }
+        ]
       },
       {
         "year": "1453",
@@ -1083,7 +1695,47 @@
         },
         "status": "review",
         "major": false,
-        "id": "ev-1589"
+        "id": "ev-1589",
+        "summary": {
+          "de": "Der Patriarch von Konstantinopel richtet das Patriarchat von Moskau ein. Die übrigen Ostpatriarchate erkennen es an.",
+          "en": "The Patriarch of Constantinople establishes the Patriarchate of Moscow. The other Eastern patriarchates recognise it."
+        },
+        "details": {
+          "de": "Bis dahin unterstand die Kirche Russlands dem Metropoliten von Kiew und damit dem Patriarchat von Konstantinopel. Die Erhebung war eng mit dem Aufstieg des Moskauer Staates verbunden.",
+          "en": "Until then the Church of Russia had been under the Metropolitan of Kiev and thus under the Patriarchate of Constantinople. The elevation was closely linked to the rise of the Muscovite state."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Was geschah",
+              "en": "What happened"
+            },
+            "text": {
+              "de": "Der Patriarch Jeremias II. von Konstantinopel erhob 1589 Metropolit Ijob von Moskau zum Patriarchen. Die Erhebung wurde unter Zar Fjodor I. vollzogen.",
+              "en": "In 1589 Patriarch Jeremias II of Constantinople raised Metropolitan Job of Moscow to the rank of patriarch. The elevation was carried out under Tsar Feodor I."
+            }
+          },
+          {
+            "heading": {
+              "de": "Bedeutung heute",
+              "en": "Significance today"
+            },
+            "text": {
+              "de": "Das Moskauer Patriarchat ist heute eine der größten autokephalen Kirchen. Die Beziehungen zu Konstantinopel sind immer wieder von Spannungen geprägt.",
+              "en": "The Moscow Patriarchate is today one of the largest autocephalous churches. Relations with Constantinople have repeatedly been marked by tension."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Patriarch Job of Moscow",
+            "url": "https://en.wikipedia.org/wiki/Patriarch_Job_of_Moscow"
+          },
+          {
+            "title": "OrthodoxWiki – Jeremias II (Tranos) of Constantinople",
+            "url": "https://orthodoxwiki.org/Jeremias_II_(Tranos)_of_Constantinople"
+          }
+        ]
       }
     ],
     "persons": [
