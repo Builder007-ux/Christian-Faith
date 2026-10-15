@@ -1946,7 +1946,12 @@ window.CONTENT_DATA = {
             "title": "St. Thomas Aquinas – About St. Basil",
             "url": "https://www.stthomasaquinas.com/about-st-basil"
           }
-        ]
+        ],
+        "image": "images/persons/basil.jpg",
+        "imageCredit": {
+          "de": "Mosaik des hl. Basilius (byzantinisch). Herkunft und Lizenz des Bildes sind noch nicht geklärt und müssen vor der Veröffentlichung geprüft werden.",
+          "en": "Mosaic of St Basil (Byzantine). The origin and licence of the image are not yet clarified and must be checked before publication."
+        }
       },
       {
         "id": "chrysostom",
