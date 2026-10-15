@@ -1218,13 +1218,83 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 330,
         "summary": {
-          "de": "Bischof von Caesarea und Begründer des gemeinschaftlichen Mönchtums im Osten.",
-          "en": "Bishop of Caesarea and founder of communal monasticism in the East."
+          "de": "Basilius der Große, Bischof von Caesarea, verteidigte das Nizänische Bekenntnis und schrieb die Mönchsregel, die im Osten bis heute gilt.",
+          "en": "Basil the Great, bishop of Caesarea, defended the Nicene faith and wrote the monastic rule that is still used in the East today."
         },
         "details": {
-          "de": "Er verfasste Regeln für Klöster, die in der Orthodoxie bis heute gelten. Die Basilius-Liturgie wird ihm zugeschrieben.",
-          "en": "He wrote monastic rules that still apply in Orthodoxy. The Liturgy of St Basil is attributed to him."
-        }
+          "de": "Basilius lebte um 330 bis 379. Er war Bischof von Caesarea in Kappadokien und einer der drei großen Kappadokier.",
+          "en": "Basil lived c. 330 to 379. He was bishop of Caesarea in Cappadocia and one of the three Cappadocian Fathers."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Basilius wurde um 330 in Caesarea in Kappadokien geboren. Er studierte in Athen und zog sich danach in die Einsamkeit zurück, um als Mönch zu leben. Im Jahr 370 wurde er Bischof von Caesarea. Er starb 379 in seiner Stadt.",
+              "en": "Basil was born c. 330 in Caesarea in Cappadocia. He studied in Athens and then withdrew to live as a monk. In 370 he became bishop of Caesarea. He died in 379 in his city."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Im Osten widerstand er dem Druck des arianischen Kaisers Valens. Er stärkte das Nizänische Bekenntnis und half, den Arianismus im byzantinischen Osten zurückzudrängen. Er gründete Klöster in Pontus und gab den Gemeinden eine klare Ordnung.",
+              "en": "In the East he resisted pressure from the Arian emperor Valens. He strengthened the Nicene confession and helped to push back Arianism in the Byzantine East. He founded monasteries in Pontus and gave the communities a clear order."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Sein wichtigstes theologisches Werk „Über den Heiligen Geist“ verteidigt die Gottheit des Geistes. Dazu kommen Predigten zum Sechstagewerk und viele Briefe.",
+              "en": "His most important theological work, “On the Holy Spirit”, defends the divinity of the Spirit. Other works include homilies on the six days of creation and many letters."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften und Regel",
+              "en": "Writings and rule"
+            },
+            "items": {
+              "de": [
+                "Die Asketischen Regeln (Ascetica), die im Osten bis heute gelten.",
+                "Über den Heiligen Geist.",
+                "Etwa 300 Briefe."
+              ],
+              "en": [
+                "The Ascetic Rules (Ascetica), still used in the East today.",
+                "On the Holy Spirit.",
+                "About 300 letters."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Ostkirchen gedenken des hl. Basilius am 1. Januar, die Westkirche am 2. Januar.",
+              "en": "The Eastern Churches commemorate St Basil on 1 January, the Western Church on 2 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "New World Encyclopedia – Basil the Great",
+            "url": "https://www.newworldencyclopedia.org/entry/Basil_the_Great"
+          },
+          {
+            "title": "St. Thomas Aquinas – About St. Basil",
+            "url": "https://www.stthomasaquinas.com/about-st-basil"
+          }
+        ]
       },
       {
         "id": "chrysostom",
@@ -1243,13 +1313,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 349,
         "summary": {
-          "de": "Patriarch von Konstantinopel, bekannt für seine Predigten.",
-          "en": "Patriarch of Constantinople, known for his sermons."
+          "de": "Johannes Chrysostomus, „der Goldmund“, war Patriarch von Konstantinopel. Er predigte gegen Reichtum und Machtmissbrauch und wurde deshalb verbannt.",
+          "en": "John Chrysostom, “the Golden-mouthed”, was Patriarch of Constantinople. He preached against wealth and the abuse of power and was therefore exiled."
         },
         "details": {
-          "de": "Er kritisierte Machtmissbrauch und Reichtum am Kaiserhof und wurde deshalb verbannt. Seine Bibelauslegungen sind bis heute wichtig.",
-          "en": "He criticised abuse of power and wealth at the imperial court and was exiled for it. His biblical commentaries remain important."
-        }
+          "de": "Johannes lebte von 347 bis 407. Er war einer der großen Prediger der Kirche und ist nach ihm die Liturgie benannt.",
+          "en": "John lived from 347 to 407. He was one of the great preachers of the Church, and the Divine Liturgy is named after him."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Johannes wurde um 347 in Antiochien geboren. Er wurde 386 zum Priester geweiht und wurde für seine Predigten berühmt. 398 wurde er Patriarch von Konstantinopel.",
+              "en": "John was born c. 347 in Antioch. He was ordained a priest in 386 and became famous for his sermons. In 398 he became Patriarch of Constantinople."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Er kritisierte Prunk, Reichtum und Missstände am Hof und in der Kirche. Die Kaiserin Eudoxia fühlte sich getroffen. Johannes wurde auf Betreiben seiner Gegner verbannt, zuerst 403, dann endgültig 404. Er starb 407 auf dem Weg in die Verbannung.",
+              "en": "He criticised luxury, wealth and abuses at court and in the Church. Empress Eudoxia felt herself targeted. John was exiled at the urging of his opponents, first in 403 and then permanently in 404. He died in 407 on the way into exile."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Johannes legte die Schrift in seinen Predigten Gemeinde-nah aus. Er predigte besonders über die Briefe des Paulus und über die Evangelien.",
+              "en": "John expounded Scripture in his sermons in a way that was close to the congregation. He preached especially on the letters of Paul and on the Gospels."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Zahlreiche Predigten, besonders zu den Briefen des Paulus.",
+                "Die nach ihm benannte Göttliche Liturgie, die an vielen Sonntagen gefeiert wird."
+              ],
+              "en": [
+                "Numerous sermons, especially on the letters of Paul.",
+                "The Divine Liturgy named after him, celebrated on many Sundays."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Ostkirchen gedenken des hl. Johannes am 13. November, nach dem julianischen Kalender am 26. November.",
+              "en": "The Eastern Churches commemorate St John on 13 November, or 26 November on the Julian calendar."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "orthochristian.com – John Chrysostom (Cornerstone 1998)",
+            "url": "https://orthochristian.com/43102.html"
+          },
+          {
+            "title": "Angelus – Saint of the Day: John Chrysostom",
+            "url": "https://angelusnews.com/faith/saint-of-the-day/john-chrysostom/"
+          }
+        ]
       },
       {
         "id": "maximus",
@@ -1268,13 +1406,83 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 580,
         "summary": {
-          "de": "Mönch und Theologe, der den menschlichen und den göttlichen Willen Christi verteidigte.",
-          "en": "Monk and theologian who defended the human and divine wills of Christ."
+          "de": "Maximus der Bekenner verteidigte gegen den Monotheletismus, dass Christus zwei Willen hat. Dafür wurde ihm die Zunge herausgeschnitten und die rechte Hand abgehauen.",
+          "en": "Maximus the Confessor defended against Monothelitism that Christ has two wills. For this his tongue was cut out and his right hand severed."
         },
         "details": {
-          "de": "Er wurde verfolgt, verbannt und starb 662 im Exil.",
-          "en": "He was persecuted, exiled and died in exile in 662."
-        }
+          "de": "Maximus lebte um 580 bis 662. Er starb im Exil. Das 6. Ökumenische Konzil (681) rehabilitierte ihn.",
+          "en": "Maximus lived c. 580 to 662. He died in exile. The Sixth Ecumenical Council (681) vindicated him."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Maximus war zuerst Sekretär am kaiserlichen Hof, bevor er um 614 Mönch wurde. Ab etwa 640 widersprach er der Lehre, dass Christus nur einen Willen habe.",
+              "en": "Maximus first served as a secretary at the imperial court before becoming a monk around 614. From about 640 he opposed the teaching that Christ had only one will."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Er arbeitete darauf hin, dass das Lateranum 649 den Monotheletismus verurteilte. Der Kaiser Konstans II. ließ ihn verhaften. 653 wurde er verbannt, 662 wurde ihm die Zunge herausgeschnitten und die rechte Hand abgeschlagen. Er starb im Exil.",
+              "en": "He worked to have Monothelitism condemned at the Lateran Council of 649. The emperor Constans II had him arrested. He was exiled in 653; around 662 his tongue was cut out and his right hand severed. He died in exile."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Maximus lehrte, dass Christus zwei Willen hat, einen göttlichen und einen menschlichen, die einander nicht widersprechen. Diese Lehre ist bis heute in der Orthodoxie zentral.",
+              "en": "Maximus taught that Christ has two wills, a divine and a human one, which do not contradict each other. This teaching remains central in Orthodoxy today."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Ambigua, eine Auslegung der Schriften Gregors von Nazianz.",
+                "Mystagogie, eine mystische Deutung der Göttlichen Liturgie.",
+                "Quaestiones ad Thalassium, 65 Fragen zu schwierigen Bibelstellen."
+              ],
+              "en": [
+                "Ambigua, an interpretation of the writings of Gregory of Nazianzus.",
+                "Mystagogy, a mystical interpretation of the Divine Liturgy.",
+                "Quaestiones ad Thalassium, 65 questions on difficult passages of Scripture."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 21. Januar. Er ist einer der großen Kirchenlehrer des Ostens.",
+              "en": "Orthodoxy commemorates him on 21 January. He is one of the great Church teachers of the East."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Maximus the Confessor",
+            "url": "https://orthodoxwiki.org/Maximus_the_Confessor"
+          },
+          {
+            "title": "OCA – Venerable Maximus the Confessor",
+            "url": "https://www.oca.org/saints/lives/1949/01/21/100249-venerable-maximus-the-confessor"
+          }
+        ]
       },
       {
         "id": "john-damascus",
@@ -1293,13 +1501,83 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 675,
         "summary": {
-          "de": "Theologe und Hymnendichter, der den orthodoxen Glauben zusammenfasste.",
-          "en": "Theologian and hymnographer who summarised the Orthodox faith."
+          "de": "Johannes von Damaskus verteidigte die Ikonen gegen den Bilderstreit. Er schrieb die „Quelle der Erkenntnis“, ein Lehrbuch des Glaubens, und war Mönch in Mar Saba.",
+          "en": "John of Damascus defended icons during the iconoclastic controversy. He wrote the “Fount of Knowledge”, a systematic textbook of the faith, and was a monk at Mar Saba."
         },
         "details": {
-          "de": "Er verfasste die „Quelle der Erkenntnis“ und verteidigte die Verehrung der Ikonen.",
-          "en": "He wrote the “Fount of Knowledge” and defended the veneration of icons."
-        }
+          "de": "Johannes lebte um 675 bis 749. Er wirkte in Damaskus, dann im Kloster Mar Saba bei Jerusalem.",
+          "en": "John lived c. 675 to 749. He worked in Damascus and then in the monastery of Mar Saba near Jerusalem."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Johannes wurde um 675 in Damaskus geboren, in einer angesehenen christlichen Familie. Er ging später ins Kloster Mar Saba bei Jerusalem. Dort lebte er als Mönch und starb um 749.",
+              "en": "John was born c. 675 in Damascus, into a prominent Christian family. He later went to the monastery of Mar Saba near Jerusalem. There he lived as a monk and died c. 749."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Der byzantinische Kaiser Leo III. verbot 726 die Verehrung der Ikonen. Johannes verfasste drei Schriften zur Verteidigung der Ikonen. Das Konzil von Hiereia 754 verurteilte ihn, das Zweite Konzil von Nizäa 787 rehabilitierte ihn.",
+              "en": "The Byzantine emperor Leo III banned the veneration of icons in 726. John wrote three treatises defending icons. The Council of Hieria condemned him in 754, and the Second Council of Nicaea in 787 rehabilitated him."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Seine „Quelle der Erkenntnis“ hat drei Teile: philosophische Kapitel, eine Übersicht über die Häresien und die „Genaue Darlegung des orthodoxen Glaubens“. Der letzte Teil gilt als früher Versuch einer systematischen Glaubenslehre in der Ostkirche.",
+              "en": "His “Fount of Knowledge” has three parts: philosophical chapters, a survey of heresies, and the “Exact Exposition of the Orthodox Faith”. The last part is regarded as an early attempt at systematic doctrine in the Eastern Church."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Quelle der Erkenntnis, mit der „Genauen Darlegung des orthodoxen Glaubens“.",
+                "Drei Reden zur Verteidigung der Ikonen.",
+                "Viele Hymnen, die bis heute in der Liturgie gesungen werden."
+              ],
+              "en": [
+                "The Fount of Knowledge, including the “Exact Exposition of the Orthodox Faith”.",
+                "Three treatises defending icons.",
+                "Many hymns still sung in the liturgy today."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Ostkirchen gedenken seiner am 4. Dezember.",
+              "en": "The Eastern Churches commemorate him on 4 December."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – John of Damascus",
+            "url": "https://orthodoxwiki.org/John_of_Damascus"
+          },
+          {
+            "title": "Wikipedia (en) – John of Damascus",
+            "url": "https://en.wikipedia.org/wiki/John_of_Damascus"
+          }
+        ]
       },
       {
         "id": "gregory-nazianzen",
@@ -1318,13 +1596,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 329,
         "summary": {
-          "de": "Bischof von Konstantinopel, genannt „der Theologe“.",
-          "en": "Bishop of Constantinople, called “the Theologian”."
+          "de": "Gregor von Nazianz, „der Theologe“, verteidigte in Konstantinopel die Dreifaltigkeit. Er leitete das Konzil von 381 und trat dann zurück.",
+          "en": "Gregory of Nazianzus, “the Theologian”, defended the Trinity in Constantinople. He presided over the council of 381 and then resigned."
         },
         "details": {
-          "de": "Er prägte die Sprache der Trinitätslehre und hielt berühmte Reden über Gott und den Glauben.",
-          "en": "He shaped the language of the doctrine of the Trinity and gave famous orations on God and faith."
-        }
+          "de": "Gregor lebte um 329 bis 390. Seine fünf theologischen Reden über die Dreifaltigkeit gehören zu den wichtigsten Texten der Ostkirche.",
+          "en": "Gregory lived c. 329 to 390. His five Theological Orations on the Trinity are among the most important texts of the Eastern Church."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Gregor wurde um 329 in Arianz in Kappadokien geboren. Er war mit Basilius befreundet, mit dem er in Athen studierte. 379 wurde er nach Konstantinopel gerufen, um die Gemeinde zu sammeln, die dem Konzil von Nizäa treu blieb.",
+              "en": "Gregory was born c. 329 at Arianzus in Cappadocia. He was a friend of Basil, with whom he studied in Athens. In 379 he was called to Constantinople to gather the community that remained faithful to the Council of Nicaea."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Er predigte in einer kleinen Kapelle, die er Anastasia nannte. 380 setzte ihn Kaiser Theodosius als Bischof ein. Als Vorsitzender des Konzils von 381 trat er zurück, nachdem der Streit um seine Ernennung nicht zu lösen war.",
+              "en": "He preached in a small chapel he called Anastasia. In 380 Emperor Theodosius installed him as bishop. As president of the council of 381 he resigned, after a dispute over the legitimacy of his appointment could not be resolved."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "In seinen fünf theologischen Reden verteidigte er die Gottheit des Sohnes und des Heiligen Geistes. Er prägte die Lehre, dass der Geist vom Vater ausgeht, während der Sohn gezeugt wird.",
+              "en": "In his five theological orations he defended the divinity of the Son and of the Holy Spirit. He formulated the teaching that the Spirit proceeds from the Father, while the Son is begotten."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Fünf theologische Reden über die Dreifaltigkeit.",
+                "Zahlreiche Gedichte und Briefe."
+              ],
+              "en": [
+                "Five theological orations on the Trinity.",
+                "Numerous poems and letters."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Ostkirchen gedenken seiner am 25. Januar. Zusammen mit Basilius und Johannes Chrysostomus wird er als einer der drei großen Hierarchen verehrt, am 30. Januar.",
+              "en": "The Eastern Churches commemorate him on 25 January. Together with Basil and John Chrysostom he is honoured as one of the Three Great Hierarchs, on 30 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Gregory of Nazianzus",
+            "url": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
+          },
+          {
+            "title": "Catholic Culture – Saint Gregory Nazianzus",
+            "url": "https://www.catholicculture.org/culture/library/view.cfm?id=7781"
+          }
+        ]
       },
       {
         "id": "cyril-alexandria",
