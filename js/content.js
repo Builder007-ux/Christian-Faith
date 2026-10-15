@@ -1689,13 +1689,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 376,
         "summary": {
-          "de": "Patriarch von Alexandria, der auf dem Konzil von Ephesus den Titel Gottesgebärerin verteidigte.",
-          "en": "Patriarch of Alexandria who defended the title Theotokos at the Council of Ephesus."
+          "de": "Kyrill von Alexandrien leitete das Konzil von Ephesus 431 und setzte den Titel Theotokos für Maria durch.",
+          "en": "Cyril of Alexandria presided over the Council of Ephesus in 431 and secured the title Theotokos for Mary."
         },
         "details": {
-          "de": "Seine Schriften zur Christologie prägten die folgenden Konzile.",
-          "en": "His writings on Christology shaped the councils that followed."
-        }
+          "de": "Kyrill lebte um 376 bis 444 und war Patriarch von Alexandrien. Er ist einer der großen Kirchenlehrer der Ostkirche.",
+          "en": "Cyril lived c. 376 to 444 and was Patriarch of Alexandria. He is one of the great teachers of the Eastern Church."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Kyrill wurde um 376 geboren. 412 wurde er Patriarch von Alexandrien, als Nachfolger seines Onkels Theophilus. Er starb 444.",
+              "en": "Cyril was born c. 376. In 412 he became Patriarch of Alexandria, succeeding his uncle Theophilus. He died in 444."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Im Streit mit Nestorius, dem Patriarchen von Konstantinopel, trat er entschieden für den Titel Theotokos für Maria ein. In Ephesus 431 war er die zentrale Gestalt; das Konzil setzte Nestorius ab. Eine Gegensynode setzte Kyrill selbst ab, er wurde aber später wieder eingesetzt.",
+              "en": "In the dispute with Nestorius, Patriarch of Constantinople, he firmly supported the title Theotokos for Mary. At Ephesus in 431 he was the central figure; the council deposed Nestorius. A rival synod also deposed Cyril, but he was later reinstated."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Kyrill lehrte, dass das göttliche Wort im Fleisch wirklich eine Natur geworden ist. Er verteidigte die Einheit der Person Christi. Diese Lehre trennte später die Kirchen nach Chalcedon.",
+              "en": "Cyril taught that the divine Word became one incarnate nature. He defended the unity of Christ’s person. This teaching later divided the Churches after Chalcedon."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Zahlreiche Kommentare zur Schrift und Schriften gegen Nestorius.",
+                "Briefe, die auf dem Konzil von Ephesus eine wichtige Rolle spielten."
+              ],
+              "en": [
+                "Numerous commentaries on Scripture and writings against Nestorius.",
+                "Letters that played an important role at the Council of Ephesus."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Ostkirche gedenkt seiner am 18. Januar, zusammen mit Athanasius. Die Westkirche feiert ihn am 28. Januar.",
+              "en": "The Eastern Church commemorates him on 18 January, together with Athanasius. The Western Church celebrates him on 28 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Cyril of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+          },
+          {
+            "title": "New World Encyclopedia – Cyril of Alexandria",
+            "url": "https://www.newworldencyclopedia.org/entry/Cyril_of_Alexandria"
+          }
+        ]
       },
       {
         "id": "gregory-palamas",
@@ -1714,13 +1782,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 1296,
         "summary": {
-          "de": "Erzbischof von Thessaloniki, der die Lehre vom Taborlicht verteidigte.",
-          "en": "Archbishop of Thessalonica who defended the doctrine of the Light of Tabor."
+          "de": "Gregor Palamas verteidigte das Herzensgebet der Mönche vom Athos. Er unterschied zwischen dem Wesen und den Energien Gottes.",
+          "en": "Gregory Palamas defended the contemplative prayer of the Athonite monks. He distinguished between the essence and the energies of God."
         },
         "details": {
-          "de": "Seine Unterscheidung zwischen Wesen und Energien Gottes wurde im 14. Jahrhundert auf Synoden anerkannt.",
-          "en": "His distinction between God's essence and energies was affirmed by synods in the 14th century."
-        }
+          "de": "Gregor lebte von 1296 bis 1359 und wurde Erzbischof von Thessaloniki. Seine Lehre wurde auf mehreren Synoden bestätigt.",
+          "en": "Gregory lived from 1296 to 1359 and became Archbishop of Thessalonica. His teaching was confirmed at several synods."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Gregor ging um 1318 auf den Berg Athos und lernte dort das hesychastische Gebet kennen. 1347 wurde er Erzbischof von Thessaloniki, konnte das Amt aber erst 1350 antreten. Auf einer Reise geriet er in türkische Gefangenschaft. Er starb 1359.",
+              "en": "Gregory went to Mount Athos around 1318 and learned the hesychastic prayer there. In 1347 he was made Archbishop of Thessalonica, but could only take up the office in 1350. On a journey he was captured by the Turks. He died in 1359."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Der kalabrische Mönch Barlaam griff das Gebet der Athos-Mönche als Irrtum an. Gregor verteidigte es in seinen „Triaden“ (um 1338). Synoden in Konstantinopel 1341, 1347 und 1351 bestätigten seine Lehre.",
+              "en": "Barlaam of Calabria attacked the prayer of the Athonite monks as an error. Gregory defended it in his “Triads” (c. 1338). Synods in Constantinople in 1341, 1347 and 1351 confirmed his teaching."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Gott kann im Wesen nicht erkannt werden, wohl aber in seinen Energien, also in seinem Wirken. Diese Unterscheidung ist bis heute zentral für die orthodoxe Mystik und Theologie.",
+              "en": "God cannot be known in his essence, but can be known in his energies, that is, in his action. This distinction is still central to Orthodox mysticism and theology today."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Die „Triaden zum Schutz der heiligen Hesychasten“.",
+                "Weitere theologische Schriften und Briefe."
+              ],
+              "en": [
+                "The “Triads in Defence of the Holy Hesychasts”.",
+                "Further theological writings and letters."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 14. November und am zweiten Sonntag der Großen Fastenzeit.",
+              "en": "Orthodoxy commemorates him on 14 November and on the second Sunday of Great Lent."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Gregory Palamas",
+            "url": "https://orthodoxwiki.org/Gregory_Palamas"
+          },
+          {
+            "title": "Wikipedia (en) – Gregory Palamas",
+            "url": "https://en.wikipedia.org/wiki/Gregory_Palamas"
+          }
+        ]
       },
       {
         "id": "sergius-radonezh",
@@ -1739,13 +1875,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 1314,
         "summary": {
-          "de": "Mönch, der das Dreifaltigkeitskloster bei Moskau gründete.",
-          "en": "Monk who founded the Trinity Monastery near Moscow."
+          "de": "Sergius von Radonesch gründete das Dreifaltigkeitskloster bei Moskau und segnete den Fürsten Dmitri vor der Schlacht auf dem Schnepfenfeld.",
+          "en": "Sergius of Radonezh founded the Trinity monastery near Moscow and blessed Prince Dmitry before the Battle of Kulikovo."
         },
         "details": {
-          "de": "Er gilt als einer der wichtigsten Heiligen Russlands. Sein Kloster wurde ein geistliches Zentrum.",
-          "en": "He is regarded as one of the most important saints of Russia. His monastery became a spiritual centre."
-        }
+          "de": "Sergius lebte um 1314 bis 1392. Er ist der bedeutendste Heilige Russlands nach der Taufe Kiews.",
+          "en": "Sergius lived c. 1314 to 1392. He is the most important saint of Russia after the baptism of Kiev."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Sergius wurde um 1314 geboren. Er zog sich als Mönch in die Wälder bei Moskau zurück. Dort gründete er das Dreifaltigkeitskloster. Er lehnte es ab, Metropolit von Moskau zu werden, und blieb einfacher Mönch.",
+              "en": "Sergius was born c. 1314. He withdrew into the forests near Moscow as a monk. There he founded the Trinity monastery. He declined the offer to become Metropolitan of Moscow and remained a simple monk."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Vor der Schlacht von Kulikowo (1380) segnete er Großfürst Dmitri Donskoi. Dieser Sieg gilt als Wendepunkt gegen die tatarische Herrschaft. Seine Schüler gründeten viele weitere Klöster in Mittel- und Nordrussland.",
+              "en": "Before the Battle of Kulikovo (1380) he blessed Grand Prince Dmitry Donskoy. This victory is regarded as a turning point against Tatar rule. His disciples founded many further monasteries in central and northern Russia."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Sergius stand für ein einfaches, stilles Mönchtum mit Gebet und Arbeit. Dieses Vorbild prägte das russische Klosterleben.",
+              "en": "Sergius stood for a simple, quiet monasticism of prayer and work. This model shaped Russian monastic life."
+            }
+          },
+          {
+            "heading": {
+              "de": "Erbe",
+              "en": "Legacy"
+            },
+            "items": {
+              "de": [
+                "Das Dreifaltigkeitskloster, heute die bedeutendste Klosteranlage Russlands.",
+                "Viele Klostergründungen durch seine Schüler."
+              ],
+              "en": [
+                "The Trinity Lavra, today the most venerated monastery complex in Russia.",
+                "Many monasteries founded by his disciples."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 25. September (Todestag) und am 5. Juli (Auffindung der Gebeine).",
+              "en": "Orthodoxy commemorates him on 25 September (his death) and on 5 July (discovery of his relics)."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Sergius of Radonezh",
+            "url": "https://en.wikipedia.org/wiki/Sergius_of_Radonezh"
+          },
+          {
+            "title": "OrthodoxWiki – Sergius of Radonezh",
+            "url": "https://orthodoxwiki.org/Sergius_of_Radonezh"
+          }
+        ]
       },
       {
         "id": "seraphim-sarov",
@@ -1764,13 +1968,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 1754,
         "summary": {
-          "de": "Mönch im Kloster Sarow, bekannt für sein Gebet und seine Hilfe für viele Menschen.",
-          "en": "Monk at Sarov Monastery, known for his prayer and his help to many people."
+          "de": "Seraphim von Sarow lebte als Einsiedler und empfing später Tausende Pilger. Er lehrte, dass der Mensch den Heiligen Geist empfangen soll.",
+          "en": "Seraphim of Sarov lived as a hermit and later received thousands of pilgrims. He taught that the human being should receive the Holy Spirit."
         },
         "details": {
-          "de": "Er lebte viele Jahre als Einsiedler und empfing Menschen, die Rat suchten.",
-          "en": "He lived for many years as a hermit and received people who sought counsel."
-        }
+          "de": "Seraphim lebte von 1754 bis 1833 im Kloster Sarow bei Kursk und in der Einsiedelei.",
+          "en": "Seraphim lived from 1754 to 1833 at the monastery of Sarov and in his hermitage."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Seraphim wurde 1754 in Kursk geboren und trat jung in das Kloster Sarow ein. 1793 wurde er zum Priestermönch geweiht. Danach lebte er viele Jahre als Einsiedler im Wald bei dem Kloster.",
+              "en": "Seraphim was born in 1754 at Kursk and entered the monastery of Sarov as a young man. In 1793 he was ordained a priest-monk. He then lived for many years as a hermit in the forest near the monastery."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Gegen Ende seines Lebens empfing er viele Besucher und gab ihnen geistlichen Rat. Er begrüßte jeden Gast mit den Worten „Meine Freude“.",
+              "en": "Towards the end of his life he received many visitors and gave them spiritual guidance. He greeted every guest with the words “My joy”."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Das Ziel des christlichen Lebens sei, den Heiligen Geist zu empfangen. Das Gebet sei dafür der beständigste Weg. Bekannt ist sein Wort: „Erwirb den Geist des Friedens, und Tausende um dich herum werden gerettet.“",
+              "en": "The goal of Christian life is to receive the Holy Spirit. Prayer is the most constant way to receive this grace. A well-known saying of his is: “Acquire the spirit of peace, and thousands around you will be saved.”"
+            }
+          },
+          {
+            "heading": {
+              "de": "Erbe",
+              "en": "Legacy"
+            },
+            "items": {
+              "de": [
+                "Eines der bekanntesten Heiligenbilder der russischen Orthodoxie.",
+                "Sein Gespräch mit Nikolai Motowilow über den Heiligen Geist ist überliefert."
+              ],
+              "en": [
+                "One of the best-known saints of Russian Orthodoxy.",
+                "His conversation with Nikolai Motovilov about the Holy Spirit is recorded."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 2. Januar; am 19. Juli wird die Öffnung seiner Gebeine gefeiert.",
+              "en": "Orthodoxy commemorates him on 2 January; on 19 July the opening of his relics is celebrated."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Seraphim of Sarov",
+            "url": "https://en.wikipedia.org/wiki/Seraphim_of_Sarov"
+          },
+          {
+            "title": "OrthodoxWiki – Seraphim of Sarov",
+            "url": "https://orthodoxwiki.org/Seraphim_of_Sarov"
+          }
+        ]
       },
       {
         "id": "antony-great",
@@ -1789,13 +2061,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 251,
         "summary": {
-          "de": "Einsiedler in Ägypten und Vater des christlichen Mönchtums.",
-          "en": "Hermit in Egypt and father of Christian monasticism."
+          "de": "Antonius der Große gilt als Vater des Mönchtums. Er zog um 270 in die ägyptische Wüste.",
+          "en": "Anthony the Great is regarded as the father of monasticism. He went into the Egyptian desert around 270."
         },
         "details": {
-          "de": "Er zog sich in die Wüste zurück. Sein Leben wurde von Athanasius beschrieben und früh weit verbreitet.",
-          "en": "He withdrew into the desert. His life was written by Athanasius and quickly spread widely."
-        }
+          "de": "Antonius lebte um 251 bis 356. Sein Leben ist vor allem durch die Vita des Athanasius bekannt.",
+          "en": "Anthony lived c. 251 to 356. His life is known mainly through the Life of Anthony by Athanasius."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Antonius stammte aus einer begüterten Familie in Ägypten. Nach dem Tod seiner Eltern verschenkte er seinen Besitz und zog in die Wüste.",
+              "en": "Anthony came from a wealthy family in Egypt. After the death of his parents he gave away his possessions and went into the desert."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Er lebte zuerst in Grabstätten und später fast zwanzig Jahre in einer verlassenen römischen Festung. Menschen, die sein Leben nachahmen wollten, sammelten sich um ihn, bis es Hunderte waren. Sein Schüler Makarius half, sie in kleine Gemeinschaften zu ordnen.",
+              "en": "He first lived in tombs and later for almost twenty years in an abandoned Roman fort. People who wanted to imitate his life gathered around him until they numbered in the hundreds. His disciple Macarius helped organise them into small communities."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Antonius lehrte die Hingabe an Gebet, Arbeit und Askese. Er suchte die Nähe Gottes in der Einsamkeit und in der Stille.",
+              "en": "Anthony taught devotion to prayer, work and asceticism. He sought closeness to God in solitude and silence."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Die Vita des Antonius, geschrieben von Athanasius von Alexandrien um 360.",
+                "Einige Briefe, deren Echtheit in der Forschung umstritten ist."
+              ],
+              "en": [
+                "The Life of Anthony, written by Athanasius of Alexandria around 360.",
+                "Some letters, whose authenticity is disputed in scholarship."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Kirchen gedenken seiner am 17. Januar.",
+              "en": "The Churches commemorate him on 17 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "New World Encyclopedia – Anthony the Great",
+            "url": "https://www.newworldencyclopedia.org/entry/Anthony_the_Great"
+          },
+          {
+            "title": "OrthodoxPath – St Antony the Great",
+            "url": "https://orthodoxpath.org/saints-and-elders-lives/st-antony-the-great"
+          }
+        ]
       },
       {
         "id": "pachomius",
@@ -1814,13 +2154,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 292,
         "summary": {
-          "de": "Gründer des gemeinschaftlichen Klosterlebens in Ägypten.",
-          "en": "Founder of communal monastic life in Egypt."
+          "de": "Pachomius gründete um 320 das erste Klostergemeinschaftsleben im Mönchtum, das Koinobitentum.",
+          "en": "Pachomius founded around 320 the first communal form of monastic life, the cenobitic monastery."
         },
         "details": {
-          "de": "Er gründete mehrere Klöster mit einer gemeinsamen Regel.",
-          "en": "He founded several monasteries with a common rule."
-        }
+          "de": "Pachomius lebte um 292 bis 348. Er gilt als Gründer des gemeinschaftlichen Klosterlebens in Ägypten.",
+          "en": "Pachomius lived c. 292 to 348. He is regarded as the founder of communal monastic life in Egypt."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Pachomius wurde in Oberägypten in eine heidnische Familie geboren. Er diente als Soldat unter Konstantin und ließ sich danach taufen. Anschließend lebte er als Einsiedler.",
+              "en": "Pachomius was born in Upper Egypt into a pagan family. He served as a soldier under Constantine and was then baptised. He afterwards lived as a hermit."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Nach der Überlieferung hörte er eine Stimme, die ihn aufforderte, in Tabennisi ein Kloster zu gründen. Dieses Kloster wurde das erste gemeinschaftliche Kloster. Es folgten weitere Klöster, und es entstand ein Verband, der später die tabennesiotische Ordnung hieß.",
+              "en": "According to tradition he heard a voice calling him to found a monastery at Tabennisi. This became the first communal monastery. Further monasteries followed, and a federation arose that was later called the Tabennesiot order."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Pachomius gab den Mönchen eine gemeinsame Regel: gemeinsames Essen und Kleidung, Gehorsam, Arbeit für die Gemeinschaft und kein eigenes Vermögen.",
+              "en": "Pachomius gave the monks a common rule: shared food and clothing, obedience, work for the community and no personal property."
+            }
+          },
+          {
+            "heading": {
+              "de": "Erbe",
+              "en": "Legacy"
+            },
+            "items": {
+              "de": [
+                "Die Klosterregel des Pachomius wurde zur Grundlage des gemeinschaftlichen Mönchtums.",
+                "Auch eine Frauengemeinschaft unter seiner Schwester gehörte zum Verband."
+              ],
+              "en": [
+                "The rule of Pachomius became the basis of communal monasticism.",
+                "A women’s community under his sister also belonged to the federation."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Kirchen gedenken seiner am 15. Mai.",
+              "en": "The Churches commemorate him on 15 May."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "orthochristian.com – Venerable Pachomius the Great",
+            "url": "https://orthochristian.com/113144.html"
+          },
+          {
+            "title": "Wehd – Saint Pachomius",
+            "url": "https://wehd.com/bios/Saint_Pachomius.html"
+          }
+        ]
       },
       {
         "id": "ephrem-syrus",
@@ -1839,13 +2247,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 306,
         "summary": {
-          "de": "Diakon und Dichter in Edessa, der Hymnen in syrischer Sprache schrieb.",
-          "en": "Deacon and poet in Edessa who wrote hymns in Syriac."
+          "de": "Ephräm der Syrer schrieb Hymnen auf Syrisch, mit denen er die Gemeinden gegen Häretiker stärkte. Er wird als „Harfe des Heiligen Geistes“ verehrt.",
+          "en": "Ephrem the Syrian wrote hymns in Syriac that strengthened the communities against heretics. He is venerated as the “Harp of the Holy Spirit”."
         },
         "details": {
-          "de": "Seine Hymnen werden bis heute verehrt. Er gilt als einer der wichtigsten Dichter der syrischen Kirche.",
-          "en": "His hymns are still revered. He is considered one of the most important poets of the Syriac Church."
-        }
+          "de": "Ephräm lebte um 306 bis 373. Er wirkte in Nisibis und Edessa und ist einer der großen Kirchenlehrer der syrischen Tradition.",
+          "en": "Ephrem lived c. 306 to 373. He worked in Nisibis and Edessa and is one of the great teachers of the Syriac tradition."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Ephräm wurde um 306 in Nisibis geboren und wirkte dort als Diakon und Lehrer. Nach 363 ging er nach Edessa, wo er 373 starb, während er Pestkranken half.",
+              "en": "Ephrem was born c. 306 in Nisibis and worked there as a deacon and teacher. After 363 he went to Edessa, where he died in 373 while caring for plague victims."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "In Edessa schrieb er viele Hymnen gegen Arianer, Markioniten und Manichäer. Seine Lieder wurden in den Gemeinden gesungen, auch von Frauenchören.",
+              "en": "In Edessa he wrote many hymns against Arians, Marcionites and Manichaeans. His songs were sung in the communities, including by women’s choirs."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Ephräm lehrte den Glauben in Gedichten, Predigten und Schriftauslegungen. Er verteidigte die Lehre von Nizäa in der Sprache des Volkes.",
+              "en": "Ephrem taught the faith in poems, sermons and commentaries on Scripture. He defended the teaching of Nicaea in the language of the people."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Hymnen gegen die Häresien.",
+                "Verspredigten und Schriftkommentare auf Syrisch."
+              ],
+              "en": [
+                "Hymns against heresies.",
+                "Verse homilies and commentaries on Scripture in Syriac."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 28. Januar. Die Westkirche erkennt ihn seit 1920 als Kirchenlehrer an.",
+              "en": "Orthodoxy commemorates him on 28 January. The Western Church has recognised him as a Doctor of the Church since 1920."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Ephrem the Syrian",
+            "url": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+          },
+          {
+            "title": "OrthodoxWiki – Ephrem the Syrian",
+            "url": "https://orthodoxwiki.org/index.php?curid=1308"
+          }
+        ]
       },
       {
         "id": "gregory-nyssa",
@@ -1864,13 +2340,83 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 335,
         "summary": {
-          "de": "Bischof von Nyssa und Bruder des Basilius, Theologe der Trinität.",
-          "en": "Bishop of Nyssa and brother of Basil, theologian of the Trinity."
+          "de": "Gregor von Nyssa war Bischof und Bruder des Basilius. Er verteidigte die Dreifaltigkeit und vollendete das Glaubensbekenntnis von Konstantinopel.",
+          "en": "Gregory of Nyssa was a bishop and brother of Basil. He defended the Trinity and helped complete the Creed of Constantinople."
         },
         "details": {
-          "de": "Er schrieb über das geistliche Leben als Weg zur Gemeinschaft mit Gott.",
-          "en": "He wrote about the spiritual life as a path to communion with God."
-        }
+          "de": "Gregor lebte um 335 bis 395. Er gehört zu den drei Kappadokischen Kirchenvätern.",
+          "en": "Gregory lived c. 335 to 395. He is one of the three Cappadocian Fathers."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Gregor war jüngerer Bruder des Basilius. Basilius weihte ihn 372 zum Bischof von Nyssa in Kappadokien. Arianische Gegner setzten ihn ab, nach dem Tod des Kaisers Valens 378 konnte er zurückkehren.",
+              "en": "Gregory was the younger brother of Basil. Basil consecrated him bishop of Nyssa in Cappadocia in 372. Arian opponents deposed him, and after the death of Emperor Valens in 378 he was able to return."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Beim Konzil von Konstantinopel 381 war er eine führende Gestalt. Die Synode richtete sich gegen die Lehre des Makedonius vom Heiligen Geist. Auf seine Initiative wurde dort das Glaubensbekenntnis vervollständigt.",
+              "en": "At the council of Constantinople in 381 he was a leading figure. The synod opposed the teaching of Macedonius about the Holy Spirit. On his initiative the creed was completed there."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Gregor verband Philosophie und Schriftauslegung. Er lehrte, dass der Mensch nach dem Bild Gottes geschaffen ist und sich in der Vereinigung mit Gott vollendet.",
+              "en": "Gregory combined philosophy and scriptural interpretation. He taught that human beings are created in the image of God and are fulfilled in union with God."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Dogmatische Schriften, Predigten und Reden.",
+                "Vollendung des Sechstagewerks, das Basilius begonnen hatte.",
+                "Eine Leichenrede auf Basilius."
+              ],
+              "en": [
+                "Dogmatic works, sermons and discourses.",
+                "Completion of the Hexaemeron, begun by Basil.",
+                "A funeral oration for Basil."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 10. Januar.",
+              "en": "Orthodoxy commemorates him on 10 January."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OCA – Saint Gregory, Bishop of Nyssa",
+            "url": "https://www.oca.org/saints/lives/1984/01/10/100140-saint-gregory-bishop-of-nyssa"
+          },
+          {
+            "title": "orthochristian.com – St. Gregory the Bishop of Nyssa",
+            "url": "https://orthochristian.com/100310.html"
+          }
+        ]
       },
       {
         "id": "cyril-methodius",
@@ -1889,13 +2435,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 826,
         "summary": {
-          "de": "Brüder aus Thessaloniki, die die Slawen missionierten und die Bibel übersetzten.",
-          "en": "Brothers from Thessalonica who evangelised the Slavs and translated the Bible."
+          "de": "Kyrill und Method, zwei Brüder aus Thessaloniki, brachten das Christentum in slawischer Sprache zu den Slawen. Kyrill schuf das glagolitische Alphabet.",
+          "en": "Cyril and Methodius, two brothers from Thessaloniki, brought Christianity to the Slavs in their own language. Cyril created the Glagolitic alphabet."
         },
         "details": {
-          "de": "Sie schufen Grundlagen der slawischen Schrift. Kyrill und Method gelten als Apostel der Slawen.",
-          "en": "They laid foundations for the Slavic script. Cyril and Methodius are regarded as apostles of the Slavs."
-        }
+          "de": "Kyrill starb 869 in Rom, Method 885. Die Mission in Großmähren begann 863.",
+          "en": "Cyril died in Rome in 869, Methodius in 885. The mission in Great Moravia began in 863."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Die Brüder stammten aus Thessaloniki. Kyrill hieß als Mönch eigentlich Konstantin. Im Jahr 863 kamen sie auf Bitten des Fürsten Rastislaw nach Großmähren.",
+              "en": "The brothers came from Thessaloniki. Cyril’s original name was Constantine. In 863 they came to Great Moravia at the request of Prince Rastislav."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What they did"
+            },
+            "text": {
+              "de": "Sie übersetzten die liturgischen Texte in die slawische Sprache und bildeten einheimische Geistliche aus. Die deutschen Geistlichen, die bis dahin das Land beeinflussten, lehnten die slawische Liturgie ab. Method wurde zeitweise in Deutschland gefangen gehalten. Papst Hadrian II. erkannte die slawische Liturgie 868 an.",
+              "en": "They translated the liturgical texts into Slavonic and trained local clergy. The German clergy, who had until then influenced the country, opposed the Slavonic liturgy. Methodius was for a time held prisoner in Germany. Pope Hadrian II approved the Slavonic liturgy in 868."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Kyrill entwickelte das glagolitische Alphabet. Aus ihm entstand die Grundlage für die altkirchenslawische Schriftsprache und später für das kyrillische Alphabet.",
+              "en": "Cyril developed the Glagolitic alphabet. It formed the basis of Old Church Slavonic and later influenced the Cyrillic alphabet."
+            }
+          },
+          {
+            "heading": {
+              "de": "Erbe",
+              "en": "Legacy"
+            },
+            "items": {
+              "de": [
+                "Die slawischen Liturgien in den Kirchen Osteuropas.",
+                "Das kyrillische Alphabet in Russland, Bulgarien, Serbien und weiteren Ländern."
+              ],
+              "en": [
+                "The Slavonic liturgies in the Churches of Eastern Europe.",
+                "The Cyrillic alphabet in Russia, Bulgaria, Serbia and other countries."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt der beiden am 11. Mai. In der katholischen Kirche wird Kyrill am 14. Februar gefeiert.",
+              "en": "Orthodoxy commemorates both on 11 May. In the Catholic Church Cyril is celebrated on 14 February."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "New World Encyclopedia – Saints Cyril and Methodius",
+            "url": "https://www.newworldencyclopedia.org/entry/Cyril_and_Methodius"
+          },
+          {
+            "title": "EBSCO Research Starters – Saint Cyril and Saint Methodius",
+            "url": "https://www.ebsco.com/research-starters/biography/saint-cyril-and-saint-methodius"
+          }
+        ]
       },
       {
         "id": "photius",
@@ -1914,13 +2528,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 810,
         "summary": {
-          "de": "Patriarch von Konstantinopel und bedeutender Gelehrter.",
-          "en": "Patriarch of Constantinople and an important scholar."
+          "de": "Photios war Patriarch von Konstantinopel. Im Streit mit Papst Nikolaus I. formulierte er die Vorwürfe gegen das Filioque und den Primat des Papstes.",
+          "en": "Photius was Patriarch of Constantinople. In his dispute with Pope Nicholas I he formulated the objections to the filioque and to the papal primacy."
         },
         "details": {
-          "de": "Sein Streit mit Papst Nikolaus I. gilt als Vorläufer der späteren Spaltung. Er verfasste die „Bibliothek“, eine Sammlung von Lesefrüchten.",
-          "en": "His dispute with Pope Nicholas I is seen as a precursor of the later schism. He wrote the “Bibliotheca”, a collection of summaries of books he had read."
-        }
+          "de": "Photios lebte um 820 bis 893. Er war zweimal Patriarch, 858 bis 867 und 877 bis 886.",
+          "en": "Photius lived c. 820 to 893. He was Patriarch twice, from 858 to 867 and from 877 to 886."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Photios wurde um 820 in Konstantinopel geboren. 858 wurde er Patriarch, nachdem sein Vorgänger Ignatios abgesetzt worden war. Er starb am 6. Februar 893 im Exil.",
+              "en": "Photius was born c. 820 in Constantinople. In 858 he became Patriarch after his predecessor Ignatius had been deposed. He died in exile on 6 February 893."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Papst Nikolaus I. sprach 863 Absetzung und Bann über Photios aus. Photios antwortete mit Vorwürfen gegen die römischen Ansprüche. 867 verurteilte ein Konzil in Konstantinopel den Papst und seine Forderungen nach dem Primat sowie das Filioque im Glaubensbekenntnis.",
+              "en": "In 863 Pope Nicholas I deposed and excommunicated Photius. Photius responded with accusations against Roman claims. In 867 a council in Constantinople condemned the pope and his claims to primacy, as well as the filioque in the creed."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Photios verteidigte den Gedanken, dass die Ortskirchen gleichberechtigt sind und der Heilige Geist allein vom Vater ausgeht. Er schrieb auch ausführliche Briefe zur Glaubenslehre.",
+              "en": "Photius defended the idea that the local Churches are equal and that the Holy Spirit proceeds from the Father alone. He also wrote extensive letters on doctrine."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Die „Bibliothek“ (Myriobiblon), eine Sammlung von Auszügen aus etwa 280 antiken Büchern.",
+                "Briefe und theologische Schriften."
+              ],
+              "en": [
+                "The “Bibliotheca” (Myriobiblon), a collection of excerpts from about 280 ancient books.",
+                "Letters and theological writings."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 6. Februar.",
+              "en": "Orthodoxy commemorates him on 6 February."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "OrthodoxWiki – Photius the Great",
+            "url": "https://orthodoxwiki.org/Photius_the_Great"
+          },
+          {
+            "title": "New World Encyclopedia – Saint Photius",
+            "url": "https://www.newworldencyclopedia.org/entry/Photius"
+          }
+        ]
       },
       {
         "id": "symeon-theologian",
@@ -1939,13 +2621,81 @@ window.CONTENT_DATA = {
         "status": "review",
         "start": 949,
         "summary": {
-          "de": "Mystiker, der das persönliche Gebet und die Erfahrung des göttlichen Lichts betonte.",
-          "en": "Mystic who emphasised personal prayer and the experience of the divine light."
+          "de": "Symeon der Neue Theologe lehrte die unmittelbare Erfahrung des göttlichen Lichtes. Er wurde 1009 verbannt und lebte im Exil bis zu seinem Tod.",
+          "en": "Symeon the New Theologian taught the direct experience of divine light. In 1009 he was exiled, and he lived in exile until his death."
         },
         "details": {
-          "de": "Er wurde zu Lebzeiten angefeindet und verbannt. Seine Schriften wurden im späteren Mönchtum viel gelesen.",
-          "en": "He was opposed and exiled during his lifetime. His writings were widely read in later monasticism."
-        }
+          "de": "Symeon lebte um 949 bis 1022. Er war Abt des Mamas-Klosters in Konstantinopel.",
+          "en": "Symeon lived c. 949 to 1022. He was abbot of the monastery of St Mamas in Constantinople."
+        },
+        "sections": [
+          {
+            "heading": {
+              "de": "Leben",
+              "en": "Life"
+            },
+            "text": {
+              "de": "Symeon wurde um 949 geboren. Er war etwa 25 Jahre lang Abt des Mamas-Klosters in Konstantinopel. 1009 verurteilte ihn der Patriarch wegen seiner strengen Lehre und seiner Verehrung seines Lehrers Symeon des Studiten. Er wurde verbannt und lebte bis zu seinem Tod im Exil am Bosporus.",
+              "en": "Symeon was born c. 949. For about 25 years he was abbot of the monastery of St Mamas in Constantinople. In 1009 the patriarch condemned him for his strict teaching and for venerating his teacher Symeon the Studite. He was exiled and lived in exile near the Bosphorus until his death."
+            }
+          },
+          {
+            "heading": {
+              "de": "Wirken",
+              "en": "What he did"
+            },
+            "text": {
+              "de": "Im Exil sammelte er Schüler um sich und schrieb weiter. Er starb am 12. März 1022.",
+              "en": "In exile he gathered disciples around him and continued to write. He died on 12 March 1022."
+            }
+          },
+          {
+            "heading": {
+              "de": "Lehre",
+              "en": "Teaching"
+            },
+            "text": {
+              "de": "Symeon lehrte, dass Christen durch Gebet, Umkehr und Askese das göttliche Licht unmittelbar erfahren können. Er beschrieb dieses Erlebnis als Vision des Lichtes. Diese Lehre wurde umstritten, ist aber in der Mystik der Ostkirche bedeutend.",
+              "en": "Symeon taught that Christians can directly experience the divine light through prayer, repentance and asceticism. He described this experience as a vision of light. This teaching was controversial but is significant in the mysticism of the Eastern Church."
+            }
+          },
+          {
+            "heading": {
+              "de": "Schriften",
+              "en": "Writings"
+            },
+            "items": {
+              "de": [
+                "Hymnen und Predigten voller persönlicher Erfahrung.",
+                "Theologische Kapitel über das göttliche Licht und das Gebet."
+              ],
+              "en": [
+                "Hymns and sermons full of personal experience.",
+                "Theological chapters on the divine light and prayer."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Gedenktag",
+              "en": "Feast day"
+            },
+            "text": {
+              "de": "Die Orthodoxie gedenkt seiner am 12. März, in der Fastenzeit am 12. Oktober.",
+              "en": "Orthodoxy commemorates him on 12 March, or 12 October if that date falls in Lent."
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wikipedia (en) – Symeon the New Theologian",
+            "url": "https://en.wikipedia.org/wiki/Symeon_the_New_Theologian"
+          },
+          {
+            "title": "New World Encyclopedia – Saint Symeon the New Theologian",
+            "url": "https://www.newworldencyclopedia.org/entry/Saint_Symeon_the_New_Theologian"
+          }
+        ]
       }
     ]
   }
