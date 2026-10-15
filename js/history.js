@@ -190,8 +190,8 @@ function viewEvent(id) {
           ${reviewBadge()}
         </header>
         <p class="meta">${esc(e.year)}</p>
-        <div class="detail-art">${artOf(e, 'event')}</div>
         <p class="detail-summary">${esc(summaryOf({ entry: e }))}</p>
+        <div class="detail-art">${artOf(e, 'event')}</div>
         ${sectionsHtml(e)}
       </article>
     </section>`;
@@ -210,9 +210,8 @@ function viewSaint(id) {
           ${reviewBadge()}
         </header>
         <p class="meta">${esc(pick(p.dates))}</p>
-        <div class="detail-art">${artOf(p, 'person')}</div>
-        ${p.imageCredit ? `<p class="image-credit">${esc(p.imageCredit)}</p>` : ''}
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
+        <figure class="detail-art">${artOf(p, 'person')}${p.imageCredit ? `<figcaption class="image-credit">${esc(p.imageCredit)}</figcaption>` : ''}</figure>
         ${sectionsHtml(p)}
       </article>
     </section>`;

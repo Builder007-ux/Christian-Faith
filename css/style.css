@@ -728,8 +728,18 @@ details[open] summary { margin-bottom: 0.75rem; }
   overflow: hidden;
 }
 
-.detail-art img { width: 100%; height: 100%; object-fit: cover; }
+.detail-art img { width: 100%; height: auto; display: block; }
 .detail-art .art-placeholder { width: 5rem; height: 5rem; }
+
+/* Bild rechts neben dem Text, im Originalformat (Ikonen werden nicht mehr beschnitten) */
+.detail-art { float: right; width: 16rem; max-width: 42%; height: auto; margin: 0.25rem 0 1rem 1.5rem; display: block; }
+.detail-art:has(.art-placeholder) { float: none; width: auto; max-width: none; height: 12rem; display: grid; place-items: center; margin-left: 0; }
+.detail-art { background: none; }
+.detail-art figcaption, .detail-art .image-credit { font-size: 0.75rem; line-height: 1.4; color: var(--muted); padding: 0.4rem 0.6rem; background: var(--surface); border-radius: 0 0 16px 16px; }
+.saint-detail::after { content: ""; display: block; clear: both; }
+@media (max-width: 640px) {
+  .detail-art { float: none; width: 100%; max-width: none; margin: 0.5rem 0 1rem; }
+}
 
 /* ---------- Glas-Fenster beim Überfahren (vertikaler Zeitstrahl) ---------- */
 
