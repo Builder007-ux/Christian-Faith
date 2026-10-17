@@ -2631,7 +2631,12 @@ window.CONTENT_DATA = {
             "title": "OrthodoxWiki – Sergius of Radonezh",
             "url": "https://orthodoxwiki.org/Sergius_of_Radonezh"
           }
-        ]
+        ],
+        "image": "images/persons/sergius-radonezh.jpg",
+        "imageCredit": {
+          "de": "Copyright: siehe Quelle des Bildes. Wikimedia-Commons-Standard: Der Urheber erlaubt jedem die Nutzung für jeden Zweck, einschließlich uneingeschränkter Weiterverbreitung, kommerzieller Nutzung und Bearbeitung.",
+          "en": "Copyright: see the source of the image. Wikimedia Commons standard: the copyright holder allows anyone to use the work for any purpose, including unrestricted redistribution, commercial use and modification."
+        }
       },
       {
         "id": "seraphim-sarov",
@@ -2724,7 +2729,19 @@ window.CONTENT_DATA = {
             "title": "OrthodoxWiki – Seraphim of Sarov",
             "url": "https://orthodoxwiki.org/Seraphim_of_Sarov"
           }
-        ]
+        ],
+        "image": "images/persons/seraphim-sarov.webp",
+        "imageCredit": {
+          "de": "Copyright: siehe Quelle des Bildes. Wikimedia-Commons-Standard: Der Urheber erlaubt jedem die Nutzung für jeden Zweck, einschließlich uneingeschränkter Weiterverbreitung, kommerzieller Nutzung und Bearbeitung.",
+          "en": "Copyright: see the source of the image. Wikimedia Commons standard: the copyright holder allows anyone to use the work for any purpose, including unrestricted redistribution, commercial use and modification."
+        },
+        "extraImage": {
+          "image": "images/persons/seraphim-sarov-2.jpg",
+          "imageCredit": {
+            "de": "Copyright: siehe Quelle des Bildes. Wikimedia-Commons-Standard: Der Urheber erlaubt jedem die Nutzung für jeden Zweck, einschließlich uneingeschränkter Weiterverbreitung, kommerzieller Nutzung und Bearbeitung.",
+            "en": "Copyright: see the source of the image. Wikimedia Commons standard: the copyright holder allows anyone to use the work for any purpose, including unrestricted redistribution, commercial use and modification."
+          }
+        }
       },
       {
         "id": "antony-great",
@@ -2817,7 +2834,12 @@ window.CONTENT_DATA = {
             "title": "OrthodoxPath – St Antony the Great",
             "url": "https://orthodoxpath.org/saints-and-elders-lives/st-antony-the-great"
           }
-        ]
+        ],
+        "image": "images/persons/antony-great.png",
+        "imageCredit": {
+          "de": "Copyright: siehe Quelle des Bildes. Wikimedia-Commons-Standard: Der Urheber erlaubt jedem die Nutzung für jeden Zweck, einschließlich uneingeschränkter Weiterverbreitung, kommerzieller Nutzung und Bearbeitung.",
+          "en": "Copyright: see the source of the image. Wikimedia Commons standard: the copyright holder allows anyone to use the work for any purpose, including unrestricted redistribution, commercial use and modification."
+        }
       },
       {
         "id": "pachomius",

@@ -212,6 +212,7 @@ function viewSaint(id) {
         <p class="meta">${esc(pick(p.dates))}</p>
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
         <figure class="detail-art">${artOf(p, 'person')}${p.imageCredit ? `<figcaption class="image-credit">${esc(p.imageCredit)}</figcaption>` : ''}</figure>
+        ${p.extraImage ? `<figure class="detail-art"><img src="${esc(p.extraImage.image)}" alt="" loading="lazy">${p.extraImage.imageCredit ? `<figcaption class="image-credit">${esc(p.extraImage.imageCredit)}</figcaption>` : ''}</figure>` : ''}
         ${sectionsHtml(p)}
       </article>
     </section>`;
