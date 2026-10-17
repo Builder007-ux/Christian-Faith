@@ -1,22 +1,6 @@
-// Kirchengeschichte: großer Zeitstrahl (horizontal oder vertikal) mit Ereignissen und
+// Kirchengeschichte: großer Zeitstrahl (vertikal) mit Ereignissen und
 // Heiligen. Jeder Kasten zeigt nur den Namen und führt zur Detailseite.
 // Bilder: Feld "image" im Eintrag, bis dahin ein neutraler Platzhalter.
-
-const TIMELINE_KEY = 'cf-timeline';
-
-function timelineMode() {
-  try {
-    return localStorage.getItem(TIMELINE_KEY) === 'vertical' ? 'vertical' : 'horizontal';
-  } catch (e) {
-    return 'horizontal';
-  }
-}
-
-// Wird von den Schaltflächen aufgerufen.
-function setTimelineMode(mode) {
-  try { localStorage.setItem(TIMELINE_KEY, mode); } catch (e) { /* nicht schlimm */ }
-  renderPage();
-}
 
 function startYear(y) {
   return parseInt(String(y).split(/[–-]/)[0], 10);
@@ -70,23 +54,6 @@ function minorLabel(it) {
   return `<a class="tl-minor" href="${href(it)}">${esc(it.name)}</a>`;
 }
 
-function timelineHorizontal(items) {
-  // Ereignisse oben, Personen unten. Die Linie läuft durch alle Punkte.
-  const cols = items.map((it) => {
-    const body = it.kind === 'event' && !it.major ? minorLabel(it) : card(it);
-    const upper = it.kind === 'event' ? `${body}<span class="th-stem"></span>` : '';
-    const lower = it.kind === 'person' ? `<span class="th-stem"></span>${body}` : '';
-    return `
-      <li class="th-item">
-        <div class="th-upper">${upper}</div>
-        <div class="th-line"><span class="th-dot ${it.major ? 'is-major' : ''}"></span></div>
-        <span class="th-year">${esc(it.label)}</span>
-        <div class="th-lower">${lower}</div>
-      </li>`;
-  }).join('');
-  return `<p class="tl-hint">${esc(t('history_drag_hint'))}</p><div class="tl-scroll" tabindex="0" aria-label="${esc(t('history_timeline_scroll'))}"><ol class="tl-h">${cols}</ol></div>`;
-}
-
 // Kurzfassung für das Fenster beim Überfahren. Fällt auf den Text zurück, wenn keine Kurzfassung da ist.
 function summaryOf(it) {
   return pick(it.entry.summary) || pick(it.entry.text);
@@ -129,8 +96,6 @@ function viewHistory(sub) {
 function viewHistoryOverview() {
   const h = state.content.history || {};
   const items = timelineItems(h);
-  const mode = timelineMode();
-  const isOn = (m) => (m === mode ? 'true' : 'false');
   const saints = (h.persons || []).map((p) => `
     <a class="card saint" href="#/geschichte/heilige/${esc(p.id)}">
       <span class="saint-name">${esc(pick(p.name))}</span>
@@ -145,13 +110,8 @@ function viewHistoryOverview() {
         <span class="meta">${esc(t('source_link_text'))}</span>
       </a>
 
-      <div class="view-switch" role="group" aria-label="${esc(t('timeline_title'))}">
-        <button type="button" aria-pressed="${isOn('horizontal')}" onclick="setTimelineMode('horizontal')">${esc(t('history_view_horizontal'))}</button>
-        <button type="button" aria-pressed="${isOn('vertical')}" onclick="setTimelineMode('vertical')">${esc(t('history_view_vertical'))}</button>
-      </div>
-
-      <div class="tl-wrap ${mode === 'horizontal' ? 'is-full' : ''}">
-        ${mode === 'horizontal' ? timelineHorizontal(items) : timelineVertical(items)}
+      <div class="tl-wrap">
+        ${timelineVertical(items)}
       </div>
 
       <h3 class="subhead">${esc(t('history_saints'))}</h3>
