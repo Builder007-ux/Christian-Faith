@@ -2337,7 +2337,12 @@ window.CONTENT_DATA = {
             "title": "Catholic Culture – Saint Gregory Nazianzus",
             "url": "https://www.catholicculture.org/culture/library/view.cfm?id=7781"
           }
-        ]
+        ],
+        "image": "images/persons/gregory-nazianzen.jpg",
+        "imageCredit": {
+          "de": "Ikone. Wikimedia Commons. Lizenz laut Commons: gemeinfrei, frei nutzbar.",
+          "en": "Icon. Wikimedia Commons. Licence per Commons: public domain, free to use."
+        }
       },
       {
         "id": "cyril-alexandria",
@@ -2430,7 +2435,12 @@ window.CONTENT_DATA = {
             "title": "New World Encyclopedia – Cyril of Alexandria",
             "url": "https://www.newworldencyclopedia.org/entry/Cyril_of_Alexandria"
           }
-        ]
+        ],
+        "image": "images/persons/cyril-alexandria.jpg",
+        "imageCredit": {
+          "de": "Ikone. Wikimedia Commons. Lizenz laut Commons: gemeinfrei, frei nutzbar.",
+          "en": "Icon. Wikimedia Commons. Licence per Commons: public domain, free to use."
+        }
       },
       {
         "id": "gregory-palamas",
@@ -2523,7 +2533,12 @@ window.CONTENT_DATA = {
             "title": "Wikipedia (en) – Gregory Palamas",
             "url": "https://en.wikipedia.org/wiki/Gregory_Palamas"
           }
-        ]
+        ],
+        "image": "images/persons/gregory-palamas.jpg",
+        "imageCredit": {
+          "de": "Ikone. Wikimedia Commons. Lizenz laut Commons: gemeinfrei, frei nutzbar.",
+          "en": "Icon. Wikimedia Commons. Licence per Commons: public domain, free to use."
+        }
       },
       {
         "id": "sergius-radonezh",
