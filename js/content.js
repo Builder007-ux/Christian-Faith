@@ -1848,6 +1848,14 @@ window.CONTENT_DATA = {
           {
             "title": "Orthodox Church in America – Saint Athanasius the Great",
             "url": "https://www.oca.org/saints/lives/2029/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria"
+          },
+          {
+            "title": "Wikipedia (en) – Athanasius of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+          },
+          {
+            "title": "OrthodoxWiki – Athanasius of Alexandria",
+            "url": "https://orthodoxwiki.org/Athanasius_of_Alexandria"
           }
         ],
         "image": "images/persons/athanasius.jpg",
