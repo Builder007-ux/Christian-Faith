@@ -251,19 +251,19 @@ window.CONTENT_DATA = {
           "en": "Edict of Milan"
         },
         "text": {
-          "de": "Die Kaiser Konstantin und Licinius erlauben allen Religionen im Reich, auch den Christen, ihren Glauben frei auszuüben.",
-          "en": "Emperors Constantine and Licinius grant freedom of worship throughout the empire, including to Christians."
+          "de": "Die Kaiser Konstantin und Licinius vereinbaren in Mailand die Religionsfreiheit. Im Juni 313 verkündet Licinius im Osten den Erlass, der Christen ihren beschlagnahmten Besitz zurückgibt.",
+          "en": "The emperors Constantine and Licinius agree religious freedom at Milan. In June 313 Licinius proclaims the decree in the East, which restores confiscated property to Christians."
         },
         "status": "review",
         "major": true,
         "id": "ev-313",
         "summary": {
-          "de": "Konstantin und Licinius gewähren Religionsfreiheit im Römischen Reich. Christen erhalten beschlagnahmten Besitz zurück.",
-          "en": "Constantine and Licinius grant freedom of worship in the Roman Empire. Christians recover confiscated property."
+          "de": "Konstantin und Licinius vereinbaren in Mailand volle Religionsfreiheit für alle im Reich. Christen erhalten beschlagnahmten Besitz zurück, auch Kirchengüter.",
+          "en": "Constantine and Licinius agree full religious freedom for everyone in the empire at Milan. Christians recover confiscated property, including church property."
         },
         "details": {
-          "de": "Der Name „Edikt“ ist ungenau. Bekannt ist die Regelung vor allem aus einem späteren Erlass des Licinius.",
-          "en": "The name “edict” is imprecise. The arrangement is known mainly from a later rescript of Licinius."
+          "de": "Eine Urkunde „Mailänder Edikt“ gibt es nicht. Der Name ist eine spätere Bezeichnung. Überliefert ist vor allem der Erlass des Licinius vom Juni 313 aus Nikomedien: in lateinischer Fassung bei Laktanz, in griechischer bei Eusebius.",
+          "en": "There is no document called the “Edict of Milan”. The name is a later label. What survives is mainly Licinius’ decree of June 313 from Nicomedia: a Latin version in Lactantius and a Greek one in Eusebius."
         },
         "sections": [
           {
@@ -272,8 +272,8 @@ window.CONTENT_DATA = {
               "en": "Background"
             },
             "text": {
-              "de": "Die „Große Verfolgung“ unter Diokletian begann 303. Sie zerstörte Kirchen und Bücher und zwang viele Christen zum Opfer für den Kaiser. Am Ende dieser Verfolgung stand die Frage, wie das Reich mit den Christen umgehen sollte.",
-              "en": "The “Great Persecution” under Diocletian began in 303. It destroyed churches and books and forced many Christians to sacrifice to the emperor. At the end of the persecution the question was how the empire should treat the Christians."
+              "de": "Die „Große Verfolgung“ unter Diokletian begann 303. Sie zerstörte Kirchen und Bücher und zwang viele Christen zum Opfer für den Kaiser. Im Jahr 311 erließ Galerius, der im Osten herrschte, in Nikomedien ein Toleranzedikt (am 30. April 311). Doch die Verfolgung ging im Osten unter Maximinus Daia weiter. Erst nach dessen Niederlage gegen Licinius im Frühjahr 313 war die Lage eindeutig geklärt.",
+              "en": "The “Great Persecution” under Diocletian began in 303. It destroyed churches and books and forced many Christians to sacrifice to the emperor. In 311 Galerius, who ruled in the East, issued an edict of toleration at Nicomedia (30 April 311). But in the East the persecution continued under Maximinus Daia. Only after his defeat by Licinius in spring 313 was the situation clearly settled."
             }
           },
           {
@@ -282,23 +282,25 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Die beiden Kaiser Konstantin im Westen und Licinius im Osten trafen sich Anfang 313 in Mailand (Mediolanum). Die Vereinbarung, die dort getroffen wurde, ist vor allem aus einem Reskript des Licinius aus Nikomedia bekannt, das wenige Monate später erging. Sie gewährte Christen und Anhängern anderer Religionen volle Freiheit, ihren Gottesdienst zu feiern. Christen erhielten beschlagnahmten Besitz zurück, Kirchengüter eingeschlossen. Wer den Besitz inzwischen hatte, konnte vom Staat Entschädigung verlangen.",
-              "en": "The two emperors, Constantine in the West and Licinius in the East, met at Milan (Mediolanum) at the beginning of 313. The agreement reached there is known mainly from a rescript of Licinius issued a few months later at Nicomedia. It granted Christians and followers of other religions full freedom to worship as they wished. Christians recovered property seized during the persecution, including church property. Those who now held it could claim compensation from the state."
+              "de": "Konstantin, der im Westen herrschte, und Licinius, der im Osten herrschte, trafen sich in Mailand (Mediolanum). Die Vereinbarung wurde im Februar 313 geschlossen. Im Juni 313 verkündete Licinius in Nikomedien einen Erlass für den Osten. Darin heißt es, die beiden wollten Christen und anderen die volle Freiheit geben, die Religion zu pflegen, die jeder bevorzugt. Die bisherigen Einschränkungen für Christen wurden aufgehoben. Beschlagnahmter Besitz der Christen sollte ihnen ohne Entgelt und ohne Ansprüche zurückgegeben werden, auch Kirchengüter. Die Kirchen galten dabei als Eigentum der christlichen Gemeinschaft, nicht einzelner Personen. Wer den Besitz inzwischen gekauft hatte und ihn zurückgab, konnte über den Statthalter beim kaiserlichen Schatz Entschädigung verlangen. Der Erlass sollte öffentlich bekannt gemacht werden.",
+              "en": "Constantine, who ruled in the West, and Licinius, who ruled in the East, met at Milan (Mediolanum). The agreement was concluded in February 313. In June 313 Licinius proclaimed a decree for the East at Nicomedia. In it the two emperors state that they want to give Christians and others full freedom to follow whatever religion each prefers. The previous restrictions on Christians were lifted. Confiscated property of the Christians was to be returned to them without payment or any claim for compensation, including church property. The churches were treated as belonging to the Christian community as a corporate body, not to individuals. Anyone who had since bought such property and returned it could claim compensation from the imperial treasury through the governor. The decree was to be made public."
             }
           },
           {
             "heading": {
-              "de": "Warum „Konkordat“ und nicht „Edikt“",
-              "en": "Why “concordat” rather than “edict”"
+              "de": "Edikt oder Übereinkunft?",
+              "en": "Edict or agreement?"
             },
             "items": {
               "de": [
-                "Die Quellen sprechen eher von einer Übereinkunft zwischen zwei Herrschern als von einem Erlass.",
-                "Die Datierung schwankt zwischen Januar und Februar 313."
+                "Die Vereinbarung von Mailand ist die politische Grundlage. Der Erlass des Licinius ist die schriftliche Fassung, die wir kennen.",
+                "Die Quellen beschreiben eher eine Übereinkunft zweier Herrscher als einen einzelnen Erlass.",
+                "Ein genaues Protokoll oder eine Urkunde von Mailand ist nicht erhalten."
               ],
               "en": [
-                "The sources speak more of an agreement between two rulers than of a decree.",
-                "The date varies between January and February 313."
+                "The Milan agreement is the political basis. Licinius’ decree is the written form we know.",
+                "The sources describe an agreement between two rulers rather than a single edict.",
+                "No exact record or document from Milan survives."
               ]
             }
           },
@@ -308,19 +310,23 @@ window.CONTENT_DATA = {
               "en": "Significance today"
             },
             "text": {
-              "de": "Mit diesem Schritt endete die staatliche Verfolgung der Christen im Römischen Reich. Die Kirche konnte sich öffentlich entfalten. Der Weg zur späteren Reichskirche begann hier.",
-              "en": "This step ended the state persecution of Christians in the Roman Empire. The Church could now develop openly. The path to the later state church begins here."
+              "de": "Mit diesem Schritt endete die staatliche Verfolgung der Christen im ganzen Reich. Die Kirche konnte sich öffentlich entfalten. Konstantin wurde zum Förderer des Christentums, und damit begann eine engere Verbindung von Kirche und Kaisertum, die für die späteren Jahrhunderte prägend war.",
+              "en": "With this step the state persecution of Christians ended throughout the empire. The Church could develop openly. Constantine became a patron of Christianity, and this began a closer link between Church and empire that shaped the following centuries."
             }
           }
         ],
         "sources": [
           {
-            "title": "Christian History Institute – The Edict of Milan (313)",
-            "url": "https://christianhistoryinstitute.org/magazine/article/edict-of-milan"
+            "title": "Fordham University – Edict of Milan (Texte bei Laktanz und Eusebius)",
+            "url": "https://sourcebooks.web.fordham.edu/source/edict-milan.asp"
           },
           {
             "title": "Britannica – Edict of Milan",
             "url": "https://www.britannica.com/topic/Edict-of-Milan"
+          },
+          {
+            "title": "Wikipedia (en) – Edict of Milan",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Milan"
           }
         ]
       },
