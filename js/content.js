@@ -557,19 +557,19 @@ window.CONTENT_DATA = {
           "en": "Second Ecumenical Council of Constantinople"
         },
         "text": {
-          "de": "Das Nicaeno-Konstantinopolitanum wird als Bekenntnis bestätigt und erweitert.",
-          "en": "The Nicene-Constantinopolitan Creed is confirmed and expanded."
+          "de": "Das Konzil in Konstantinopel bestätigt das Glaubensbekenntnis von Nicaea und ergänzt es um die Lehre vom Heiligen Geist. Das so entstandene Bekenntnis wird später das Nicäno-Konstantinopolitanum.",
+          "en": "The council at Constantinople confirms the Creed of Nicaea and adds the teaching on the Holy Spirit. The resulting creed later becomes the Nicene-Constantinopolitan Creed."
         },
         "status": "review",
         "major": true,
         "id": "ev-381",
         "summary": {
-          "de": "Das zweite ökumenische Konzil bekräftigt das Glaubensbekenntnis von Nizäa und ergänzt es um Aussagen über den Heiligen Geist.",
-          "en": "The second ecumenical council confirms the Nicene Creed and adds statements about the Holy Spirit."
+          "de": "Das zweite ökumenische Konzil bestätigt das Glaubensbekenntnis von Nicaea und ergänzt es um die Aussagen über den Heiligen Geist. Konstantinopel erhält den Ehrenrang nach Rom.",
+          "en": "The second ecumenical council confirms the Creed of Nicaea and adds statements about the Holy Spirit. Constantinople receives honour after Rome."
         },
         "details": {
-          "de": "Das Glaubensbekenntnis von Nizäa-Konstantinopel wird bis heute in der Liturgie gebetet.",
-          "en": "The Nicene-Constantinopolitan Creed is still recited in the liturgy today."
+          "de": "Das Bekenntnis von 381 wird in der Ostkirche bis heute im Gottesdienst gebetet, in der katholischen Kirche ebenso. Die Frage, ob es 381 offiziell beschlossen wurde, ist umstritten. Die Kanones wurden in Rom nicht sofort anerkannt.",
+          "en": "The creed of 381 is still recited in worship in the Eastern and in the Catholic Church. Whether it was officially adopted in 381 is disputed. Rome did not accept the canons immediately."
         },
         "sections": [
           {
@@ -578,8 +578,8 @@ window.CONTENT_DATA = {
               "en": "Background"
             },
             "text": {
-              "de": "Nach dem Konzil von Nizäa (325) blieb die Frage offen, wie der Heilige Geist zu verstehen ist. Die Pneumatomachen (Makedonianer) bestritten, dass der Geist wahrer Gott ist. Dazu kam der Streit um Apollinaris, der Christus eine menschliche Seele absprach. Kaiser Theodosius I. wollte die Reichskirche im Osten neu ordnen.",
-              "en": "After the Council of Nicaea (325) the question of how to understand the Holy Spirit remained open. The Pneumatomachians (Macedonians) denied that the Spirit is true God. In addition there was the dispute over Apollinaris, who denied that Christ had a human soul. Emperor Theodosius I wanted to reorganise the Church of the East."
+              "de": "Nach dem Konzil von Nicaea (325) blieb die Frage offen, wie der Heilige Geist zu verstehen ist. Die Pneumatomachen (Makedonianer) bestritten, dass der Geist wahrer Gott ist. Hinzu kam der Streit um Apollinaris, der Christus eine menschliche Seele absprach. Kaiser Theodosius I. erließ am 27. Februar 380 in Thessaloniki ein Edikt, nach dem alle Untertanen den Glauben der Bischöfe von Rom und Alexandria bekennen sollten. Die Arianer wurden damit aus der Staatskirche gedrängt.",
+              "en": "After the Council of Nicaea (325) the question of how to understand the Holy Spirit remained open. The Pneumatomachians (Macedonians) denied that the Spirit is true God. In addition there was the dispute over Apollinaris, who denied that Christ had a human soul. On 27 February 380 Emperor Theodosius I issued an edict at Thessalonica requiring all subjects to profess the faith of the bishops of Rome and Alexandria. The Arians were thereby pushed out of the state Church."
             }
           },
           {
@@ -588,8 +588,8 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Kaiser Theodosius I. berief das Konzil 381 nach Konstantinopel. Es tagte von Mai bis Juli in der Kirche Hagia Irene. Gregor von Nazianz führte zunächst den Vorsitz, bis Meletius von Antiochien kurz nach der Eröffnung starb. Gregor legte danach sein Amt nieder, und Nektarios wurde Vorsitzender. Die Synode bekräftigte Nizäa, verurteilte Arianer, Makedonianer und Apollinaristen und sprach vom Geist als dem Herrn, der lebendig macht und vom Vater ausgeht.",
-              "en": "Emperor Theodosius I convened the council at Constantinople in 381. It met from May to July in the church of Hagia Irene. Gregory of Nazianzus first presided, until Meletius of Antioch died shortly after the opening. Gregory then resigned and Nectarius became president. The council reaffirmed Nicaea, condemned Arians, Macedonians and Apollinarians, and spoke of the Spirit as the Lord who gives life and proceeds from the Father."
+              "de": "Theodosius berief das Konzil 381 nach Konstantinopel, damit die Kirchen bestätigen, was er bereits angeordnet hatte. Es tagte von Mai bis Juli in der Kirche Hagia Eirene. Den Vorsitz führten nacheinander Timotheus von Alexandrien, Meletius von Antiochien, Gregor von Nazianz und Nektarios von Konstantinopel. Meletius starb während des Konzils. Gregor übernahm daraufhin den Vorsitz, legte ihn aber später nieder. Das Konzil bekräftigte den Glauben von Nicaea und verfasste ein erweitertes Bekenntnis. Dort wird der Heilige Geist als „der Herr und Lebensspender, der vom Vater ausgeht“ bekannt. Arianer, Makedonianer und Apollinaristen wurden verurteilt.",
+              "en": "Theodosius summoned the council to Constantinople so that the churches would confirm what he had already ordered. It met from May to July in the church of Hagia Eirene. The presidency passed in turn to Timothy of Alexandria, Meletius of Antioch, Gregory of Nazianzus and Nectarius of Constantinople. Meletius died during the council. Gregory then took the presidency but later resigned it. The council reaffirmed the faith of Nicaea and issued an expanded creed. There the Holy Spirit is confessed as “the Lord and Giver of Life, who proceeds from the Father”. Arians, Macedonians and Apollinarians were condemned."
             }
           },
           {
@@ -598,8 +598,28 @@ window.CONTENT_DATA = {
               "en": "Who took part"
             },
             "text": {
-              "de": "Nach den meisten Angaben kamen rund 150 Bischöfe, alle aus dem Osten. Eine westliche Vertretung fehlte. Die Angaben zur Zahl sind in den Quellen nicht einheitlich.",
-              "en": "Most sources give about 150 bishops, all from the East. There was no Western representation. The figures in the sources are not uniform."
+              "de": "Es kamen etwa 150 Bischöfe, überwiegend aus dem Osten. Papst Damasus schickte Gesandte; ob sie stimmberechtigt waren, ist unklar. Der Kaiser griff in die Kirche ein, indem er zum Abschluss arianische Bischöfe durch Bischöfe ersetzen ließ, die das neue Bekenntnis vertraten.",
+              "en": "About 150 bishops came, mostly from the East. Pope Damasus sent delegates; whether they had a vote is unclear. At the close the emperor had Arian bishops replaced by representatives of the new creed."
+            }
+          },
+          {
+            "heading": {
+              "de": "Aus dem Synodalschreiben (382)",
+              "en": "From the synodal letter (382)"
+            },
+            "items": {
+              "de": [
+                "Die Ostbischöfe schreiben an Damasus von Rom und Ambrosius von Mailand, dass sie nicht zu dem vom Westen geforderten Konzil nach Rom reisen können. Die Entfernung sei zu groß, und die Kirchen müssten sich von der arianischen Herrschaft erholen.",
+                "Sie berufen sich auf den Glauben, den die 318 Väter in Nicaea bekräftigt haben, als „Glaube unserer Taufe“.",
+                "Die Lehre von der einen Gottheit, Macht und Wesenheit des Vaters, des Sohnes und des Heiligen Geistes wird bekräftigt. Die Lehre der Pneumatomachen wird zurückgewiesen.",
+                "Die Ostbischöfe bestätigen die Weihe des Nektarios in Konstantinopel und die Beilegung des Schismas in Antiochien durch die Weihe des Flavian. Kyrill wird als Bischof von Jerusalem anerkannt."
+              ],
+              "en": [
+                "The Eastern bishops write to Damasus of Rome and Ambrose of Milan that they cannot travel to the council in Rome that the West asked for. The distance was too great, and the churches needed time to recover from Arian rule.",
+                "They appeal to the faith confirmed by the 318 fathers at Nicaea, which they call “the faith of our baptism”.",
+                "The teaching on the one Godhead, power and substance of the Father, the Son and the Holy Spirit is affirmed. The teaching of the Pneumatomachians is rejected.",
+                "The Eastern bishops confirm the ordination of Nectarius at Constantinople and the ending of the schism at Antioch through the ordination of Flavian. Cyril is recognised as bishop of Jerusalem."
+              ]
             }
           },
           {
@@ -609,14 +629,16 @@ window.CONTENT_DATA = {
             },
             "items": {
               "de": [
-                "Bekräftigung des Glaubens von Nizäa, ergänzt um die Lehre vom Heiligen Geist. Ob das heutige Bekenntnis damals offiziell beschlossen wurde, ist in der Forschung umstritten.",
-                "Sieben Kanones (Kirchenregeln). Der dritte gibt dem Bischof von Konstantinopel den Ehrenrang nach Rom, „weil Konstantinopel das neue Rom ist“.",
-                "Die Kirche in Rom und Alexandrien empfand den dritten Kanon als Eingriff in ihre Stellung."
+                "Bekräftigung des Glaubens von Nicaea, ergänzt um die Lehre vom Heiligen Geist. Ob dieses Bekenntnis 381 offiziell beschlossen wurde, ist in der Forschung umstritten.",
+                "Sieben Kanones. Vier betreffen den Glauben, drei die Ordnung der Kirche. Die katholische Kirche erkennt nur die Glaubenskanones an.",
+                "Kanon 3 gibt dem Bischof von Konstantinopel den Ehrenrang nach dem Bischof von Rom, „weil es das neue Rom ist“. Damit rückten Antiochien und Alexandrien zurück.",
+                "Die Ordnungskanones wurden in Rom und Alexandrien nicht allgemein angenommen. Rom erkannte die Ökumenizität des Konzils erst später an, in den Verhandlungen um Chalcedon (451)."
               ],
               "en": [
-                "Reaffirmation of the faith of Nicaea, supplemented by the teaching on the Holy Spirit. Whether the present creed was officially adopted at that time is disputed among scholars.",
-                "Seven canons (church rules). The third gives the Bishop of Constantinople honour after the Bishop of Rome, “because Constantinople is New Rome”.",
-                "The churches of Rome and Alexandria regarded the third canon as an encroachment on their position."
+                "Reaffirmation of the faith of Nicaea, supplemented by the teaching on the Holy Spirit. Whether this creed was officially adopted in 381 is disputed among scholars.",
+                "Seven canons. Four concern the faith, three the order of the Church. The Catholic Church accepts only the doctrinal canons.",
+                "Canon 3 gives the Bishop of Constantinople honour after the Bishop of Rome, “because it is New Rome”. Antioch and Alexandria were thereby pushed back.",
+                "The disciplinary canons were not generally accepted in Rome and Alexandria. Rome recognised the council as ecumenical only later, in the negotiations around Chalcedon (451)."
               ]
             }
           },
@@ -626,19 +648,23 @@ window.CONTENT_DATA = {
               "en": "Significance today"
             },
             "text": {
-              "de": "Das Glaubensbekenntnis von Nizäa-Konstantinopel ist das gemeinsame Bekenntnis der orthodoxen und der katholischen Kirche und wird in der Liturgie gebetet. Der Ehrenrang Konstantinopels ist bis heute ein Kern des Verhältnisses zwischen den orthodoxen Kirchen.",
-              "en": "The Nicene-Constantinopolitan Creed is the shared confession of the Orthodox and Catholic Churches and is recited in the liturgy. The honour of Constantinople remains central to the relations between the Orthodox Churches today."
+              "de": "Das Glaubensbekenntnis von Nizäa-Konstantinopel ist das gemeinsame Bekenntnis der orthodoxen und der katholischen Kirche und wird im Gottesdienst gebetet. Der Ehrenrang Konstantinopels ist bis heute ein Kern des Verhältnisses zwischen den orthodoxen Kirchen und dem Ökumenischen Patriarchat. In der westlichen Kirche wurde später der Zusatz „und vom Sohn“ (filioque) in das Bekenntnis eingefügt. Dieser Zusatz ist einer der Gründe für die Trennung.",
+              "en": "The Nicene-Constantinopolitan Creed is the shared confession of the Orthodox and Catholic Churches and is recited in worship. The honour of Constantinople remains central to the relations between the Orthodox Churches and the Ecumenical Patriarchate today. In the Western Church the addition “and the Son” (filioque) was later inserted into the creed. This addition is one of the reasons for the separation."
             }
           }
         ],
         "sources": [
           {
-            "title": "Wikipedia (en) – First Council of Constantinople",
-            "url": "https://en.wikipedia.org/wiki/First_Council_of_Constantinople"
+            "title": "New World Encyclopedia – First Council of Constantinople",
+            "url": "https://www.newworldencyclopedia.org/entry/First_Council_of_Constantinople"
           },
           {
-            "title": "OrthodoxWiki – Second Ecumenical Council",
-            "url": "https://orthodoxwiki.org/Second_Ecumenical_Council"
+            "title": "Synodalschreiben des Konzils von Konstantinopel (382), fourthcentury.com",
+            "url": "https://www.fourthcentury.com/?p=3136"
+          },
+          {
+            "title": "Wikipedia (en) – First Council of Constantinople",
+            "url": "https://en.wikipedia.org/wiki/First_Council_of_Constantinople"
           }
         ]
       },
