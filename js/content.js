@@ -83,19 +83,19 @@ window.CONTENT_DATA = {
           "en": "Pentecost: birth of the Church"
         },
         "text": {
-          "de": "Nach der Auferstehung empfangen die Jünger den Heiligen Geist; die Kirche beginnt in Jerusalem. Die genaue Jahreszahl ist unsicher.",
-          "en": "After the Resurrection the disciples receive the Holy Spirit and the Church begins in Jerusalem. The exact year is uncertain."
+          "de": "Nach der Auferstehung und Himmelfahrt Jesu kommt der Heilige Geist am Pfingsttag auf die versammelten Jünger in Jerusalem. Petrus predigt, etwa dreitausend Menschen lassen sich taufen, und die Kirche beginnt. Die genaue Jahreszahl ist unsicher.",
+          "en": "After the Resurrection and Ascension of Jesus, the Holy Spirit comes upon the assembled disciples in Jerusalem on the day of Pentecost. Peter preaches, about three thousand people are baptised, and the Church begins. The exact year is uncertain."
         },
         "status": "review",
         "major": true,
         "id": "ev-30",
         "summary": {
-          "de": "Am Pfingstfest kommt der Heilige Geist auf die Apostel herab. Die Kirche beginnt zu wirken.",
-          "en": "At Pentecost the Holy Spirit comes down on the apostles. The Church begins its work."
+          "de": "Am Pfingsttag kommt der Heilige Geist auf die Jünger in Jerusalem. Petrus predigt, etwa dreitausend Menschen lassen sich taufen, und die Kirche beginnt.",
+          "en": "On the day of Pentecost the Holy Spirit comes upon the disciples in Jerusalem. Peter preaches, about three thousand people are baptised, and the Church begins."
         },
         "details": {
-          "de": "Nach Apostelgeschichte 2 geschieht das in Jerusalem, am fünfzigsten Tag nach Ostern.",
-          "en": "According to Acts 2 it happens in Jerusalem, on the fiftieth day after Easter."
+          "de": "Nach Apostelgeschichte 2 geschieht das in Jerusalem, am fünfzigsten Tag nach Ostern. Die genaue Jahreszahl ist unsicher. Die Forschung nennt meist 30 oder 33 n. Chr., je nach Datierung der Kreuzigung.",
+          "en": "According to Acts 2 it happens in Jerusalem, on the fiftieth day after Easter. The exact year is uncertain; scholars usually give 30 or 33 AD, depending on the dating of the crucifixion."
         },
         "sections": [
           {
@@ -104,8 +104,8 @@ window.CONTENT_DATA = {
               "en": "Background"
             },
             "text": {
-              "de": "Jesus war nach seiner Auferstehung noch vierzig Tage bei den Jüngern und fuhr dann in den Himmel auf. Die Jünger blieben in Jerusalem und warteten, wie er es ihnen gesagt hatte.",
-              "en": "After his resurrection Jesus remained with his disciples for forty days and then ascended into heaven. The disciples stayed in Jerusalem and waited, as he had told them."
+              "de": "Nach seiner Auferstehung zeigte sich Jesus den Jüngern vierzig Tage lang (Apostelgeschichte 1,3). Bei der Himmelfahrt verhieß er ihnen die Kraft des Heiligen Geistes und befahl ihnen, in Jerusalem zu bleiben (Apostelgeschichte 1,4–8). Die Gemeinde zählte damals etwa 120 Gläubige (Apostelgeschichte 1,15). Pfingsten (griechisch pentēkostē, „der fünfzigste“) ist das jüdische Wochenfest Schawuot, das sieben Wochen nach dem Passafest gefeiert wird. Es war ein Erntefest und erinnerte an die Gabe der Tora am Sinai. Deshalb waren viele Pilger in Jerusalem.",
+              "en": "After his Resurrection Jesus appeared to the disciples for forty days (Acts 1:3). At the Ascension he promised them the power of the Holy Spirit and told them to stay in Jerusalem (Acts 1:4–8). The community then numbered about 120 believers (Acts 1:15). Pentecost (Greek pentēkostē, “the fiftieth”) is the Jewish Feast of Weeks, Shavuot, celebrated seven weeks after Passover. It was a harvest festival and recalled the giving of the Torah at Sinai. That is why many pilgrims were in Jerusalem."
             }
           },
           {
@@ -114,8 +114,18 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Am Pfingsttag, zehn Tage nach der Himmelfahrt, kommt ein Brausen vom Himmel, und Feuerzungen lassen sich auf jeden nieder. Die Jünger werden mit dem Heiligen Geist erfüllt und sprechen in Sprachen, die sie nicht gelernt haben. Menschen aus vielen Ländern hören sie in ihrer eigenen Sprache. Petrus erklärt, dass die Verheißung des Propheten Joel erfüllt ist, und ruft zur Umkehr und Taufe auf.",
-              "en": "On the day of Pentecost, ten days after the Ascension, a sound like a mighty wind comes from heaven, and tongues of fire rest on each of them. The disciples are filled with the Holy Spirit and speak in languages they have not learned. People from many countries hear them in their own language. Peter explains that the prophecy of Joel is fulfilled and calls the listeners to repentance and baptism."
+              "de": "Am Pfingsttag sind alle beieinander (Apostelgeschichte 2,1). Ein Brausen wie von einem gewaltigen Sturm erfüllt das Haus, und Zungen wie von Feuer lassen sich auf jeden nieder. Alle werden mit dem Heiligen Geist erfüllt und beginnen, in anderen Sprachen zu reden (Apostelgeschichte 2,4). Juden aus vielen Völkern, die in Jerusalem leben oder zum Fest gekommen sind, hören jeder die Taten Gottes in seiner eigenen Sprache (Apostelgeschichte 2,5–11). Unter ihnen sind Parther, Meder, Elamiter, Ägypter, Römer und Kreter. Andere spotten, die Jünger seien betrunken (Apostelgeschichte 2,13).",
+              "en": "On the day of Pentecost they are all together (Acts 2:1). A sound like a mighty rushing wind fills the house, and tongues like fire rest on each of them. All are filled with the Holy Spirit and begin to speak in other languages (Acts 2:4). Jews from many nations, living in Jerusalem or come for the feast, hear the mighty works of God each in his own language (Acts 2:5–11). Among them are Parthians, Medes, Elamites, Egyptians, Romans and Cretans. Others mock and say the disciples are drunk (Acts 2:13)."
+            }
+          },
+          {
+            "heading": {
+              "de": "Die Predigt des Petrus",
+              "en": "Peter’s sermon"
+            },
+            "text": {
+              "de": "Petrus steht mit den Elf auf und spricht (Apostelgeschichte 2,14). Es sei zu früh am Tag für Trunkenheit. Das Geschehen sei die Erfüllung der Weissagung des Propheten Joel, dass Gott in den letzten Tagen seinen Geist ausgießen werde (Joel 2,28–32; Apostelgeschichte 2,17–21). Dann verkündet er, dass Jesus von Nazaret, den sie gekreuzigt haben, von Gott auferweckt und zum Herrn und Messias gemacht wurde (Apostelgeschichte 2,22–36). Die Zuhörer fragen betroffen, was sie tun sollen. Petrus ruft sie zur Umkehr und zur Taufe auf den Namen Jesu auf, dann werden sie den Heiligen Geist empfangen (Apostelgeschichte 2,37–38).",
+              "en": "Peter stands up with the Eleven and speaks (Acts 2:14). It is too early in the day to be drunk. What is happening is the fulfilment of the prophet Joel’s promise that God will pour out his Spirit in the last days (Joel 2:28–32; Acts 2:17–21). He then proclaims that Jesus of Nazareth, whom they crucified, was raised by God and made Lord and Messiah (Acts 2:22–36). The listeners are cut to the heart and ask what they should do. Peter calls them to repentance and to baptism in the name of Jesus, and they will receive the Holy Spirit (Acts 2:37–38)."
             }
           },
           {
@@ -125,12 +135,14 @@ window.CONTENT_DATA = {
             },
             "items": {
               "de": [
-                "Rund dreitausend Menschen lassen sich an diesem Tag taufen (Apostelgeschichte 2,41).",
-                "Die Gemeinde in Jerusalem beginnt als Kirche."
+                "Etwa dreitausend Menschen lassen sich an diesem Tag taufen (Apostelgeschichte 2,41).",
+                "Die neuen Christen halten fest an der Lehre der Apostel, an der Gemeinschaft, am Brotbrechen und am Gebet (Apostelgeschichte 2,42).",
+                "Die Gemeinde in Jerusalem gilt als erste christliche Kirche. Der Herr fügt täglich Menschen hinzu (Apostelgeschichte 2,47)."
               ],
               "en": [
                 "About three thousand people are baptised that day (Acts 2:41).",
-                "The community in Jerusalem begins as the Church."
+                "The new believers hold fast to the teaching of the apostles, the fellowship, the breaking of bread and prayer (Acts 2:42).",
+                "The community in Jerusalem is regarded as the first Christian Church. The Lord adds people to it daily (Acts 2:47)."
               ]
             }
           },
@@ -140,19 +152,23 @@ window.CONTENT_DATA = {
               "en": "Significance today"
             },
             "text": {
-              "de": "Pfingsten gilt als Geburtstag der Kirche. In der Orthodoxie heißt das Fest auch Trinitätsfest, weil es das Wirken des dreieinigen Gottes zeigt. Die Kirchen werden mit Grün und Blumen geschmückt, als Zeichen für das Leben, das der Geist schenkt.",
-              "en": "Pentecost is regarded as the birthday of the Church. In Orthodoxy the feast is also called the Feast of the Holy Trinity, because it reveals the work of the triune God. Churches are decorated with greenery and flowers as a sign of the life the Spirit gives."
+              "de": "Pfingsten gilt als Geburtstag der Kirche. In der Orthodoxie heißt der Pfingstsonntag auch Trinitätssonntag, weil das Fest das Wirken des dreieinigen Gottes zeigt. Der Montag danach ist der Tag des Heiligen Geistes. Die Kirchen werden mit Blumen und grünen Zweigen geschmückt, und der Gottesdienst verwendet grüne Gewänder. Das Grün steht für das Leben, das der Geist schenkt. Orthodoxe Christen sehen in Pfingsten auch den Anfang ihrer eigenen Teilhabe an der Kirche, die sie in der Myronsalbung (Chrisma) empfangen.",
+              "en": "Pentecost is regarded as the birthday of the Church. In Orthodoxy the Sunday of Pentecost is also called Trinity Sunday, because the feast reveals the work of the triune God. The Monday after is the Day of the Holy Spirit. Churches are decorated with flowers and green branches, and green vestments are used in worship. The green stands for the life the Spirit gives. Orthodox Christians also see in Pentecost the beginning of their own share in the Church, which they receive in the chrismation (myron)."
             }
           }
         ],
         "sources": [
           {
-            "title": "orthochristian.com – The Feast of Pentecost",
-            "url": "https://orthochristian.com/62259.html"
+            "title": "Wikipedia (en) – Pentecost",
+            "url": "https://en.wikipedia.org/wiki/Pentecost"
           },
           {
-            "title": "Church Mother of God – Descent of the Holy Spirit",
-            "url": "https://churchmotherofgod.org/histories/descent-of-the-holy-spirit/"
+            "title": "OrthodoxWiki – Pentecost",
+            "url": "https://orthodoxwiki.org/Pentecost"
+          },
+          {
+            "title": "World English Bible – Apostelgeschichte 2 (Bibeltext, gemeinfrei)",
+            "url": "https://ebible.org/eng-web/ACT02.htm"
           }
         ]
       },
