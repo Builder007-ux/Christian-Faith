@@ -737,19 +737,19 @@ window.CONTENT_DATA = {
           "en": "Council of Ephesus"
         },
         "text": {
-          "de": "Maria wird als Gottesgebärerin (Theotokos) bekannt.",
-          "en": "Mary is affirmed as Theotokos, the Mother of God."
+          "de": "Das Konzil in Ephesus verurteilt Nestorius, der Maria nicht Gottesgebärerin (Theotokos) nennen wollte. Es erklärt Maria zur Theotokos.",
+          "en": "The council at Ephesus condemns Nestorius, who refused to call Mary Theotokos (God-bearer), and declares Mary to be Theotokos."
         },
         "status": "review",
         "major": true,
         "id": "ev-431",
         "summary": {
-          "de": "Das Konzil von Ephesus bestätigt Maria als Gottesgebärerin (Theotokos) und verurteilt die Lehre des Nestorius.",
-          "en": "The Council of Ephesus confirms Mary as Theotokos, Mother of God, and condemns the teaching of Nestorius."
+          "de": "Das Konzil von Ephesus bestätigt Maria als Gottesgebärerin (Theotokos) und verurteilt die Lehre des Nestorius. Eine Gegenversammlung der Antiochener setzt Kyrill ab, wird aber vom Kaiser nicht bestätigt.",
+          "en": "The Council of Ephesus confirms Mary as Theotokos, Mother of God, and condemns the teaching of Nestorius. A rival assembly of the Antiochene bishops deposes Cyril, but the emperor does not uphold this."
         },
         "details": {
-          "de": "Der Streit ging darum, wie göttliche und menschliche Natur in Christus verbunden sind. Der Titel Theotokos ist in der Ostkirche bis heute zentral.",
-          "en": "The dispute concerned how the divine and human natures are joined in Christ. The title Theotokos remains central in the Eastern Church today."
+          "de": "Der Streit ging darum, wie göttliche und menschliche Natur in Christus verbunden sind. Der Titel Theotokos ist in der Ostkirche bis heute zentral. Das Konzil war das dritte ökumenische.",
+          "en": "The dispute concerned how the divine and human natures are joined in Christ. The title Theotokos remains central in the Eastern Church today. It was the third ecumenical council."
         },
         "sections": [
           {
@@ -758,8 +758,8 @@ window.CONTENT_DATA = {
               "en": "Background"
             },
             "text": {
-              "de": "Nestorius war seit 428 Patriarch von Konstantinopel. Er lehnte es ab, Maria Theotokos („Gottesgebärerin“) zu nennen, und betonte die Unterscheidung der beiden Naturen in Christus so stark, dass sie als zwei Personen erscheinen konnten. Cyrill von Alexandrien widersprach ihm scharf.",
-              "en": "Nestorius had been Patriarch of Constantinople since 428. He refused to call Mary Theotokos (“God-bearer”) and stressed the distinction of the two natures in Christ so strongly that they seemed to be two persons. Cyril of Alexandria opposed him sharply."
+              "de": "Nestorius war seit 428 Patriarch von Konstantinopel. Er lehnte es ab, Maria Theotokos („Gottesgebärerin“) zu nennen, und betonte die Unterscheidung der beiden Naturen in Christus so stark, dass sie als zwei Personen erscheinen konnten. Kyrill von Alexandrien widersprach ihm scharf. Er wandte sich an Papst Cölestin I., der Nestorius eine Frist von zehn Tagen setzte, um zu widerrufen. Kaiser Theodosius II. berief daraufhin ein Konzil nach Ephesus ein, das im Juni 431 zusammentrat.",
+              "en": "Nestorius had been Patriarch of Constantinople since 428. He refused to call Mary Theotokos (“God-bearer”) and stressed the distinction of the two natures in Christ so strongly that they seemed to be two persons. Cyril of Alexandria opposed him sharply. Cyril appealed to Pope Celestine I, who gave Nestorius ten days to recant. Emperor Theodosius II then convened a council at Ephesus, which met in June 431."
             }
           },
           {
@@ -768,8 +768,8 @@ window.CONTENT_DATA = {
               "en": "What happened"
             },
             "text": {
-              "de": "Kaiser Theodosius II. berief das Konzil nach Ephesus ein. Es sollte im Pfingstmonat 431 beginnen. Cyrill eröffnete die Versammlung am 22. Juni, bevor die Bischöfe aus Antiochien eingetroffen waren. Johannes von Antiochien kam einige Tage später, hielt eine Gegensynode ab und setzte Cyrill und Memnon ab. Das Konzil antwortete mit der Absetzung und Verurteilung des Nestorius. Der Kaiser bestätigte die Absetzungen.",
-              "en": "Emperor Theodosius II convened the council at Ephesus. It was due to open at Pentecost 431. Cyril opened the assembly on 22 June, before the bishops from Antioch had arrived. John of Antioch arrived some days later, held a rival synod and deposed Cyril and Memnon. The council answered by deposing and condemning Nestorius. The emperor confirmed the depositions."
+              "de": "Das Konzil begann am 22. Juni 431 in der Marienkirche in Ephesus. Kyrill führte den Vorsitz, obwohl die Bischöfe aus Antiochien noch nicht da waren. Mehr als sechzig Bischöfe baten, zu warten, doch der kaiserliche Vertreter Candidian stimmte zu, dass Kyrill begann. Nestorius und seine Anhänger blieben der Sitzung fern. In der ersten Sitzung wurde Nestorius abgesetzt, die Urkunde trug 198 Unterschriften. Fünf Tage später traf Johannes von Antiochien ein. Er hielt mit 43 Bischöfen eine Gegenversammlung ab, die Kyrill und Memnon von Ephesus absetzte. Am 10. Juli kamen die päpstlichen Legaten, unter ihnen Philippus. Sie stellten sich auf Kyrills Seite. Kyrills Versammlung verhängte dann die Absetzung von Johannes und 34 seiner Bischöfe. Der Kaiser bestätigte zunächst beide Seiten und erkannte später nur die Versammlung Kyrills an. Kyrill und Memnon wurden in Haft gehalten. Nestorius bat darum, in sein früheres Kloster zurückkehren zu dürfen. Später wurde er verbannt. Das Konzil ging Anfang Oktober auseinander.",
+              "en": "The council began on 22 June 431 in the Church of Mary at Ephesus. Cyril presided, although the bishops from Antioch had not yet arrived. More than sixty bishops asked him to wait, but the imperial representative Candidian agreed that Cyril should begin. Nestorius and his supporters stayed away from the session. In the first session Nestorius was deposed; the document bears 198 signatures. Five days later John of Antioch arrived. With 43 bishops he held a rival assembly, which deposed Cyril and Memnon of Ephesus. On 10 July the papal legates, led by Philip, arrived and sided with Cyril. Cyril’s assembly then deposed John and 34 of his bishops. The emperor first confirmed the depositions on both sides, and later recognised only the assembly of Cyril. Cyril and Memnon were kept under restraint. Nestorius asked to return to his former monastery; he was later exiled. The council dispersed in early October."
             }
           },
           {
@@ -778,8 +778,26 @@ window.CONTENT_DATA = {
               "en": "Who took part"
             },
             "text": {
-              "de": "Cyrill führte den Vorsitz. Die Zahl der Bischöfe wird je nach Quelle mit etwa 200 bis 250 angegeben. Der Streit war heftig, und es gab gegenseitige Vorwürfe.",
-              "en": "Cyril presided. The number of bishops is given as about 200 to 250, depending on the source. The dispute was bitter and marked by mutual accusations."
+              "de": "Die Zahlen schwanken. Kyrill zählte zu Beginn etwa 50 Bischöfe auf seiner Seite, Nestorius 16, Memnon brachte rund 52 mit. Kyrills Versammlung nannte später 210 Bischöfe, die Gegenversammlung des Johannes 43. Insgesamt wird meist von 150 bis 200 Teilnehmern gesprochen. Neben den Bischöfen waren kaiserliche Beamte, päpstliche Legaten und Priester anwesend.",
+              "en": "The figures vary. At the start Cyril had about 50 bishops on his side, Nestorius 16, and Memnon brought about 52. Cyril’s assembly later named 210 bishops, John’s rival assembly 43. Overall, between 150 and 200 participants are usually given. Besides the bishops there were imperial officials, papal legates and priests."
+            }
+          },
+          {
+            "heading": {
+              "de": "Aus den Beschlüssen",
+              "en": "From the decisions"
+            },
+            "items": {
+              "de": [
+                "In einer Sitzung wurde festgelegt, dass keine Lehre über die Beschlüsse der früheren ökumenischen Konzile hinaus vorgetragen werden darf.",
+                "Das Glaubensbekenntnis von Nicaea wurde als ausreichend erklärt. Ein anderes Bekenntnis durfte nicht aufgestellt werden.",
+                "In einer späteren Sitzung wurde die Unabhängigkeit der Kirche von Zypern von Antiochien bestätigt."
+              ],
+              "en": [
+                "One session decided that no doctrine beyond what the earlier ecumenical councils had defined may be put forward.",
+                "The Creed of Nicaea was declared sufficient. No other creed was to be composed.",
+                "In a later session the independence of the Church of Cyprus from Antioch was confirmed."
+              ]
             }
           },
           {
@@ -791,16 +809,14 @@ window.CONTENT_DATA = {
               "de": [
                 "Maria ist Theotokos, weil sie den Gottessohn als Mensch geboren hat.",
                 "Christus ist eine Person, wahrer Gott und wahrer Mensch, und die beiden Naturen sind ohne Vermischung vereint.",
-                "Das Glaubensbekenntnis von Nizäa darf nicht verändert werden.",
-                "Nestorius wurde abgesetzt und verurteilt. Er bat darum, in sein früheres Kloster zurückkehren zu dürfen.",
-                "Die Kirche von Zypern wurde in ihrer Unabhängigkeit von Antiochien bestätigt."
+                "Nestorius wurde abgesetzt und verurteilt.",
+                "Die Lehre von Ephesus wurde nicht allgemein angenommen. 433 söhnten sich Kyrill und Johannes von Antiochien aus, die Unionsformel gilt als Ende des Streits zwischen Alexandrien und Antiochien."
               ],
               "en": [
                 "Mary is Theotokos, because she bore the Son of God as a man.",
                 "Christ is one person, true God and true man, and the two natures are united without confusion.",
-                "The Creed of Nicaea may not be changed.",
-                "Nestorius was deposed and condemned. He asked to retire to his former monastery.",
-                "The Church of Cyprus was confirmed in its independence from Antioch."
+                "Nestorius was deposed and condemned.",
+                "The teaching of Ephesus was not accepted by everyone. In 433 Cyril and John of Antioch reconciled, and the Formula of Union is regarded as the end of the dispute between Alexandria and Antioch."
               ]
             }
           },
@@ -810,19 +826,23 @@ window.CONTENT_DATA = {
               "en": "Significance today"
             },
             "text": {
-              "de": "Ephesus ist das dritte ökumenische Konzil. Der Titel Theotokos bleibt in der Ostkirche und in der katholischen Kirche zentral, besonders in der Marienverehrung. Die Entscheidung über die Einheit Christi prägt bis heute die christliche Lehre von der Menschwerdung.",
-              "en": "Ephesus is the third ecumenical council. The title Theotokos remains central in the Eastern and Catholic Churches, especially in devotion to Mary. The decision on the unity of Christ still shapes Christian teaching on the Incarnation."
+              "de": "Ephesus ist das dritte ökumenische Konzil. Der Titel Theotokos bleibt in der Ostkirche und in der katholischen Kirche zentral, besonders in der Marienverehrung. Die Entscheidung über die Einheit Christi prägt bis heute die christliche Lehre von der Menschwerdung. Ephesus zeigte zugleich, wie stark der Kaiser in die Entscheidungen der Kirche eingriff.",
+              "en": "Ephesus is the third ecumenical council. The title Theotokos remains central in the Eastern and Catholic Churches, especially in devotion to Mary. The decision on the unity of Christ still shapes Christian teaching on the Incarnation. Ephesus also showed how strongly the emperor intervened in the decisions of the Church."
             }
           }
         ],
         "sources": [
           {
-            "title": "Wikipedia (en) – Council of Ephesus",
-            "url": "https://en.wikipedia.org/wiki/Council_of_Ephesus"
+            "title": "New World Encyclopedia – Third Ecumenical Council (Ephesus)",
+            "url": "https://www.newworldencyclopedia.org/entry/Third_Ecumenical_Council"
           },
           {
-            "title": "OrthodoxWiki – Third Ecumenical Council",
-            "url": "https://orthodoxwiki.org/Third_Ecumenical_Council"
+            "title": "Council of Ephesus, Third Ecumenical Council (AD 431), fourthcentury.com",
+            "url": "https://www.fourthcentury.com/?p=6289"
+          },
+          {
+            "title": "Wikipedia (en) – Council of Ephesus",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Ephesus"
           }
         ]
       },
