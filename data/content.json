@@ -112,9 +112,23 @@
               "de": "Was geschah",
               "en": "What happened"
             },
-            "text": {
-              "de": "Am Pfingsttag sind alle beieinander (Apostelgeschichte 2,1). Ein Brausen wie von einem gewaltigen Sturm erfüllt das Haus, und Zungen wie von Feuer lassen sich auf jeden nieder. Alle werden mit dem Heiligen Geist erfüllt und beginnen, in anderen Sprachen zu reden (Apostelgeschichte 2,4). Juden aus vielen Völkern, die in Jerusalem leben oder zum Fest gekommen sind, hören jeder die Taten Gottes in seiner eigenen Sprache (Apostelgeschichte 2,5–11). Unter ihnen sind Parther, Meder, Elamiter, Ägypter, Römer und Kreter. Andere spotten, die Jünger seien betrunken (Apostelgeschichte 2,13).",
-              "en": "On the day of Pentecost they are all together (Acts 2:1). A sound like a mighty rushing wind fills the house, and tongues like fire rest on each of them. All are filled with the Holy Spirit and begin to speak in other languages (Acts 2:4). Jews from many nations, living in Jerusalem or come for the feast, hear the mighty works of God each in his own language (Acts 2:5–11). Among them are Parthians, Medes, Elamites, Egyptians, Romans and Cretans. Others mock and say the disciples are drunk (Acts 2:13)."
+            "items": {
+              "de": [
+                "Am Pfingsttag sind die Jünger alle beieinander (Apostelgeschichte 2,1).",
+                "Ein Brausen wie von einem gewaltigen Sturm erfüllt das Haus (Apostelgeschichte 2,2).",
+                "Zungen wie von Feuer lassen sich auf jeden nieder (Apostelgeschichte 2,3).",
+                "Alle werden mit dem Heiligen Geist erfüllt und beginnen, in anderen Sprachen zu reden (Apostelgeschichte 2,4).",
+                "Juden aus vielen Völkern hören jeder die Taten Gottes in seiner eigenen Sprache (Apostelgeschichte 2,5–11).",
+                "Andere spotten, die Jünger seien betrunken (Apostelgeschichte 2,13)."
+              ],
+              "en": [
+                "On the day of Pentecost the disciples are all together (Acts 2:1).",
+                "A sound like a mighty rushing wind fills the house (Acts 2:2).",
+                "Tongues like fire rest on each of them (Acts 2:3).",
+                "All are filled with the Holy Spirit and begin to speak in other languages (Acts 2:4).",
+                "Jews from many nations hear the mighty works of God each in his own language (Acts 2:5–11).",
+                "Others mock and say the disciples are drunk (Acts 2:13)."
+              ]
             }
           },
           {
@@ -122,9 +136,21 @@
               "de": "Die Predigt des Petrus",
               "en": "Peter’s sermon"
             },
-            "text": {
-              "de": "Petrus steht mit den Elf auf und spricht (Apostelgeschichte 2,14). Es sei zu früh am Tag für Trunkenheit. Das Geschehen sei die Erfüllung der Weissagung des Propheten Joel, dass Gott in den letzten Tagen seinen Geist ausgießen werde (Joel 2,28–32; Apostelgeschichte 2,17–21). Dann verkündet er, dass Jesus von Nazaret, den sie gekreuzigt haben, von Gott auferweckt und zum Herrn und Messias gemacht wurde (Apostelgeschichte 2,22–36). Die Zuhörer fragen betroffen, was sie tun sollen. Petrus ruft sie zur Umkehr und zur Taufe auf den Namen Jesu auf, dann werden sie den Heiligen Geist empfangen (Apostelgeschichte 2,37–38).",
-              "en": "Peter stands up with the Eleven and speaks (Acts 2:14). It is too early in the day to be drunk. What is happening is the fulfilment of the prophet Joel’s promise that God will pour out his Spirit in the last days (Joel 2:28–32; Acts 2:17–21). He then proclaims that Jesus of Nazareth, whom they crucified, was raised by God and made Lord and Messiah (Acts 2:22–36). The listeners are cut to the heart and ask what they should do. Peter calls them to repentance and to baptism in the name of Jesus, and they will receive the Holy Spirit (Acts 2:37–38)."
+            "items": {
+              "de": [
+                "Petrus steht mit den Elf auf und spricht (Apostelgeschichte 2,14).",
+                "Die Geschehnisse erfüllen die Weissagung des Propheten Joel vom Geistausguss (Joel 2,28–32; Apostelgeschichte 2,17–21).",
+                "Jesus von Nazaret, den sie gekreuzigt haben, ist von Gott auferweckt und zum Herrn und Messias gemacht (Apostelgeschichte 2,22–36).",
+                "Die Zuhörer fragen betroffen, was sie tun sollen (Apostelgeschichte 2,37).",
+                "Petrus ruft zur Umkehr und zur Taufe auf den Namen Jesu (Apostelgeschichte 2,38)."
+              ],
+              "en": [
+                "Peter stands up with the Eleven and speaks (Acts 2:14).",
+                "What is happening fulfils the prophet Joel’s promise of the outpouring of the Spirit (Joel 2:28–32; Acts 2:17–21).",
+                "Jesus of Nazareth, whom they crucified, has been raised by God and made Lord and Messiah (Acts 2:22–36).",
+                "The listeners are cut to the heart and ask what they should do (Acts 2:37).",
+                "Peter calls for repentance and for baptism in the name of Jesus (Acts 2:38)."
+              ]
             }
           },
           {
@@ -151,8 +177,30 @@
               "en": "Significance today"
             },
             "text": {
-              "de": "Pfingsten gilt als Geburtstag der Kirche. In der Orthodoxie heißt der Pfingstsonntag auch Trinitätssonntag, weil das Fest das Wirken des dreieinigen Gottes zeigt. Der Montag danach ist der Tag des Heiligen Geistes. Die Kirchen werden mit Blumen und grünen Zweigen geschmückt, und der Gottesdienst verwendet grüne Gewänder. Das Grün steht für das Leben, das der Geist schenkt. Orthodoxe Christen sehen in Pfingsten auch den Anfang ihrer eigenen Teilhabe an der Kirche, die sie in der Myronsalbung (Chrisma) empfangen.",
-              "en": "Pentecost is regarded as the birthday of the Church. In Orthodoxy the Sunday of Pentecost is also called Trinity Sunday, because the feast reveals the work of the triune God. The Monday after is the Day of the Holy Spirit. Churches are decorated with flowers and green branches, and green vestments are used in worship. The green stands for the life the Spirit gives. Orthodox Christians also see in Pentecost the beginning of their own share in the Church, which they receive in the chrismation (myron)."
+              "de": "Pfingsten gilt als Geburtstag der Kirche. In der Orthodoxie heißt der Pfingstsonntag auch Trinitätssonntag, weil das Fest das Wirken des dreieinigen Gottes zeigt. Der Montag danach ist der Tag des Heiligen Geistes. Die Kirchen werden mit Blumen und grünen Zweigen geschmückt, und die Gewänder sind grün. Das Grün steht für das Leben, das der Geist schenkt. Die Gabe des Geistes ist in der Orthodoxie eng mit der Taufe und der Salbung mit Chrisma verbunden.",
+              "en": "Pentecost is regarded as the birthday of the Church. In Orthodoxy the Sunday of Pentecost is also called Trinity Sunday, because the feast reveals the work of the triune God. The Monday after is the Day of the Holy Spirit. Churches are decorated with flowers and green branches, and the vestments are green. The green stands for the life the Spirit gives. In Orthodoxy the gift of the Spirit is closely linked to baptism and to anointing with chrism."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who was there"
+            },
+            "text": {
+              "de": "Apostelgeschichte 1,13–14 nennt die Elf, Frauen, Maria, die Mutter Jesu, und seine Brüder als Versammelte im Obergemach. Apostelgeschichte 2,1 spricht von „alle“. Ob auch Frauen die Zungen empfingen, sagt der Text nicht ausdrücklich. Die Kirche liest das Fest jedoch als Gabe an die ganze Gemeinde.",
+              "en": "Acts 1:13–14 names the Eleven, women, Mary the mother of Jesus and his brothers as gathered in the upper room. Acts 2:1 speaks of “all”. The text does not say explicitly whether the women also received the tongues. The Church nevertheless reads the feast as a gift to the whole community."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Die Sprachen der Pilger",
+              "en": "The languages of the pilgrims"
+            },
+            "text": {
+              "de": "Die Liste in Apostelgeschichte 2,9–11 nennt Parther, Meder, Elamiter, Bewohner Mesopotamiens, Judäas, Kappadokiens, Pontus, der Provinz Asien, Phrygiens, Pamphyliens, Ägyptens, Libyens, Roms, Kretas und Arabiens. Die Erzählung wirkt wie eine Schau der damals bekannten Welt. Der Text sagt nicht, ob es echte Fremdsprachen waren oder ekstatische Rede. Beides wird in der Forschung diskutiert.",
+              "en": "The list in Acts 2:9–11 names Parthians, Medes, Elamites, residents of Mesopotamia, Judea, Cappadocia, Pontus, the province of Asia, Phrygia, Pamphylia, Egypt, Libya, Rome, Crete and Arabia. The account reads like a picture of the known world at that time. The text does not say whether these were real foreign languages or ecstatic speech. Scholars discuss both possibilities."
             }
           }
         ],
@@ -168,6 +216,88 @@
           {
             "title": "World English Bible – Apostelgeschichte 2 (Bibeltext, gemeinfrei)",
             "url": "https://ebible.org/eng-web/ACT02.htm"
+          }
+        ],
+        "glossary": [
+          {
+            "term": {
+              "de": "Pfingsten",
+              "en": "Pentecost"
+            },
+            "text": {
+              "de": "Griechisch „der fünfzigste“ Tag, gezählt ab Ostern.",
+              "en": "Greek for “the fiftieth” day, counted from Easter."
+            }
+          },
+          {
+            "term": {
+              "de": "Schawuot",
+              "en": "Shavuot"
+            },
+            "text": {
+              "de": "Das jüdische Wochenfest, sieben Wochen nach Pessach, zur Erinnerung an die Gabe der Tora.",
+              "en": "The Jewish Feast of Weeks, seven weeks after Passover, recalling the giving of the Torah."
+            }
+          },
+          {
+            "term": {
+              "de": "Apostel",
+              "en": "Apostle"
+            },
+            "text": {
+              "de": "Ein „Gesandter“; die Zwölf, die Jesus um sich versammelt hatte und die er als Zeugen aussandte.",
+              "en": "One “sent”; the Twelve whom Jesus gathered and sent out as witnesses."
+            }
+          },
+          {
+            "term": {
+              "de": "Messias",
+              "en": "Messiah"
+            },
+            "text": {
+              "de": "Hebräisch für „Gesalbter“; griechisch „Christus“, der von Gott verheißene Retter.",
+              "en": "Hebrew for “anointed one”; in Greek “Christ”, the saviour promised by God."
+            }
+          },
+          {
+            "term": {
+              "de": "Umkehr",
+              "en": "Repentance"
+            },
+            "text": {
+              "de": "Die Abkehr von der bisherigen Lebensweise und die Hinwendung zu Gott.",
+              "en": "Turning away from a former way of life and turning towards God."
+            }
+          },
+          {
+            "term": {
+              "de": "Chrisma",
+              "en": "Chrism"
+            },
+            "text": {
+              "de": "Das geweihte Salböl, mit dem orthodoxe Christen nach der Taufe gesalbt werden.",
+              "en": "The consecrated oil with which Orthodox Christians are anointed after baptism."
+            }
+          },
+          {
+            "term": {
+              "de": "Trinitätssonntag",
+              "en": "Trinity Sunday"
+            },
+            "text": {
+              "de": "In der Orthodoxie der Pfingstsonntag, an dem das Wirken des dreieinigen Gottes gefeiert wird.",
+              "en": "In Orthodoxy the Sunday of Pentecost, when the work of the triune God is celebrated."
+            }
+          },
+          {
+            "term": {
+              "de": "Joel",
+              "en": "Joel"
+            },
+            "text": {
+              "de": "Ein Prophet des Alten Testaments, dessen Verheißung vom Geistausguss Petrus zitiert.",
+              "en": "An Old Testament prophet whose promise of the outpouring of the Spirit Peter quotes."
+            }
           }
         ]
       },
