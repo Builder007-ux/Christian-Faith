@@ -840,18 +840,21 @@ details[open] summary { margin-bottom: 0.75rem; }
 /* Versteckte Glas-Fenster der Zeitleiste dürfen keine waagerechte Scrollleiste erzeugen */
 html { overflow-x: clip; }
 
-/* Detailseiten: Hauptspalte, Wörter-Spalte, einklappbare Vertiefung */
-.detail-body { display: grid; gap: 1.5rem; }
-.glossary { border-top: 1px solid var(--line); padding-top: 1rem; font-size: 0.92rem; }
+/* Detailseiten: Karte, daneben eine eigene Wörter-Karte (rechts ab 1000 px) */
+.detail-wrap { display: grid; gap: 1.25rem; align-items: start; }
+.glossary { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.1rem 1.2rem; font-size: 0.92rem; }
 .glossary h3 { margin: 0 0 0.5rem; font-size: 1rem; }
 .glossary dl { margin: 0; }
-.glossary dt { font-weight: 600; margin-top: 0.6rem; }
+.glossary dt { font-weight: 600; margin-top: 0.7rem; }
+.glossary dt:first-of-type { margin-top: 0; }
 .glossary dd { margin: 0.15rem 0 0; color: var(--muted); }
 .deep-section { margin-top: 1rem; border: 1px solid var(--line); border-radius: 14px; padding: 0.6rem 0.9rem; }
 .deep-section > summary { cursor: pointer; font-weight: 600; }
 .deep-body { margin-top: 0.6rem; }
 .deep-body p { margin: 0 0 0.6rem; }
-@media (min-width: 900px) {
-  .detail-body { grid-template-columns: minmax(0, 1fr) 17rem; align-items: start; }
-  .glossary { position: sticky; top: 1rem; border-top: 0; border-left: 1px solid var(--line); padding: 0 0 0 1rem; }
+@media (min-width: 1000px) {
+  .detail-wrap { grid-template-columns: minmax(0, 720px) 17rem; justify-content: center; }
+  .glossary { position: sticky; top: 1rem; }
 }
+/* Auf Detailseiten mehr Breite: Karte links, Wörter-Karte rechts */
+main:has(.detail-wrap) { max-width: 1120px; }

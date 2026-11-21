@@ -154,7 +154,7 @@ function viewEvent(id) {
   return `
     <section class="history">
       <a class="back" href="#/geschichte">${esc(t('history_back_timeline'))}</a>
-      <article class="card saint-detail">
+      <div class="detail-wrap"><article class="card saint-detail">
         <header class="card-head">
           <h2>${esc(pick(e.title))}</h2>
           ${reviewBadge()}
@@ -162,8 +162,8 @@ function viewEvent(id) {
         <p class="meta">${esc(e.year)}</p>
         <p class="detail-summary">${esc(summaryOf({ entry: e }))}</p>
         <div class="detail-art">${artOf(e, 'event')}</div>
-        <div class="detail-body"><div class="detail-main">${sectionsHtml(e)}</div>${glossaryHtml(e)}</div>
-      </article>
+        ${sectionsHtml(e)}
+      </article>${glossaryHtml(e)}</div>
     </section>`;
 }
 
@@ -174,7 +174,7 @@ function viewSaint(id) {
   return `
     <section class="history">
       <a class="back" href="#/geschichte">${esc(t('history_back_timeline'))}</a>
-      <article class="card saint-detail">
+      <div class="detail-wrap"><article class="card saint-detail">
         <header class="card-head">
           <h2>${esc(pick(p.name))}</h2>
           ${reviewBadge()}
@@ -183,8 +183,8 @@ function viewSaint(id) {
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
         <figure class="detail-art">${artOf(p, 'person')}${p.imageCredit ? `<figcaption class="image-credit">${esc(p.imageCredit)}</figcaption>` : ''}</figure>
         ${p.extraImage ? `<figure class="detail-art"><img src="${esc(p.extraImage.image)}" alt="" loading="lazy">${p.extraImage.imageCredit ? `<figcaption class="image-credit">${esc(p.extraImage.imageCredit)}</figcaption>` : ''}</figure>` : ''}
-        <div class="detail-body"><div class="detail-main">${sectionsHtml(p)}</div>${glossaryHtml(p)}</div>
-      </article>
+        ${sectionsHtml(p)}
+      </article>${glossaryHtml(p)}</div>
     </section>`;
 }
 
