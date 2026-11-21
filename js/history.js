@@ -126,6 +126,9 @@ function sectionsHtml(entry) {
     const body = sec.items
       ? `<ul class="detail-list">${pick(sec.items).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>`
       : `<p>${esc(pick(sec.text))}</p>`;
+    if (sec.deep) {
+      return `<details class="deep-section"><summary>${esc(t('history_deeper'))}: ${esc(pick(sec.heading))}</summary><div class="deep-body">${body}</div></details>`;
+    }
     return `<section class="detail-section"><h3>${esc(pick(sec.heading))}</h3>${body}</section>`;
   }).join('');
   const sources = (entry.sources || []).length
@@ -135,6 +138,13 @@ function sectionsHtml(entry) {
     ? `<p>${esc(pick(entry.details))}</p>`
     : (!parts ? `<p class="muted">${esc(t('history_more_soon'))}</p>` : '');
   return parts + fallback + sources;
+}
+
+// Wörter-Spalte: rechts auf breiten Bildschirmen, unten auf schmalen.
+function glossaryHtml(entry) {
+  const list = entry.glossary || [];
+  if (!list.length) return '';
+  return `<aside class="glossary" aria-label="${esc(t('history_glossary'))}"><h3>${esc(t('history_glossary'))}</h3><dl>${list.map((g) => `<dt>${esc(pick(g.term))}</dt><dd>${esc(pick(g.text))}</dd>`).join('')}</dl></aside>`;
 }
 
 function viewEvent(id) {
@@ -152,7 +162,7 @@ function viewEvent(id) {
         <p class="meta">${esc(e.year)}</p>
         <p class="detail-summary">${esc(summaryOf({ entry: e }))}</p>
         <div class="detail-art">${artOf(e, 'event')}</div>
-        ${sectionsHtml(e)}
+        <div class="detail-body"><div class="detail-main">${sectionsHtml(e)}</div>${glossaryHtml(e)}</div>
       </article>
     </section>`;
 }
@@ -173,7 +183,7 @@ function viewSaint(id) {
         <p class="detail-summary">${esc(summaryOf({ entry: p }))}</p>
         <figure class="detail-art">${artOf(p, 'person')}${p.imageCredit ? `<figcaption class="image-credit">${esc(p.imageCredit)}</figcaption>` : ''}</figure>
         ${p.extraImage ? `<figure class="detail-art"><img src="${esc(p.extraImage.image)}" alt="" loading="lazy">${p.extraImage.imageCredit ? `<figcaption class="image-credit">${esc(p.extraImage.imageCredit)}</figcaption>` : ''}</figure>` : ''}
-        ${sectionsHtml(p)}
+        <div class="detail-body"><div class="detail-main">${sectionsHtml(p)}</div>${glossaryHtml(p)}</div>
       </article>
     </section>`;
 }

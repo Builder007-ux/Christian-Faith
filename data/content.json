@@ -357,47 +357,29 @@
               "en": "Background"
             },
             "text": {
-              "de": "Nach seinem Sieg über Licinius (324) wollte Konstantin das Reich auch kirchlich einen. Der Streit um den Presbyter Arius hatte sich im Osten ausgebreitet. Arius lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott. Die Synode von Alexandria um 320 verurteilte ihn, doch er predigte weiter und gewann Anhänger. Auch Briefe des Kaisers und seines Gesandten Hosius von Córdoba konnten den Streit nicht beenden. Dazu kam die Uneinigkeit über den Ostertermin.",
-              "en": "After his victory over Licinius (324), Constantine wanted to unite the empire in the Church as well. The dispute over the presbyter Arius had spread through the East. Arius taught that the Son was created and not truly God. A synod at Alexandria around 320 condemned him, but he kept preaching and gained followers. Letters from the emperor and his envoy Hosius of Córdoba could not end the quarrel. There was also disagreement about the date of Easter."
+              "de": "Nach dem Sieg über Licinius (324) wollte Konstantin das Reich auch kirchlich einen. Der Streit um den Presbyter Arius hatte sich im Osten ausgebreitet. Die Synode von Alexandrien um 320 verurteilte ihn, doch er predigte weiter und gewann Anhänger.",
+              "en": "After his victory over Licinius (324), Constantine wanted to unite the empire in the Church as well. The dispute over the presbyter Arius had spread through the East. A synod at Alexandria around 320 condemned him, but he kept preaching and gained followers."
             }
           },
           {
             "heading": {
-              "de": "Was geschah",
-              "en": "What happened"
-            },
-            "text": {
-              "de": "Im Jahr 325 lud Konstantin die Bischöfe nach Nicaea in Bithynien (heute İznik in der Türkei) ein. Die Einladung erfolgte schriftlich, und der Kaiser stellte öffentliche Beförderungsmittel und Pferde zur Verfügung. Zur Eröffnung hielt er eine Rede, die für die Versammlung übersetzt wurde, und bat um Frieden. Die Verhandlungen sollten die Streitfragen klären. Die genauen Tagesdaten sind unsicher; das Konzil dauerte wohl mehrere Wochen im Sommer 325.",
-              "en": "In 325 Constantine invited the bishops to Nicaea in Bithynia (today İznik in Turkey). The invitation was sent in writing, and the emperor provided public transport and horses. At the opening he gave a speech, which was translated for the assembly, and asked for peace. The discussions were to settle the disputed questions. The exact dates are uncertain; the council probably lasted several weeks in the summer of 325."
-            }
-          },
-          {
-            "heading": {
-              "de": "Wer war dabei",
-              "en": "Who took part"
-            },
-            "text": {
-              "de": "Eusebius von Caesarea spricht von mehr als 250 Bischöfen, dazu kamen Priester, Diakone und Begleiter. Sie kamen aus Europa, Libyen und Asien, nach seinem Bericht auch ein Bischof aus Persien und einer aus Skythien. Athanasius nennt in seinem Brief an die Afrikaner die Zahl 318, die sich später allgemein durchsetzte. Unter den Teilnehmern war der junge Diakon Athanasius, der nach der Überlieferung als Sekretär des Bischofs Alexander von Alexandria dabei war. Der Vorsitz lag bei den Bischöfen, der Kaiser leitete die Debatte nicht selbst.",
-              "en": "Eusebius of Caesarea speaks of more than 250 bishops, in addition to priests, deacons and attendants. They came from Europe, Libya and Asia, and according to his account also a bishop from Persia and one from Scythia. In his letter to the Africans Athanasius gives the figure 318, which later became the generally accepted number. Among the participants was the young deacon Athanasius, who according to tradition attended as secretary to Bishop Alexander of Alexandria. The bishops presided over the debate; the emperor did not chair it himself."
-            }
-          },
-          {
-            "heading": {
-              "de": "Aus der Quelle",
-              "en": "From the source"
+              "de": "Ablauf",
+              "en": "Sequence"
             },
             "items": {
               "de": [
-                "Eusebius, Vita Constantini 3,6: Der Kaiser lädt die Bischöfe schriftlich ein und stellt Post und Lasttiere zur Verfügung.",
-                "Eusebius, Vita Constantini 3,8: Es kommen mehr als 250 Bischöfe zusammen, dazu Priester, Diakone und Begleiter.",
-                "Eusebius, Vita Constantini 3,10: Der Kaiser betritt den Saal im Palast, und alle erheben sich.",
-                "Eusebius, Vita Constantini 3,12–13: Der Kaiser bittet um Frieden und bringt die streitenden Bischöfe zur Einigung."
+                "Um 320: Die Synode von Alexandrien verurteilt Arius; er predigt weiter.",
+                "Trotz Briefen des Kaisers und seines Gesandten Hosius von Córdoba bleibt der Streit ungelöst. Dazu kommt Uneinigkeit über den Ostertermin.",
+                "325: Konstantin lädt die Bischöfe nach Nicaea in Bithynien (heute İznik, Türkei) ein.",
+                "Eröffnung: Der Kaiser hält eine Rede, die übersetzt wird, und bittet um Frieden.",
+                "Im Sommer 325 wird debattiert. Die Lehre des Arius wird verworfen, das Bekenntnis angenommen. Bis auf wenige unterschreiben alle."
               ],
               "en": [
-                "Eusebius, Life of Constantine 3.6: the emperor invites the bishops by letter and provides them with the imperial post and pack animals.",
-                "Eusebius, Life of Constantine 3.8: more than 250 bishops gather, in addition to priests, deacons and attendants.",
-                "Eusebius, Life of Constantine 3.10: the emperor enters the hall in the palace, and everyone rises.",
-                "Eusebius, Life of Constantine 3.12–13: the emperor pleads for peace and brings the quarrelling bishops to agreement."
+                "Around 320: the Synod of Alexandria condemns Arius; he keeps preaching.",
+                "Despite letters from the emperor and his envoy Hosius of Córdoba, the dispute remains unresolved. Disagreement about the date of Easter adds to it.",
+                "325: Constantine invites the bishops to Nicaea in Bithynia (today İznik, Turkey).",
+                "Opening: the emperor gives a speech, which is translated, and asks for peace.",
+                "In summer 325 the debate takes place. Arius’ teaching is rejected and the creed adopted. Apart from a few, all sign."
               ]
             }
           },
@@ -408,18 +390,18 @@
             },
             "items": {
               "de": [
-                "Das Bekenntnis von Nicaea. Der Sohn ist „gezeugt, nicht geschaffen“ und „wesensgleich“ (homoousios) mit dem Vater.",
-                "Verurteilt werden Aussagen, es habe eine Zeit gegeben, in der der Sohn nicht war, oder er sei aus dem Nichts gemacht.",
-                "Arius wurde verurteilt, seine Schriften wurden verbrannt, und er wurde verbannt. Zwei Bischöfe, Theonas von Marmarica und Secundus von Ptolemais, die nicht unterschreiben wollten, wurden abgesetzt und verbannt.",
-                "Eine einheitliche Regelung für den Ostertermin, von der Eusebius berichtet, dass sie von allen angenommen wurde.",
-                "Zwanzig Kirchenregeln (Kanones), unter anderem zur Weihe der Kleriker, zu Bischofswahlen, zur Einheit der Kirche und zum Umgang mit den Novatianern."
+                "Das Bekenntnis von Nicaea: Der Sohn ist „gezeugt, nicht geschaffen“ und „wesensgleich“ mit dem Vater.",
+                "Verurteilt werden Aussagen, es habe eine Zeit gegeben, in der der Sohn nicht war.",
+                "Arius wird verbannt, seine Schriften werden verbrannt. Zwei Bischöfe, Theonas von Marmarica und Secundus von Ptolemais, werden abgesetzt.",
+                "Eine gemeinsame Regel für den Ostertermin, die alle annehmen.",
+                "Zwanzig Kanones zu Weihen, Bischofswahlen, Einheit der Kirche und den Novatianern."
               ],
               "en": [
-                "The Creed of Nicaea. The Son is “begotten, not made” and “of one essence” (homoousios) with the Father.",
-                "Statements that there was a time when the Son did not exist, or that he was made from nothing, are condemned.",
-                "Arius was condemned, his writings were burned, and he was exiled. Two bishops, Theonas of Marmarica and Secundus of Ptolemais, who refused to sign, were deposed and exiled.",
-                "A common rule for the date of Easter, which Eusebius reports was agreed by all.",
-                "Twenty church rules (canons), including on the ordination of clergy, the election of bishops, the unity of the Church and the Novatian schism."
+                "The Creed of Nicaea: the Son is “begotten, not made” and “of one essence” with the Father.",
+                "Statements that there was a time when the Son did not exist are condemned.",
+                "Arius is exiled and his writings are burned. Two bishops, Theonas of Marmarica and Secundus of Ptolemais, are deposed.",
+                "A common rule for the date of Easter, accepted by all.",
+                "Twenty canons on ordinations, the election of bishops, the unity of the Church and the Novatians."
               ]
             }
           },
@@ -429,8 +411,51 @@
               "en": "Significance today"
             },
             "text": {
-              "de": "Das Konzil war das erste ökumenische Konzil und legte das Muster für die späteren fest. Das Bekenntnis von 325 bildet die Grundlage des Glaubens. Das Credo, das heute im Gottesdienst gesprochen wird, ist das Nicäno-Konstantinopolitanische Glaubensbekenntnis von 381, das den Text von Nicaea erweitert. Das Konzil von Nicaea zeigt, wie die Kirche Glaubensfragen gemeinsam entscheidet.",
-              "en": "The council was the first ecumenical council and set the pattern for those that followed. The creed of 325 is the foundation of the faith. The creed recited in worship today is the Nicene-Constantinopolitan Creed of 381, which expands the text of Nicaea. The council shows how the Church decides questions of faith together."
+              "de": "Das Konzil war das erste ökumenische Konzil. Das Bekenntnis von 325 ist die Grundlage des Glaubens. Im Gottesdienst gesprochen wird heute das Nicäno-Konstantinopolitanische Credo von 381, das den Text von Nicaea erweitert.",
+              "en": "The council was the first ecumenical council. The creed of 325 is the foundation of the faith. The creed recited in worship today is the Nicene-Constantinopolitan Creed of 381, which expands the text of Nicaea."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who took part"
+            },
+            "text": {
+              "de": "Eusebius von Caesarea spricht von mehr als 250 Bischöfen, dazu Priester, Diakone und Begleiter. Sie kamen aus Europa, Libyen und Asien, nach seinem Bericht auch ein Bischof aus Persien und einer aus Skythien. Athanasius nennt in seinem Brief an die Afrikaner die Zahl 318, die sich später allgemein durchsetzte. Unter den Teilnehmern war der junge Diakon Athanasius, der nach der Überlieferung als Sekretär des Bischofs Alexander von Alexandrien dabei war. Den Vorsitz führten die Bischöfe; der Kaiser leitete die Debatte nicht selbst.",
+              "en": "Eusebius of Caesarea speaks of more than 250 bishops, along with priests, deacons and attendants. They came from Europe, Libya and Asia, and according to his account also a bishop from Persia and one from Scythia. In his letter to the Africans Athanasius gives the figure 318, which later became the accepted number. Among the participants was the young deacon Athanasius, who according to tradition attended as secretary to Bishop Alexander of Alexandria. The bishops presided; the emperor did not chair the debate himself."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Die Begriffe der Debatte",
+              "en": "The terms of the debate"
+            },
+            "text": {
+              "de": "Der Streit drehte sich um die Frage, wie der Sohn zum Vater steht. Arius sah den Sohn als Geschöpf, das vor allen Zeiten entstanden ist, aber nicht als wahrer Gott. Das Konzil setzte dagegen den Begriff homoousios: Der Sohn ist aus dem Wesen des Vaters, „Gott von Gott, Licht von Licht“. Dadurch wurde klar, dass der Sohn nicht nur ähnlich, sondern in seinem Wesen eins mit dem Vater ist.",
+              "en": "The dispute was about how the Son stands in relation to the Father. Arius saw the Son as a creature that came into being before all ages, but not as true God. The council set against this the term homoousios: the Son is of the Father’s essence, “God from God, light from light”. This made clear that the Son is not merely similar to the Father but one with him in essence."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Die Kanones im Einzelnen",
+              "en": "The canons in detail"
+            },
+            "items": {
+              "de": [
+                "Weihe von Klerikern und Umgang mit Priestern, die aus anderen Gemeinden kommen.",
+                "Bischofswahlen: Ein Bischof soll von mehreren Bischöfen seiner Provinz geweiht werden.",
+                "Ordnung der Städte und Provinzen, Vorrang des Bischofs von Alexandrien über seine Region.",
+                "Umgang mit den Novatianern: Sie sollen aufgenommen werden, wenn sie sich unterordnen."
+              ],
+              "en": [
+                "Ordination of clergy and the treatment of priests coming from other communities.",
+                "Election of bishops: a bishop should be ordained by several bishops of his province.",
+                "Order of cities and provinces, and the precedence of the bishop of Alexandria over his region.",
+                "Treatment of the Novatians: they are to be received if they submit."
+              ]
             }
           }
         ],
@@ -482,6 +507,98 @@
           {
             "title": "Catholic Encyclopedia (catholic.org) – First Council of Nicaea",
             "url": "https://www.catholic.org/encyclopedia/view.php?id=8436"
+          }
+        ],
+        "glossary": [
+          {
+            "term": {
+              "de": "Arius",
+              "en": "Arius"
+            },
+            "text": {
+              "de": "Presbyter aus Alexandrien. Er lehrte, der Sohn sei geschaffen und nicht wahrhaft Gott.",
+              "en": "A presbyter from Alexandria who taught that the Son was created and not truly God."
+            }
+          },
+          {
+            "term": {
+              "de": "Arianer",
+              "en": "Arians"
+            },
+            "text": {
+              "de": "Anhänger des Arius und seiner Lehre.",
+              "en": "Followers of Arius and his teaching."
+            }
+          },
+          {
+            "term": {
+              "de": "homoousios",
+              "en": "homoousios"
+            },
+            "text": {
+              "de": "Griechisch für „wesensgleich“: Der Sohn hat dasselbe Wesen wie der Vater.",
+              "en": "Greek for “of the same essence”: the Son has the same essence as the Father."
+            }
+          },
+          {
+            "term": {
+              "de": "Presbyter",
+              "en": "Presbyter"
+            },
+            "text": {
+              "de": "Priester in der frühen Kirche, dem Bischof untergeordnet.",
+              "en": "A priest in the early Church, subordinate to the bishop."
+            }
+          },
+          {
+            "term": {
+              "de": "Synode, Konzil",
+              "en": "Synod, council"
+            },
+            "text": {
+              "de": "Versammlung von Bischöfen, die gemeinsam über Lehre und Ordnung entscheidet.",
+              "en": "An assembly of bishops that decides questions of teaching and order together."
+            }
+          },
+          {
+            "term": {
+              "de": "Kanon",
+              "en": "Canon"
+            },
+            "text": {
+              "de": "Verbindliche Kirchenregel, die ein Konzil beschließt.",
+              "en": "A binding church rule adopted by a council."
+            }
+          },
+          {
+            "term": {
+              "de": "Anathema",
+              "en": "Anathema"
+            },
+            "text": {
+              "de": "Feierliche Verwerfung einer Lehre, verbunden mit dem Ausschluss ihrer Anhänger.",
+              "en": "A solemn rejection of a teaching, with the exclusion of its followers."
+            }
+          },
+          {
+            "term": {
+              "de": "Novatianer",
+              "en": "Novatians"
+            },
+            "text": {
+              "de": "Eine strenge Gruppe, die Christen, die nach der Taufe schwer gesündigt hatten, nicht wieder aufnehmen wollte.",
+              "en": "A strict group that refused to readmit Christians who had sinned gravely after baptism."
+            }
+          },
+          {
+            "term": {
+              "de": "Ökumenisch",
+              "en": "Ecumenical"
+            },
+            "text": {
+              "de": "Von der ganzen Kirche (griechisch oikoumenē, „bewohnte Erde“) getragen und anerkannt.",
+              "en": "Held and accepted by the whole Church (Greek oikoumenē, “the inhabited earth”)."
+            }
           }
         ]
       },
@@ -757,45 +874,35 @@
               "en": "Background"
             },
             "text": {
-              "de": "Nestorius war seit 428 Patriarch von Konstantinopel. Er lehnte es ab, Maria Theotokos („Gottesgebärerin“) zu nennen, und betonte die Unterscheidung der beiden Naturen in Christus so stark, dass sie als zwei Personen erscheinen konnten. Kyrill von Alexandrien widersprach ihm scharf. Er wandte sich an Papst Cölestin I., der Nestorius eine Frist von zehn Tagen setzte, um zu widerrufen. Kaiser Theodosius II. berief daraufhin ein Konzil nach Ephesus ein, das im Juni 431 zusammentrat.",
-              "en": "Nestorius had been Patriarch of Constantinople since 428. He refused to call Mary Theotokos (“God-bearer”) and stressed the distinction of the two natures in Christ so strongly that they seemed to be two persons. Cyril of Alexandria opposed him sharply. Cyril appealed to Pope Celestine I, who gave Nestorius ten days to recant. Emperor Theodosius II then convened a council at Ephesus, which met in June 431."
+              "de": "Nestorius war seit 428 Patriarch von Konstantinopel. Er lehnte den Titel Theotokos für Maria ab und betonte die Unterscheidung der beiden Naturen in Christus so stark, dass sie wie zwei Personen wirkten. Kyrill von Alexandrien widersprach scharf.",
+              "en": "Nestorius had been Patriarch of Constantinople since 428. He rejected the title Theotokos for Mary and stressed the distinction of the two natures in Christ so strongly that they seemed like two persons. Cyril of Alexandria opposed him sharply."
             }
           },
           {
             "heading": {
-              "de": "Was geschah",
-              "en": "What happened"
-            },
-            "text": {
-              "de": "Das Konzil begann am 22. Juni 431 in der Marienkirche in Ephesus. Kyrill führte den Vorsitz, obwohl die Bischöfe aus Antiochien noch nicht da waren. Mehr als sechzig Bischöfe baten, zu warten, doch der kaiserliche Vertreter Candidian stimmte zu, dass Kyrill begann. Nestorius und seine Anhänger blieben der Sitzung fern. In der ersten Sitzung wurde Nestorius abgesetzt, die Urkunde trug 198 Unterschriften. Fünf Tage später traf Johannes von Antiochien ein. Er hielt mit 43 Bischöfen eine Gegenversammlung ab, die Kyrill und Memnon von Ephesus absetzte. Am 10. Juli kamen die päpstlichen Legaten, unter ihnen Philippus. Sie stellten sich auf Kyrills Seite. Kyrills Versammlung verhängte dann die Absetzung von Johannes und 34 seiner Bischöfe. Der Kaiser bestätigte zunächst beide Seiten und erkannte später nur die Versammlung Kyrills an. Kyrill und Memnon wurden in Haft gehalten. Nestorius bat darum, in sein früheres Kloster zurückkehren zu dürfen. Später wurde er verbannt. Das Konzil ging Anfang Oktober auseinander.",
-              "en": "The council began on 22 June 431 in the Church of Mary at Ephesus. Cyril presided, although the bishops from Antioch had not yet arrived. More than sixty bishops asked him to wait, but the imperial representative Candidian agreed that Cyril should begin. Nestorius and his supporters stayed away from the session. In the first session Nestorius was deposed; the document bears 198 signatures. Five days later John of Antioch arrived. With 43 bishops he held a rival assembly, which deposed Cyril and Memnon of Ephesus. On 10 July the papal legates, led by Philip, arrived and sided with Cyril. Cyril’s assembly then deposed John and 34 of his bishops. The emperor first confirmed the depositions on both sides, and later recognised only the assembly of Cyril. Cyril and Memnon were kept under restraint. Nestorius asked to return to his former monastery; he was later exiled. The council dispersed in early October."
-            }
-          },
-          {
-            "heading": {
-              "de": "Wer war dabei",
-              "en": "Who took part"
-            },
-            "text": {
-              "de": "Die Zahlen schwanken. Kyrill zählte zu Beginn etwa 50 Bischöfe auf seiner Seite, Nestorius 16, Memnon brachte rund 52 mit. Kyrills Versammlung nannte später 210 Bischöfe, die Gegenversammlung des Johannes 43. Insgesamt wird meist von 150 bis 200 Teilnehmern gesprochen. Neben den Bischöfen waren kaiserliche Beamte, päpstliche Legaten und Priester anwesend.",
-              "en": "The figures vary. At the start Cyril had about 50 bishops on his side, Nestorius 16, and Memnon brought about 52. Cyril’s assembly later named 210 bishops, John’s rival assembly 43. Overall, between 150 and 200 participants are usually given. Besides the bishops there were imperial officials, papal legates and priests."
-            }
-          },
-          {
-            "heading": {
-              "de": "Aus den Beschlüssen",
-              "en": "From the decisions"
+              "de": "Ablauf",
+              "en": "Sequence"
             },
             "items": {
               "de": [
-                "In einer Sitzung wurde festgelegt, dass keine Lehre über die Beschlüsse der früheren ökumenischen Konzile hinaus vorgetragen werden darf.",
-                "Das Glaubensbekenntnis von Nicaea wurde als ausreichend erklärt. Ein anderes Bekenntnis durfte nicht aufgestellt werden.",
-                "In einer späteren Sitzung wurde die Unabhängigkeit der Kirche von Zypern von Antiochien bestätigt."
+                "Kyrill wendet sich an Papst Cölestin I. Der setzt Nestorius eine Frist von zehn Tagen zum Widerruf.",
+                "Kaiser Theodosius II. beruft ein Konzil nach Ephesus.",
+                "22. Juni 431: Kyrill eröffnet das Konzil, obwohl die Bischöfe aus Antiochien noch fehlen. Mehr als sechzig baten zu warten.",
+                "Erste Sitzung: Nestorius wird abgesetzt. Die Urkunde trägt 198 Unterschriften.",
+                "Fünf Tage später hält Johannes von Antiochien mit 43 Bischöfen eine Gegensynode ab und setzt Kyrill und Memnon von Ephesus ab.",
+                "10. Juli: Die päpstlichen Legaten, unter ihnen Philippus, stellen sich auf Kyrills Seite.",
+                "Etwa 17. Juli: Kyrills Versammlung setzt Johannes und 34 seiner Bischöfe ab.",
+                "Der Kaiser bestätigt zunächst beide Seiten und erkennt später nur Kyrills Versammlung an. Anfang Oktober geht das Konzil auseinander."
               ],
               "en": [
-                "One session decided that no doctrine beyond what the earlier ecumenical councils had defined may be put forward.",
-                "The Creed of Nicaea was declared sufficient. No other creed was to be composed.",
-                "In a later session the independence of the Church of Cyprus from Antioch was confirmed."
+                "Cyril appeals to Pope Celestine I. The pope gives Nestorius ten days to recant.",
+                "Emperor Theodosius II convenes a council at Ephesus.",
+                "22 June 431: Cyril opens the council although the bishops from Antioch have not arrived. More than sixty had asked him to wait.",
+                "First session: Nestorius is deposed. The document bears 198 signatures.",
+                "Five days later John of Antioch holds a rival synod with 43 bishops and deposes Cyril and Memnon of Ephesus.",
+                "10 July: the papal legates, including Philip, side with Cyril.",
+                "Around 17 July: Cyril’s assembly deposes John and 34 of his bishops.",
+                "The emperor first confirms both sides, later recognises only Cyril’s assembly. In early October the council disperses."
               ]
             }
           },
@@ -806,16 +913,18 @@
             },
             "items": {
               "de": [
-                "Maria ist Theotokos, weil sie den Gottessohn als Mensch geboren hat.",
-                "Christus ist eine Person, wahrer Gott und wahrer Mensch, und die beiden Naturen sind ohne Vermischung vereint.",
-                "Nestorius wurde abgesetzt und verurteilt.",
-                "Die Lehre von Ephesus wurde nicht allgemein angenommen. 433 söhnten sich Kyrill und Johannes von Antiochien aus, die Unionsformel gilt als Ende des Streits zwischen Alexandrien und Antiochien."
+                "Maria ist Theotokos, weil sie den Gottessohn als Menschen geboren hat.",
+                "Christus ist eine Person, wahrer Gott und wahrer Mensch, die beiden Naturen sind ohne Vermischung vereint.",
+                "Nestorius wird abgesetzt und verurteilt. Später wird er verbannt.",
+                "Das Glaubensbekenntnis von Nicaea gilt als ausreichend. Ein anderes darf nicht aufgestellt werden.",
+                "Zypern wird in seiner Unabhängigkeit von Antiochien bestätigt."
               ],
               "en": [
                 "Mary is Theotokos, because she bore the Son of God as a man.",
-                "Christ is one person, true God and true man, and the two natures are united without confusion.",
-                "Nestorius was deposed and condemned.",
-                "The teaching of Ephesus was not accepted by everyone. In 433 Cyril and John of Antioch reconciled, and the Formula of Union is regarded as the end of the dispute between Alexandria and Antioch."
+                "Christ is one person, true God and true man, with the two natures united without confusion.",
+                "Nestorius is deposed and condemned. He is later exiled.",
+                "The Creed of Nicaea is declared sufficient. No other creed may be composed.",
+                "Cyprus is confirmed in its independence from Antioch."
               ]
             }
           },
@@ -825,8 +934,51 @@
               "en": "Significance today"
             },
             "text": {
-              "de": "Ephesus ist das dritte ökumenische Konzil. Der Titel Theotokos bleibt in der Ostkirche und in der katholischen Kirche zentral, besonders in der Marienverehrung. Die Entscheidung über die Einheit Christi prägt bis heute die christliche Lehre von der Menschwerdung. Ephesus zeigte zugleich, wie stark der Kaiser in die Entscheidungen der Kirche eingriff.",
-              "en": "Ephesus is the third ecumenical council. The title Theotokos remains central in the Eastern and Catholic Churches, especially in devotion to Mary. The decision on the unity of Christ still shapes Christian teaching on the Incarnation. Ephesus also showed how strongly the emperor intervened in the decisions of the Church."
+              "de": "Ephesus ist das dritte ökumenische Konzil. Der Titel Theotokos bleibt in der Ostkirche und in der katholischen Kirche zentral, besonders in der Marienverehrung. Ephesus zeigte zugleich, wie stark der Kaiser in die Entscheidungen der Kirche eingriff.",
+              "en": "Ephesus is the third ecumenical council. The title Theotokos remains central in the Eastern and Catholic Churches, especially in devotion to Mary. Ephesus also showed how strongly the emperor intervened in the decisions of the Church."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Der Streit um den Titel",
+              "en": "The dispute over the title"
+            },
+            "text": {
+              "de": "Nestorius schlug vor, Maria Christotokos („Christusgebärerin“) zu nennen. Kyrill sah darin eine Trennung der Person Christi: Wenn Maria nur den Menschen geboren hat, würde Gott in Christus nicht wirklich Mensch geworden sein. Für Kyrill war Theotokos deshalb die Antwort auf die Frage, wer geboren wurde.",
+              "en": "Nestorius proposed calling Mary Christotokos (“Christ-bearer”). Cyril saw in this a division of the person of Christ: if Mary had borne only the man, God would not truly have become man in Christ. For Cyril, Theotokos was therefore the answer to the question of who was born."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Wer war dabei",
+              "en": "Who took part"
+            },
+            "text": {
+              "de": "Die Zahlen schwanken. Kyrill zählte zu Beginn etwa 50 Bischöfe auf seiner Seite, Nestorius 16, Memnon brachte rund 52 mit. Kyrills Versammlung nannte später 210 Bischöfe, die Gegensynode des Johannes 43. Insgesamt wird meist von 150 bis 200 Teilnehmern gesprochen. Dazu kamen kaiserliche Beamte, päpstliche Legaten und Priester.",
+              "en": "The figures vary. At the start Cyril had about 50 bishops on his side, Nestorius 16, and Memnon brought about 52. Cyril’s assembly later named 210 bishops, John’s rival synod 43. Overall, between 150 and 200 participants are usually given. In addition there were imperial officials, papal legates and priests."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Die Beschlüsse im Einzelnen",
+              "en": "The decisions in detail"
+            },
+            "items": {
+              "de": [
+                "In einer Sitzung wurde festgelegt, dass keine Lehre über die früheren ökumenischen Konzile hinaus vorgetragen werden darf.",
+                "Das Bekenntnis von Nicaea wird als ausreichend erklärt; ein anderes darf nicht aufgestellt werden.",
+                "In einer späteren Sitzung wird die Unabhängigkeit der Kirche von Zypern von Antiochien bestätigt.",
+                "Die Lehre von Ephesus war nicht für alle sofort annehmbar. 433 einigten sich Kyrill und Johannes von Antiochien auf eine Unionsformel."
+              ],
+              "en": [
+                "One session decided that no doctrine beyond what the earlier ecumenical councils defined may be put forward.",
+                "The Creed of Nicaea is declared sufficient; no other creed may be composed.",
+                "In a later session the independence of the Church of Cyprus from Antioch is confirmed.",
+                "The teaching of Ephesus was not immediately acceptable to all. In 433 Cyril and John of Antioch agreed on a formula of union."
+              ]
             }
           }
         ],
@@ -842,6 +994,78 @@
           {
             "title": "Wikipedia (en) – Council of Ephesus",
             "url": "https://en.wikipedia.org/wiki/Council_of_Ephesus"
+          }
+        ],
+        "glossary": [
+          {
+            "term": {
+              "de": "Theotokos",
+              "en": "Theotokos"
+            },
+            "text": {
+              "de": "Griechisch für „Gottesgebärerin“: Maria hat den Gottessohn als Menschen geboren.",
+              "en": "Greek for “God-bearer”: Mary bore the Son of God as a man."
+            }
+          },
+          {
+            "term": {
+              "de": "Patriarch",
+              "en": "Patriarch"
+            },
+            "text": {
+              "de": "Leitender Bischof einer großen Kirchenregion, etwa Konstantinopel, Alexandrien oder Antiochien.",
+              "en": "The leading bishop of a major Church region, such as Constantinople, Alexandria or Antioch."
+            }
+          },
+          {
+            "term": {
+              "de": "Natur",
+              "en": "Nature"
+            },
+            "text": {
+              "de": "In der Christologie: das Wesen, das göttlich oder menschlich ist. Christus hat beide Naturen.",
+              "en": "In Christology: the essence, which is either divine or human. Christ has both natures."
+            }
+          },
+          {
+            "term": {
+              "de": "Legat",
+              "en": "Legate"
+            },
+            "text": {
+              "de": "Gesandter, der im Auftrag des Papstes oder des Kaisers spricht.",
+              "en": "An envoy who speaks on behalf of the pope or the emperor."
+            }
+          },
+          {
+            "term": {
+              "de": "Gegensynode",
+              "en": "Rival synod"
+            },
+            "text": {
+              "de": "Eine Versammlung, die sich gegen eine bereits tagende Synode stellt.",
+              "en": "An assembly set against a synod already in session."
+            }
+          },
+          {
+            "term": {
+              "de": "Absetzung",
+              "en": "Deposition"
+            },
+            "text": {
+              "de": "Der Entzug des Bischofsamts durch ein Konzil oder eine Synode.",
+              "en": "The removal of a bishop from office by a council or synod."
+            }
+          },
+          {
+            "term": {
+              "de": "Unionsformel",
+              "en": "Formula of Union"
+            },
+            "text": {
+              "de": "Die Einigungserklärung von 433 zwischen Alexandrien und Antiochien.",
+              "en": "The 433 statement of agreement between Alexandria and Antioch."
+            }
           }
         ]
       },
