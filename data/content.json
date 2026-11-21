@@ -246,12 +246,12 @@
       {
         "year": "313",
         "title": {
-          "de": "Mailänder Edikt",
-          "en": "Edict of Milan"
+          "de": "Das Mailänder Edikt",
+          "en": "The Edict of Milan"
         },
         "text": {
-          "de": "Die Kaiser Konstantin und Licinius vereinbaren in Mailand die Religionsfreiheit. Im Juni 313 verkündet Licinius im Osten den Erlass, der Christen ihren beschlagnahmten Besitz zurückgibt.",
-          "en": "The emperors Constantine and Licinius agree religious freedom at Milan. In June 313 Licinius proclaims the decree in the East, which restores confiscated property to Christians."
+          "de": "Konstantin und Licinius vereinbaren in Mailand die Religionsfreiheit. Im Juni 313 verkündet Licinius im Osten den Erlass, der Christen ihren Besitz zurückgibt.",
+          "en": "Constantine and Licinius agree religious freedom at Milan. In June 313 Licinius proclaims the decree in the East, which restores property to Christians."
         },
         "status": "review",
         "major": true,
@@ -261,8 +261,8 @@
           "en": "Constantine and Licinius agree full religious freedom for everyone in the empire at Milan. Christians recover confiscated property, including church property."
         },
         "details": {
-          "de": "Eine Urkunde „Mailänder Edikt“ gibt es nicht. Der Name ist eine spätere Bezeichnung. Überliefert ist vor allem der Erlass des Licinius vom Juni 313 aus Nikomedien: in lateinischer Fassung bei Laktanz, in griechischer bei Eusebius.",
-          "en": "There is no document called the “Edict of Milan”. The name is a later label. What survives is mainly Licinius’ decree of June 313 from Nicomedia: a Latin version in Lactantius and a Greek one in Eusebius."
+          "de": "Eine Urkunde mit diesem Namen gibt es nicht. Überliefert ist vor allem der Erlass des Licinius vom Juni 313 aus Nikomedien, lateinisch bei Laktanz, griechisch bei Eusebius.",
+          "en": "No document with this name survives. What we have is mainly Licinius’ decree of June 313 from Nicomedia, preserved in Latin by Lactantius and in Greek by Eusebius."
         },
         "sections": [
           {
@@ -271,35 +271,53 @@
               "en": "Background"
             },
             "text": {
-              "de": "Die „Große Verfolgung“ unter Diokletian begann 303. Sie zerstörte Kirchen und Bücher und zwang viele Christen zum Opfer für den Kaiser. Im Jahr 311 erließ Galerius, der im Osten herrschte, in Nikomedien ein Toleranzedikt (am 30. April 311). Doch die Verfolgung ging im Osten unter Maximinus Daia weiter. Erst nach dessen Niederlage gegen Licinius im Frühjahr 313 war die Lage eindeutig geklärt.",
-              "en": "The “Great Persecution” under Diocletian began in 303. It destroyed churches and books and forced many Christians to sacrifice to the emperor. In 311 Galerius, who ruled in the East, issued an edict of toleration at Nicomedia (30 April 311). But in the East the persecution continued under Maximinus Daia. Only after his defeat by Licinius in spring 313 was the situation clearly settled."
+              "de": "Die „Große Verfolgung“ unter Diokletian begann 303. Sie zerstörte Kirchen und Bücher und zwang viele Christen zum Opfer für den Kaiser. Im Jahr 311 erließ Galerius, der im Osten herrschte, in Nikomedien ein Toleranzedikt. Die Verfolgung ging im Osten unter Maximinus Daia dennoch weiter.",
+              "en": "The “Great Persecution” under Diocletian began in 303. It destroyed churches and books and forced many Christians to sacrifice to the emperor. In 311 Galerius, who ruled in the East, issued an edict of toleration at Nicomedia. Under Maximinus Daia, however, the persecution continued in the East."
             }
           },
           {
             "heading": {
-              "de": "Was geschah",
-              "en": "What happened"
-            },
-            "text": {
-              "de": "Konstantin, der im Westen herrschte, und Licinius, der im Osten herrschte, trafen sich in Mailand (Mediolanum). Die Vereinbarung wurde im Februar 313 geschlossen. Im Juni 313 verkündete Licinius in Nikomedien einen Erlass für den Osten. Darin heißt es, die beiden wollten Christen und anderen die volle Freiheit geben, die Religion zu pflegen, die jeder bevorzugt. Die bisherigen Einschränkungen für Christen wurden aufgehoben. Beschlagnahmter Besitz der Christen sollte ihnen ohne Entgelt und ohne Ansprüche zurückgegeben werden, auch Kirchengüter. Die Kirchen galten dabei als Eigentum der christlichen Gemeinschaft, nicht einzelner Personen. Wer den Besitz inzwischen gekauft hatte und ihn zurückgab, konnte über den Statthalter beim kaiserlichen Schatz Entschädigung verlangen. Der Erlass sollte öffentlich bekannt gemacht werden.",
-              "en": "Constantine, who ruled in the West, and Licinius, who ruled in the East, met at Milan (Mediolanum). The agreement was concluded in February 313. In June 313 Licinius proclaimed a decree for the East at Nicomedia. In it the two emperors state that they want to give Christians and others full freedom to follow whatever religion each prefers. The previous restrictions on Christians were lifted. Confiscated property of the Christians was to be returned to them without payment or any claim for compensation, including church property. The churches were treated as belonging to the Christian community as a corporate body, not to individuals. Anyone who had since bought such property and returned it could claim compensation from the imperial treasury through the governor. The decree was to be made public."
-            }
-          },
-          {
-            "heading": {
-              "de": "Edikt oder Übereinkunft?",
-              "en": "Edict or agreement?"
+              "de": "Ablauf",
+              "en": "Sequence"
             },
             "items": {
               "de": [
-                "Die Vereinbarung von Mailand ist die politische Grundlage. Der Erlass des Licinius ist die schriftliche Fassung, die wir kennen.",
-                "Die Quellen beschreiben eher eine Übereinkunft zweier Herrscher als einen einzelnen Erlass.",
-                "Ein genaues Protokoll oder eine Urkunde von Mailand ist nicht erhalten."
+                "303: Diokletian beginnt die Große Verfolgung mit einem ersten Edikt im Februar.",
+                "30. April 311: Galerius erlässt in Nikomedien sein Toleranzedikt, kurz vor seinem Tod.",
+                "Frühjahr 313: Licinius besiegt Maximinus Daia und herrscht danach im Osten.",
+                "Februar 313: Konstantin, der im Westen herrscht, und Licinius treffen sich in Mailand und einigen sich.",
+                "Juni 313: Licinius verkündet den Erlass in Nikomedien für den Osten.",
+                "Danach soll der Erlass öffentlich bekannt gemacht werden."
               ],
               "en": [
-                "The Milan agreement is the political basis. Licinius’ decree is the written form we know.",
-                "The sources describe an agreement between two rulers rather than a single edict.",
-                "No exact record or document from Milan survives."
+                "303: Diocletian begins the Great Persecution with a first edict in February.",
+                "30 April 311: Galerius issues his edict of toleration at Nicomedia, shortly before his death.",
+                "Spring 313: Licinius defeats Maximinus Daia and then rules the East.",
+                "February 313: Constantine, who rules in the West, and Licinius meet at Milan and agree.",
+                "June 313: Licinius proclaims the decree for the East at Nicomedia.",
+                "The decree is then to be made public."
+              ]
+            }
+          },
+          {
+            "heading": {
+              "de": "Ergebnis",
+              "en": "Outcome"
+            },
+            "items": {
+              "de": [
+                "Christen dürfen ihre Religion frei ausüben und ihre Gottesdienste halten.",
+                "Beschlagnahmte Kirchen- und Gemeindegüter werden ohne Entgelt zurückgegeben.",
+                "Wer diesen Besitz inzwischen gekauft hatte, kann eine Entschädigung verlangen.",
+                "Die Kirchen gelten als Eigentum der Gemeinschaft, nicht einzelner Personen.",
+                "Mit dem Erlass endet die staatliche Verfolgung im ganzen Reich."
+              ],
+              "en": [
+                "Christians may practise their religion freely and hold their services.",
+                "Confiscated church and community property is returned without payment.",
+                "Anyone who has since bought such property may claim compensation.",
+                "The churches are regarded as belonging to the community, not to individuals.",
+                "With the decree the state persecution ends throughout the empire."
               ]
             }
           },
@@ -309,8 +327,51 @@
               "en": "Significance today"
             },
             "text": {
-              "de": "Mit diesem Schritt endete die staatliche Verfolgung der Christen im ganzen Reich. Die Kirche konnte sich öffentlich entfalten. Konstantin wurde zum Förderer des Christentums, und damit begann eine engere Verbindung von Kirche und Kaisertum, die für die späteren Jahrhunderte prägend war.",
-              "en": "With this step the state persecution of Christians ended throughout the empire. The Church could develop openly. Constantine became a patron of Christianity, and this began a closer link between Church and empire that shaped the following centuries."
+              "de": "Der Erlass gilt oft als Beginn der Religionsfreiheit. Historiker betonen allerdings, dass er zuerst eine Vereinbarung zweier Machthaber war und nicht alle Gegensätze sofort beendete. Konstantin wurde danach zum deutlichen Förderer der Kirche, und daraus wuchs eine enge Verbindung von Kirche und Kaisertum.",
+              "en": "The decree is often regarded as the beginning of religious freedom. Historians stress, however, that it was first an agreement between two rulers and did not end all tensions at once. Constantine then became a clear patron of the Church, and a close link between Church and empire grew out of this."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Der Wortlaut im Überblick",
+              "en": "The wording in brief"
+            },
+            "items": {
+              "de": [
+                "Die Kaiser wollen, dass Christen und anderen „volle Freiheit“ gegeben wird, „jene Religion zu pflegen, die jeder bevorzugt“.",
+                "Kirchen und Gemeindegüter sollen „ohne Zahlung oder irgendeinen Anspruch auf Ersatz“ zurückgegeben werden.",
+                "Wer Besitz zurückgibt, kann auf eine Entschädigung „aus unserer Großzügigkeit“ hoffen.",
+                "Der Statthalter soll den Erlass öffentlich verkünden, damit er nicht verborgen bleiben kann."
+              ],
+              "en": [
+                "The emperors wish to grant Christians and others “full authority to observe that religion which each preferred”.",
+                "Places of assembly and other corporate Christian property are to be returned “without payment or any claim of recompense”.",
+                "Those who return property may hope for “an indemnity from our bounty”.",
+                "The governor is ordered to have the decree announced publicly, so that it cannot be concealed."
+              ]
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Edikt oder Übereinkunft?",
+              "en": "Edict or agreement?"
+            },
+            "text": {
+              "de": "Die Vereinbarung von Mailand ist die politische Grundlage. Der Erlass des Licinius ist die schriftliche Fassung, die wir kennen. Ein Protokoll oder eine Urkunde aus Mailand ist nicht erhalten. Deshalb sprechen Fachleute oft von der „Mailänder Übereinkunft“ oder vom „Mailänder Edikt“, je nachdem, welche Quelle sie meinen.",
+              "en": "The Milan agreement is the political basis. Licinius’ decree is the written form we know. No record or document from Milan survives. That is why specialists speak of the “Milan agreement” or the “Edict of Milan”, depending on which source they mean."
+            }
+          },
+          {
+            "deep": true,
+            "heading": {
+              "de": "Die Quellen",
+              "en": "The sources"
+            },
+            "text": {
+              "de": "Laktanz hat den Wortlaut des Erlasses überliefert, in seiner Schrift „Über die Todesarten der Verfolger“ (De mortibus persecutorum, Kapitel 48). Eusebius hat in seiner Kirchengeschichte (10,5) eine griechische Fassung des Briefes des Licinius aufgenommen. Beide Texte weichen in Einzelheiten ab, stimmen aber im Kern überein.",
+              "en": "Lactantius preserved the wording of the decree in his work On the Deaths of the Persecutors (De mortibus persecutorum, chapter 48). Eusebius included a Greek version of Licinius’ letter in his Ecclesiastical History (10.5). The two texts differ in details but agree in substance."
             }
           }
         ],
@@ -326,6 +387,88 @@
           {
             "title": "Wikipedia (en) – Edict of Milan",
             "url": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+          }
+        ],
+        "glossary": [
+          {
+            "term": {
+              "de": "Edikt",
+              "en": "Edict"
+            },
+            "text": {
+              "de": "Ein amtlicher Erlass eines Herrschers, der für alle im Reich gilt.",
+              "en": "An official decree of a ruler that applies throughout the empire."
+            }
+          },
+          {
+            "term": {
+              "de": "Toleranzedikt",
+              "en": "Edict of toleration"
+            },
+            "text": {
+              "de": "Erlass, der eine Religion zwar duldet, aber nicht unbedingt anerkennt.",
+              "en": "A decree that permits a religion without necessarily recognising it."
+            }
+          },
+          {
+            "term": {
+              "de": "Reskript",
+              "en": "Rescript"
+            },
+            "text": {
+              "de": "Die schriftliche Antwort oder Anweisung eines Kaisers, die an Statthalter gerichtet ist.",
+              "en": "A written imperial answer or instruction addressed to a governor."
+            }
+          },
+          {
+            "term": {
+              "de": "Statthalter",
+              "en": "Governor"
+            },
+            "text": {
+              "de": "Der Verwalter einer Provinz, der kaiserliche Erlasse umsetzt.",
+              "en": "The administrator of a province, who carries out imperial decrees."
+            }
+          },
+          {
+            "term": {
+              "de": "Restitution",
+              "en": "Restitution"
+            },
+            "text": {
+              "de": "Die Rückgabe von Besitz, der früher weggenommen wurde.",
+              "en": "The return of property that was taken away earlier."
+            }
+          },
+          {
+            "term": {
+              "de": "Entschädigung",
+              "en": "Compensation"
+            },
+            "text": {
+              "de": "Ausgleich für Besitz, den jemand in gutem Glauben gekauft und zurückgegeben hat.",
+              "en": "Payment for property that someone bought in good faith and then returned."
+            }
+          },
+          {
+            "term": {
+              "de": "Kaiserlicher Schatz",
+              "en": "Imperial treasury"
+            },
+            "text": {
+              "de": "Die Kasse des Kaisers, aus der Zahlungen geleistet werden.",
+              "en": "The emperor’s treasury, from which payments were made."
+            }
+          },
+          {
+            "term": {
+              "de": "Maximinus Daia",
+              "en": "Maximinus Daia"
+            },
+            "text": {
+              "de": "Mitkaiser im Osten, der die Verfolgung bis 313 fortsetzte und Licinius unterlag.",
+              "en": "Co-emperor in the East, who continued the persecution until 313 and was defeated by Licinius."
+            }
           }
         ]
       },
