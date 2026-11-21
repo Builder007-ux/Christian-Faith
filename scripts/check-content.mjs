@@ -45,6 +45,21 @@ function walk(path, node) {
 
 walk('', data);
 
+// Formatprüfung (nur Hinweise, kein Fehler): siehe docs/FORMAT.md
+const h = data.history || {};
+const formatted = [...(h.timeline || []), ...(h.persons || [])];
+const missing = [];
+for (const e of formatted) {
+  const why = [];
+  if (!e.glossary || e.glossary.length < 4) why.push("Wörter fehlen");
+  if (!e.sections || !e.sections.some((s) => s.items)) why.push("Ablauf als Liste fehlt");
+  if (!e.sections || !e.sections.some((s) => s.deep)) why.push("keine Vertiefung");
+  if (!e.sources || e.sources.length < 2) why.push("weniger als zwei Quellen");
+  if (why.length) missing.push(`${e.id}: ${why.join(", ")}`);
+}
+console.log(`Nach Format (docs/FORMAT.md): ${formatted.length - missing.length} von ${formatted.length} Einträgen`);
+if (missing.length) console.log("Noch nicht im Format:\n  " + missing.join("\n  "));
+
 console.log(`\nGeprüfte Einträge: ${total}`);
 console.log(`Noch nicht freigegeben (status != approved): ${unreviewed}`);
 console.log(`Fehlende Übersetzungen für [${langs.join(', ')}]: ${problems}`);

@@ -1,0 +1,23 @@
+{
+  "id": "ev-XXXX",
+  "year": "0000",
+  "title": { "de": "Titel", "en": "Title" },
+  "status": "review",
+  "major": false,
+  "summary": { "de": "Ein bis zwei Sätze.", "en": "One or two sentences." },
+  "details": { "de": "Einordnung.", "en": "Context." },
+  "glossary": [
+    { "term": { "de": "Begriff", "en": "Term" }, "text": { "de": "Erklärung.", "en": "Explanation." } }
+  ],
+  "sections": [
+    { "heading": { "de": "Hintergrund", "en": "Background" }, "text": { "de": "", "en": "" } },
+    { "heading": { "de": "Ablauf", "en": "Sequence" }, "items": { "de": [], "en": [] } },
+    { "heading": { "de": "Ergebnis", "en": "Outcome" }, "items": { "de": [], "en": [] } },
+    { "heading": { "de": "Bedeutung heute", "en": "Significance today" }, "text": { "de": "", "en": "" } },
+    { "deep": true, "heading": { "de": "Vertiefung", "en": "Deeper reading" }, "text": { "de": "", "en": "" } }
+  ],
+  "sources": [
+    { "title": "Quelle 1", "url": "https://" },
+    { "title": "Quelle 2", "url": "https://" }
+  ]
+}
